@@ -1,5 +1,5 @@
 if (!require(pacman)) install.packages("pacman")
-pacman::p_load("tidyverse", "rvest", "RSelenium", "jsonlite")
+pacman::p_load("tidyverse", "rvest", "RSelenium")
 
 url <- "https://programsandcourses.anu.edu.au/catalogue"
 
@@ -11,12 +11,7 @@ remDr <- remoteDriver(
   browserName = "firefox"
 )
 remDr$open()
-# remDr$navigate("http://www.statbroadcast.com/events/archived.php?id=107165")
 remDr$navigate(url)
-
-# data <- current_doc %>%
-#   html_node(xpath = "/html/body/div[5]/form/div/div/div/div/div[3]/div[3]/table") %>%
-#   html_table()
 
 webElem <- remDr$findElement(using = "xpath", "/html/body/div[5]/div[2]/div[1]/div/div/button[2]")
 webElem$clickElement()
@@ -30,7 +25,7 @@ data <- current_doc %>%
   html_node(xpath = "/html/body/div[5]/form/div/div/div/div/div[3]/div[3]/table") %>%
   html_table()
 
-data <- write_json(data, "data/anu.json")
+data <- write_delim(data, delim=",", "./01-ANU/anu.csv")
 
 remDr$close()
 rm(list=ls())
