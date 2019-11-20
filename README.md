@@ -28,12 +28,18 @@ Execute the commands in `ANU.R`, and a collection of courses would be stored in 
 
 ## [UMel](https://handbook.unimelb.edu.au/search?types%5B%5D=subject&year=2019&level_type%5B%5D=all&campus_and_attendance_mode%5B%5D=all&org_unit%5B%5D=all&page=1&sort=_score%7Cdesc)
 
-The webpage showing all courses info is paginated
+The webpage showing all courses info is paginated. Initially, I thought we need to do these extra steps:
+
+- Accept cookies;
+- Get total page numbers;
+- Navigate automatically.
+
+With a popup window telling me to accept cookies, I turned myself to Selenium again for help. But it was really painful to deal with an error caused by `remDr$navigate(new_url)`, especailly it kept displaying an `UnknownError` message. Well, the ending of this story is not too bad as I realized I could just keep the popup window hanging. Screw Selenium!
 
 ## Todo
 
 - [x] ANU
-- [ ] UMel
+- [x] UMel
 - [ ] USyd
 - [ ] UNSW
 - [ ] UQ
@@ -41,3 +47,7 @@ The webpage showing all courses info is paginated
 - [ ] UW
 - [ ] UA
 - [ ] UC
+
+## Useful Links
+
+- [Scraping HTML Text](http://bradleyboehmke.github.io/2015/12/scraping-html-text.html)
