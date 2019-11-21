@@ -25,7 +25,7 @@ data <- current_doc %>%
   html_node(xpath = "/html/body/div[5]/form/div/div/div/div/div[3]/div[3]/table") %>%
   html_table()
 
-data <- write_delim(data, delim=",", "./01-ANU/anu.csv")
+write_delim(data, delim=",", "./01-ANU/anu.csv")
 
 remDr$close()
 rm(list=ls())

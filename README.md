@@ -36,6 +36,60 @@ The webpage showing all courses info is paginated. Initially, I thought we need 
 
 With a popup window telling me to accept cookies, I turned myself to Selenium again for help. But it was really painful to deal with an error caused by `remDr$navigate(new_url)`, especailly it kept displaying an `UnknownError` message. Well, the ending of this story is not too bad as I realized I could just keep the popup window hanging. Screw Selenium!
 
+## [USyd](https://sydney.edu.au/courses/search.html)
+
+### Day 1
+
+Different error every time.
+
+Error Message:
+
+```
+Selenium message:Browsing context has been discarded
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '7de870fafffd', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.184-linuxkit', java.version: '1.8.0_222'
+Driver info: driver.version: unknown
+
+Error: 	 Summary: NoSuchWindow
+ 	 Detail: A request to switch to a different window could not be satisfied because the window could not be found.
+ 	 class: org.openqa.selenium.NoSuchWindowException
+	 Further Details: run errorDetails method
+```
+
+Error message 2:
+
+```
+Selenium message:Unable to locate element: #b-js-course-search-results-uos > div:nth-child(1) > div:nth-child(3) > a:nth-child(7)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '7de870fafffd', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.9.184-linuxkit', java.version: '1.8.0_222'
+Driver info: driver.version: unknown
+
+Error: 	 Summary: NoSuchElement
+ 	 Detail: An element could not be located on the page using the given search parameters.
+ 	 class: org.openqa.selenium.NoSuchElementException
+	 Further Details: run errorDetails method
+```
+
+### Day 2
+
+Turns out loading JavaScript takes a while on their webiste. Adding some downtime to each click on the web would be a nice solution.
+
+## UNSW
+
+- http://timetable.unsw.edu.au/2020/subjectSearch.html
+- https://www.handbook.unsw.edu.au/
+
+## UQ
+
+## Monash
+
+## UW
+
+## UA
+
+## UC
+
 ## Todo
 
 - [x] ANU
@@ -51,3 +105,4 @@ With a popup window telling me to accept cookies, I turned myself to Selenium ag
 ## Useful Links
 
 - [Scraping HTML Text](http://bradleyboehmke.github.io/2015/12/scraping-html-text.html)
+- 
