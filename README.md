@@ -18,7 +18,9 @@ To stop Selenium, use this:
 docker stop [container_id]
 ```
 
-## [ANU](https://programsandcourses.anu.edu.au/catalogue)
+## The Australian National University
+
+**[Source](https://programsandcourses.anu.edu.au/catalogue)**
 
 The content is inserted via JavaScript. So Selenium is required to render information before extracting real data.
 
@@ -26,7 +28,9 @@ In order to navigate to current page for scraping, a user need to click on ***Co
 
 Execute the commands in `ANU.R`, and a collection of courses would be stored in json format in directory `data`.
 
-## [UMel](https://handbook.unimelb.edu.au/search?types%5B%5D=subject&year=2019&level_type%5B%5D=all&campus_and_attendance_mode%5B%5D=all&org_unit%5B%5D=all&page=1&sort=_score%7Cdesc)
+## University of Melbourne
+
+**[Source](https://handbook.unimelb.edu.au/search?types%5B%5D=subject&year=2019&level_type%5B%5D=all&campus_and_attendance_mode%5B%5D=all&org_unit%5B%5D=all&page=1&sort=_score%7Cdesc)**
 
 The webpage showing all courses info is paginated. Initially, I thought we need to do these extra steps:
 
@@ -36,7 +40,9 @@ The webpage showing all courses info is paginated. Initially, I thought we need 
 
 With a popup window telling me to accept cookies, I turned myself to Selenium again for help. But it was really painful to deal with an error caused by `remDr$navigate(new_url)`, especailly it kept displaying an `UnknownError` message. Well, the ending of this story is not too bad as I realized I could just keep the popup window hanging. Screw Selenium!
 
-## [USyd](https://sydney.edu.au/courses/search.html)
+## University of Sydney
+
+**[Source](https://sydney.edu.au/courses/search.html)**
 
 ### Day 1
 
@@ -75,27 +81,33 @@ Error: 	 Summary: NoSuchElement
 
 Turns out loading JavaScript takes a while on their webiste. Adding some downtime to each click on the web would be a nice solution.
 
-## UNSW
+## University of New South West
 
-- http://timetable.unsw.edu.au/2020/subjectSearch.html
-- https://www.handbook.unsw.edu.au/
+**[Source](http://timetable.unsw.edu.au/2020/subjectSearch.html)**
 
-## UQ
+The only thing worth mentioning is different subject pages might contain different number of "sections". Some area of subject has three sections: *undergraduate, postgraduate* and *research*. But some only has one.
 
-## Monash
+## University of Queesland
 
-## UW
+- https://my.uq.edu.au/programs-courses/browse.html?level=ugpg
+- https://my.uq.edu.au/programs-courses/browse.html?level=pgpg
 
-## UA
+## Monash University
 
-## UC
+- http://www.monash.edu/pubs/2019handbooks/units/index-bycode.html
+
+## University of Western Australia
+
+## University of Adelaide
+
+## University of Canberra
 
 ## Todo
 
 - [x] ANU
 - [x] UMel
-- [ ] USyd
-- [ ] UNSW
+- [x] USyd
+- [x] UNSW
 - [ ] UQ
 - [ ] Monash
 - [ ] UW
@@ -105,4 +117,3 @@ Turns out loading JavaScript takes a while on their webiste. Adding some downtim
 ## Useful Links
 
 - [Scraping HTML Text](http://bradleyboehmke.github.io/2015/12/scraping-html-text.html)
-- 
