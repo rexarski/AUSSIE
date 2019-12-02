@@ -1,0 +1,234 @@
+code,unit,title,major
+CSSE2002,2,Programming in the Large,User Experience Design
+DECO2200,2,Graphic Design,User Experience Design
+DECO2300,2,Digital Prototyping,User Experience Design
+DECO2500,2,Human-Computer Interaction,User Experience Design
+DECO3500,2,Social & Mobile Computing,User Experience Design
+DECO3850,4,Physical Computing & Interaction Design Studio,User Experience Design
+ACCT3101,2,Auditing & Public Practice,
+ACCT3102,2,External Reporting Issues,
+ACCT3103,2,Advanced Financial Accounting,
+ACCT3104,2,Management Accounting,
+ACCT3106,2,Analysis of Financial Statements,
+BISM2206,2,Accounting Information and Software Applications,
+LAWS3100,2,Corporations Law,
+LAWS3101,2,Income Tax Law,
+BISM2202,2,Data Analytics and Information Management,
+BISM2207,2,Managing Business Data,
+BISM3208,2,Information Systems Strategy,
+BISM3222,2,Information Analysis and System Design,
+BISM2203,2,Business Process Management,
+BISM3205,2,Business Information Security,
+BISM3206,2,Advanced Data Analytics,
+ECON2300,2,Introductory Econometrics,
+"[	
+	ECON3210",2,Financial Markets & Institutions,
+[ or,NA,[ or,
+"[	
+	FINM3404",2,Banking & Lending Decisions,
+FINM2415,2,Corporate Finance,
+FINM2416,2,Asset Pricing,
+FINM3403,2,International Financial Management,
+FINM3405,2,Derivatives and Risk Management,
+ACCT3101,2,Auditing & Public Practice,
+ACCT3102,2,External Reporting Issues,
+ACCT3103,2,Advanced Financial Accounting,
+ACCT3104,2,Management Accounting,
+ACCT3106,2,Analysis of Financial Statements,
+BISM2206,2,Accounting Information and Software Applications,
+LAWS3100,2,Corporations Law,
+LAWS3101,2,Income Tax Law,
+ARCA1000,2,Discovering Archaeology,Archaeological Science (Major)
+ARCS1001,2,Doing Archaeology,Archaeological Science (Major)
+ARCS2000,2,Science in Archaeology,Archaeological Science (Major)
+ARCS3010,2,Field Archaeology,Archaeological Science (Major)
+ARCS3118,2,"Managing Cultural Heritage: Ethics, History and Practice",Archaeological Science (Major)
+ARCS2003,2,Forensics: The Archaeology of Death & Crime Scenes,Archaeological Science (Major)
+ARCS2011,2,Lithic Analysis: Current and Future Directions for Research and Heritage Management,Archaeological Science (Major)
+ARCS2050,2,Historical Archaeology,Archaeological Science (Major)
+ARCS2060,2,Archaeology Field School,Archaeological Science (Major)
+ARCS2080,2,"Plants and Archaeology: Food, fuel, foraging and farming in the human past",Archaeological Science (Major)
+ARCS2090,2,Animals and Archaeology: Analytical approaches to understanding past human-animal relationships,Archaeological Science (Major)
+ARCS2010,2,Ancient Technologies: Experimental and Analytical Approaches to Understanding Past Technologies,Archaeological Science (Major)
+ARCA2020,2,Australasian Archaeology,Archaeological Science (Major)
+ARCS2025,2,Archaeology of the Pacific Islands,Archaeological Science (Major)
+ARCS2070,2,Bioarchaeology: Human remains and ancient disease,Archaeological Science (Major)
+BIOL2201,2,Evolution,Archaeological Science (Major)
+ERTH2002,2,Paleobiology,Archaeological Science (Major)
+ERTH2003,2,"Sedimentology, Stratigraphy and Paleoenvironments",Archaeological Science (Major)
+ERTH2005,2,Mineralogy,Archaeological Science (Major)
+GEOS2100,2,Environmental Systems,Archaeological Science (Major)
+GEOS2103,2,Biogeography & Geomorphology,Archaeological Science (Major)
+ARCA3000,2,Predicting the Past,Archaeological Science (Major)
+ARCS3001,2,Advanced Research in Archaeology,Archaeological Science (Major)
+ARCS3168,2,Human Evolution,Archaeological Science (Major)
+BIOL3209,2,"Biodiversity Analysis, Discovery and Systematics",Archaeological Science (Major)
+ERTH3103,2,Sedimentary Environments,Archaeological Science (Major)
+ERTH3205,2,Geochemistry and Geochronology,Archaeological Science (Major)
+GEOS3107,2,"Plants, People and the Environment",Archaeological Science (Major)
+PSYC3262,2,Evolutionary Approaches to Human Behaviour,Archaeological Science (Major)
+ARCA1000,2,Discovering Archaeology,Archaeological Science (Extended Major)
+ARCS1001,2,Doing Archaeology,Archaeological Science (Extended Major)
+ARCA2020,2,Australasian Archaeology,Archaeological Science (Extended Major)
+ARCS2000,2,Science in Archaeology,Archaeological Science (Extended Major)
+ARCS2011,2,Lithic Analysis: Current and Future Directions for Research and Heritage Management,Archaeological Science (Extended Major)
+ARCS3010,2,Field Archaeology,Archaeological Science (Extended Major)
+ARCS3118,2,"Managing Cultural Heritage: Ethics, History and Practice",Archaeological Science (Extended Major)
+GEOS3107,2,"Plants, People and the Environment",Archaeological Science (Extended Major)
+ARCS2003,2,Forensics: The Archaeology of Death & Crime Scenes,Archaeological Science (Extended Major)
+ARCS2010,2,Ancient Technologies: Experimental and Analytical Approaches to Understanding Past Technologies,Archaeological Science (Extended Major)
+ARCS2025,2,Archaeology of the Pacific Islands,Archaeological Science (Extended Major)
+ARCS2050,2,Historical Archaeology,Archaeological Science (Extended Major)
+ARCS2060,2,Archaeology Field School,Archaeological Science (Extended Major)
+ARCS2070,2,Bioarchaeology: Human remains and ancient disease,Archaeological Science (Extended Major)
+ARCS2080,2,"Plants and Archaeology: Food, fuel, foraging and farming in the human past",Archaeological Science (Extended Major)
+ARCS2090,2,Animals and Archaeology: Analytical approaches to understanding past human-animal relationships,Archaeological Science (Extended Major)
+BIOL2201,2,Evolution,Archaeological Science (Extended Major)
+ERTH2002,2,Paleobiology,Archaeological Science (Extended Major)
+ERTH2003,2,"Sedimentology, Stratigraphy and Paleoenvironments",Archaeological Science (Extended Major)
+ERTH2005,2,Mineralogy,Archaeological Science (Extended Major)
+GEOM2001,2,Geographical Information Systems,Archaeological Science (Extended Major)
+GEOS2100,2,Environmental Systems,Archaeological Science (Extended Major)
+GEOS2103,2,Biogeography & Geomorphology,Archaeological Science (Extended Major)
+ARCA3000,2,Predicting the Past,Archaeological Science (Extended Major)
+ARCS3001,2,Advanced Research in Archaeology,Archaeological Science (Extended Major)
+ARCS3168,2,Human Evolution,Archaeological Science (Extended Major)
+BIOL3209,2,"Biodiversity Analysis, Discovery and Systematics",Archaeological Science (Extended Major)
+CONS3017,2,Landscape Ecology,Archaeological Science (Extended Major)
+ERTH3103,2,Sedimentary Environments,Archaeological Science (Extended Major)
+ERTH3205,2,Geochemistry and Geochronology,Archaeological Science (Extended Major)
+PSYC3262,2,Evolutionary Approaches to Human Behaviour,Archaeological Science (Extended Major)
+BIOL1020,2,"Genes, Cells & Evolution",Biochemistry & Molecular Biology (Major)
+BIOL1040,2,Cells to Organisms,Biochemistry & Molecular Biology (Major)
+CHEM1100,2,Chemistry 1,Biochemistry & Molecular Biology (Major)
+BIOC2000,2,Biochemistry & Molecular Biology,Biochemistry & Molecular Biology (Major)
+BIOC3000,2,Advanced Biochemistry and Molecular Biology,Biochemistry & Molecular Biology (Major)
+BIOL2202,2,Genetics,Biochemistry & Molecular Biology (Major)
+BIOL2200,2,Cell Structure & Function,Biochemistry & Molecular Biology (Major)
+BIPH2000,2,Foundations of Biophysics,Biochemistry & Molecular Biology (Major)
+CHEM2052,2,Chemical Biology,Biochemistry & Molecular Biology (Major)
+CHEM2060,2,Intermediate Chemistry 2,Biochemistry & Molecular Biology (Major)
+MICR2000,2,Microbiology & Immunology,Biochemistry & Molecular Biology (Major)
+SCIE2020,2,CSI UQ: Introduction to Forensic Science,Biochemistry & Molecular Biology (Major)
+BIOC3003,2,Human Molecular Genetics & Disease,Biochemistry & Molecular Biology (Major)
+BIOC3005,2,Molecular Systems Biology,Biochemistry & Molecular Biology (Major)
+BIOC3006,2,Biochemistry of Metabolism in Health and Disease,Biochemistry & Molecular Biology (Major)
+BIOL3004,2,Genomics & Bioinformatics,Biochemistry & Molecular Biology (Major)
+BIOL3006,2,Molecular Cell Biology,Biochemistry & Molecular Biology (Major)
+BIPH3001,2,Frontiers in Biophysics,Biochemistry & Molecular Biology (Major)
+CHEM3020,2,Medicinal Chemistry and Chemical Biology,Biochemistry & Molecular Biology (Major)
+BIOL1020,2,"Genes, Cells & Evolution",Bioinformatics (Major)
+BIOL3014,2,Advanced Bioinformatics,Bioinformatics (Major)
+SCIE2100,2,Introduction to Bioinformatics,Bioinformatics (Major)
+"[	
+	BIOC2000",2,Biochemistry & Molecular Biology,Bioinformatics (Major)
+[ or,NA,[ or,Bioinformatics (Major)
+"[	
+	BIOL2202",2,Genetics,Bioinformatics (Major)
+"[	
+	COSC2500",2,Numerical Methods in Computational Science,Bioinformatics (Major)
+[ or,NA,[ or,Bioinformatics (Major)
+"[	
+	CSSE2002",2,Programming in the Large,Bioinformatics (Major)
+[ or,NA,[ or,Bioinformatics (Major)
+"[	
+	INFS2200",2,Relational Database Systems,Bioinformatics (Major)
+"[	
+	BIOL2006",2,Biostatistics & Experimental Design,Bioinformatics (Major)
+[ or,NA,[ or,Bioinformatics (Major)
+"[	
+	STAT2003",2,Mathematical Probability,Bioinformatics (Major)
+BIOC3000,2,Advanced Biochemistry and Molecular Biology,Bioinformatics (Major)
+BIOC3005,2,Molecular Systems Biology,Bioinformatics (Major)
+BIOL3222,2,Model Organism Genetics,Bioinformatics (Major)
+COMP3506,2,Algorithms & Data Structures,Bioinformatics (Major)
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",Bioinformatics (Major)
+COSC3500,2,High-Performance Computing,Bioinformatics (Major)
+INFS3200,2,Advanced Database Systems,Bioinformatics (Major)
+MATH3104,2,Mathematical Biology,Bioinformatics (Major)
+MICR3004,2,Microbial Genomics,Bioinformatics (Major)
+STAT3306,2,Statistical Analysis of Genetic Data,Bioinformatics (Major)
+BIOL1020,2,"Genes, Cells & Evolution",Biomedical Science (Major)
+BIOL1040,2,Cells to Organisms,Biomedical Science (Major)
+CHEM1100,2,Chemistry 1,Biomedical Science (Major)
+BIOL2200,2,Cell Structure & Function,Biomedical Science (Major)
+BIOM3200,2,Biomedical Science,Biomedical Science (Major)
+BIOC2000,2,Biochemistry & Molecular Biology,Biomedical Science (Major)
+BIOL2202,2,Genetics,Biomedical Science (Major)
+BIOM2011,2,Integrative Cell & Tissue Biology,Biomedical Science (Major)
+BIOM2012,2,Systems Physiology,Biomedical Science (Major)
+BIOM2020,2,Human Anatomy,Biomedical Science (Major)
+BIOM2208,2,Differentiation & Development,Biomedical Science (Major)
+BIOM2402,2,Principles of Pharmacology,Biomedical Science (Major)
+MICR2000,2,Microbiology & Immunology,Biomedical Science (Major)
+ANAT3022,2,Functional Neuroanatomy,Biomedical Science (Major)
+BIOC3003,2,Human Molecular Genetics & Disease,Biomedical Science (Major)
+BIOC3005,2,Molecular Systems Biology,Biomedical Science (Major)
+BIOC3006,2,Biochemistry of Metabolism in Health and Disease,Biomedical Science (Major)
+BIOL3003,2,Advanced Immunology,Biomedical Science (Major)
+BIOL3004,2,Genomics & Bioinformatics,Biomedical Science (Major)
+BIOL3006,2,Molecular Cell Biology,Biomedical Science (Major)
+BIOM3002,2,Human Biomedical Anatomy,Biomedical Science (Major)
+BIOM3003,2,Functional Musculoskeletal Anatomy,Biomedical Science (Major)
+BIOM3014,2,Molecular & Cellular Physiology,Biomedical Science (Major)
+BIOM3015,2,Integrative Physiology & Pathophysiology,Biomedical Science (Major)
+BIOM3020,2,Integrated Endocrinology,Biomedical Science (Major)
+BIOM3401,2,Systems Pharmacology,Biomedical Science (Major)
+BIOM3402,2,Experimental Pharmacology,Biomedical Science (Major)
+BIOT3002,2,Drug Design & Development,Biomedical Science (Major)
+DEVB3001,2,Developmental Neurobiology,Biomedical Science (Major)
+DEVB3002,2,Stem Cells and Regenerative Medicine,Biomedical Science (Major)
+MICR3001,2,Microbes & Human Health,Biomedical Science (Major)
+MICR3002,2,Virology,Biomedical Science (Major)
+MICR3003,2,Molecular Microbiology,Biomedical Science (Major)
+NEUR3001,2,Molecular & Cellular Neuroscience,Biomedical Science (Major)
+NEUR3002,2,The Integrated Brain,Biomedical Science (Major)
+SCIE3011,2,Perspectives in Science Research,Biomedical Science (Major)
+SCIE3220,2,Biomedical Science Research Skills,Biomedical Science (Major)
+SCIE3221,2,Biomedical Science Research Project,Biomedical Science (Major)
+SCIE3260,2,"Introduction to Research in Chemistry, Biochemistry & Microbiology (A)",Biomedical Science (Major)
+SCIE3261,2,"Introduction to Research in Chemistry, Biochemistry & Microbiology (B)",Biomedical Science (Major)
+BIOL1020,2,"Genes, Cells & Evolution",Biomedical Science (Extended Major)
+BIOL1040,2,Cells to Organisms,Biomedical Science (Extended Major)
+CHEM1100,2,Chemistry 1,Biomedical Science (Extended Major)
+BIOC2000,2,Biochemistry & Molecular Biology,Biomedical Science (Extended Major)
+BIOL2200,2,Cell Structure & Function,Biomedical Science (Extended Major)
+BIOL2202,2,Genetics,Biomedical Science (Extended Major)
+BIOM2011,2,Integrative Cell & Tissue Biology,Biomedical Science (Extended Major)
+BIOM3200,2,Biomedical Science,Biomedical Science (Extended Major)
+BIOM2012,2,Systems Physiology,Biomedical Science (Extended Major)
+BIOM2020,2,Human Anatomy,Biomedical Science (Extended Major)
+BIOM2208,2,Differentiation & Development,Biomedical Science (Extended Major)
+BIOM2402,2,Principles of Pharmacology,Biomedical Science (Extended Major)
+MICR2000,2,Microbiology & Immunology,Biomedical Science (Extended Major)
+ANAT3022,2,Functional Neuroanatomy,Biomedical Science (Extended Major)
+BIOC3000,2,Advanced Biochemistry and Molecular Biology,Biomedical Science (Extended Major)
+BIOC3003,2,Human Molecular Genetics & Disease,Biomedical Science (Extended Major)
+BIOC3005,2,Molecular Systems Biology,Biomedical Science (Extended Major)
+BIOC3006,2,Biochemistry of Metabolism in Health and Disease,Biomedical Science (Extended Major)
+BIOL3003,2,Advanced Immunology,Biomedical Science (Extended Major)
+BIOL3004,2,Genomics & Bioinformatics,Biomedical Science (Extended Major)
+BIOL3006,2,Molecular Cell Biology,Biomedical Science (Extended Major)
+BIOL3222,2,Model Organism Genetics,Biomedical Science (Extended Major)
+BIOM3002,2,Human Biomedical Anatomy,Biomedical Science (Extended Major)
+BIOM3003,2,Functional Musculoskeletal Anatomy,Biomedical Science (Extended Major)
+BIOM3014,2,Molecular & Cellular Physiology,Biomedical Science (Extended Major)
+BIOM3015,2,Integrative Physiology & Pathophysiology,Biomedical Science (Extended Major)
+BIOM3020,2,Integrated Endocrinology,Biomedical Science (Extended Major)
+BIOM3401,2,Systems Pharmacology,Biomedical Science (Extended Major)
+BIOM3402,2,Experimental Pharmacology,Biomedical Science (Extended Major)
+BIOT3002,2,Drug Design & Development,Biomedical Science (Extended Major)
+CHEM3020,2,Medicinal Chemistry and Chemical Biology,Biomedical Science (Extended Major)
+DEVB3001,2,Developmental Neurobiology,Biomedical Science (Extended Major)
+DEVB3002,2,Stem Cells and Regenerative Medicine,Biomedical Science (Extended Major)
+MICR3001,2,Microbes & Human Health,Biomedical Science (Extended Major)
+MICR3002,2,Virology,Biomedical Science (Extended Major)
+MICR3003,2,Molecular Microbiology,Biomedical Science (Extended Major)
+NEUR3001,2,Molecular & Cellular Neuroscience,Biomedical Science (Extended Major)
+NEUR3002,2,The Integrated Brain,Biomedical Science (Extended Major)
+PARA3002,2,Biomedical Parasitology,Biomedical Science (Extended Major)
+SCIE3011,2,Perspectives in Science Research,Biomedical Science (Extended Major)
+SCIE3220,2,Biomedical Science Research Skills,Biomedical Science (Extended Major)
+SCIE3221,2,Biomedical Science Research Project,Biomedical Science (Extended Major)
+SCIE3260,2,"Introduction to Research in Chemistry, Biochemistry & Microbiology (A)",Biomedical Science (Extended Major)
+SCIE3261,2,"Introduction to Research in Chemistry, Biochemistry & Microbiology (B)",Biomedical Science (Extended Major)

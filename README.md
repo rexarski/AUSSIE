@@ -2,6 +2,37 @@
 
 > Scrape course information Australian universities. Although some of them call programs "courses" and call courses "units". Potato, potato, the same thing.
 
+## Todo
+
+- [x] ANU
+- [x] University of Melbourne
+- [x] University of Sydney
+- [x] UNSW
+- [x] University of Queensland
+- [ ] Monash University
+- [ ] The University of Western Australia
+- [ ] University of Adelaide
+- [ ] The University of Canberra
+- [ ] Bond University
+- [ ] Carnegie Mellon University (Australia Campus)
+- [ ] Charles Sturt University
+- [ ] Curtin University
+- [ ] Deakin University
+- [ ] Griffith University
+- [ ] Macquarie University
+- [ ] Murdoch University
+- [ ] Queensland University of Technology
+- [ ] Royal Melbourne Institute of Technology
+- [ ] Southern Cross University
+- [ ] The University of Newcastle
+- [ ] University of South Australia
+- [ ] University of the Sunshine Coast
+- [ ] University of Tasmania
+- [x] University of Technology Sydney
+- [ ] University of Wollongong
+- [ ] Victoria University
+- [ ] Western Sydney University
+
 ## Setup
 
 To install [RSelenium](https://github.com/ropensci/RSelenium) via Docker, please refer its installation guide.
@@ -89,8 +120,26 @@ The only thing worth mentioning is different subject pages might contain differe
 
 ## University of Queesland
 
-- https://my.uq.edu.au/programs-courses/browse.html?level=ugpg
-- https://my.uq.edu.au/programs-courses/browse.html?level=pgpg
+**[Source 1](https://my.uq.edu.au/programs-courses/browse.html?level=ugpg)** and **[Source 2](https://my.uq.edu.au/programs-courses/browse.html?level=pgpg)**
+
+This one is straightforward and tricky at the same time. The target urls to scrape are not in the same form all the way. Pay attention to this.
+
+There are 3 different types of program pages:
+
+- The normal ones with normal urls to course lists;
+- The ones with different urls to course lists;
+- The ones without any detailed course lists.
+
+Additionally, there are some program pages, though directing to an existing course list page, but it contains nothing substantial.
+
+> Starting from program "Agribusiness" the course list url shifts from:
+> https://my.uq.edu.au/programs-courses/plan_display.html?acad_plan=[program-code]
+> to
+> https://my.uq.edu.au/programs-courses/program_list.html?acad_prog=[program-code]
+> then probably it's better to get the exact url from previous page instead of "putting them together"
+> also major_data is different in the second type of webpage
+
+**breakpoint: 1930**
 
 ## Monash University
 
@@ -102,18 +151,8 @@ The only thing worth mentioning is different subject pages might contain differe
 
 ## University of Canberra
 
-## Todo
-
-- [x] ANU
-- [x] UMel
-- [x] USyd
-- [x] UNSW
-- [ ] UQ
-- [ ] Monash
-- [ ] UW
-- [ ] UA
-- [ ] UC
-
 ## Useful Links
 
 - [Scraping HTML Text](http://bradleyboehmke.github.io/2015/12/scraping-html-text.html)
+- [Convert a list to a data frame](https://stackoverflow.com/questions/4227223/convert-a-list-to-a-data-frame)
+- [R grep pattern regex with brackets](https://stackoverflow.com/questions/7992436/r-grep-pattern-regex-with-brackets)

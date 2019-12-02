@@ -1,0 +1,1158 @@
+code,unit,title,major
+ECON2410,2,Economics of Business Strategy,
+ECON2420,2,The Macroeconomy & Business Conditions,
+ECON2070,2,Introduction to Strategic Thinking,
+ECON2200,2,Management of Financial Institutions,
+ECON3210,2,Financial Markets & Institutions,
+ECON3430,2,Managerial Economics,
+ECON3440,2,Competition Policy and Regulation,
+ECON3820,2,Understanding China,
+BISM2202,2,Data Analytics and Information Management,
+BISM2207,2,Managing Business Data,
+BISM3208,2,Information Systems Strategy,
+BISM3222,2,Information Analysis and System Design,
+BISM2203,2,Business Process Management,
+BISM3205,2,Business Information Security,
+BISM3206,2,Advanced Data Analytics,
+"[	
+	BIOL1020",2,"Genes, Cells & Evolution",Chemical Sciences (Dual Major)
+[ or,NA,[ or,Chemical Sciences (Dual Major)
+"[	
+	BIOL1040",2,Cells to Organisms,Chemical Sciences (Dual Major)
+[ or,NA,[ or,Chemical Sciences (Dual Major)
+"[	
+	MATH1051",2,Calculus & Linear Algebra I,Chemical Sciences (Dual Major)
+[ or,NA,[ or,Chemical Sciences (Dual Major)
+"[	
+	MATH1071",2,Advanced Calculus & Linear Algebra I,Chemical Sciences (Dual Major)
+[ or,NA,[ or,Chemical Sciences (Dual Major)
+"[	
+	PHYS1001",2,Mechanics & Thermal Physics I,Chemical Sciences (Dual Major)
+CHEM1100,2,Chemistry 1,Chemical Sciences (Dual Major)
+CHEM1200,2,Chemistry 2,Chemical Sciences (Dual Major)
+CHEM2050,2,Intermediate Chemistry 1,Chemical Sciences (Dual Major)
+CHEM2054,2,Experimental Chemistry,Chemical Sciences (Dual Major)
+CHEM2060,2,Intermediate Chemistry 2,Chemical Sciences (Dual Major)
+CHEM3016,2,Advanced Experimental Chemistry,Chemical Sciences (Dual Major)
+CHEM3001,2,Advanced Organic Chemistry,Chemical Sciences (Dual Major)
+CHEM3010,2,Advanced Inorganic Chemistry,Chemical Sciences (Dual Major)
+CHEM3011,2,Advanced Physical Chemistry,Chemical Sciences (Dual Major)
+CHEM3004,2,Determination of Molecular Structure,Chemical Sciences (Dual Major)
+CHEM3030,2,Nanomaterials and Self-Assembled Systems,Chemical Sciences (Dual Major)
+BIOC2000,2,Biochemistry & Molecular Biology,Chemical Sciences (Dual Major)
+BIOL2200,2,Cell Structure & Function,Chemical Sciences (Dual Major)
+BIPH2000,2,Foundations of Biophysics,Chemical Sciences (Dual Major)
+CHEE2001,2,Process Principles,Chemical Sciences (Dual Major)
+CHEM2052,2,Chemical Biology,Chemical Sciences (Dual Major)
+CHEM2058,2,Translational Chemistry and Data Processing,Chemical Sciences (Dual Major)
+COSC2500,2,Numerical Methods in Computational Science,Chemical Sciences (Dual Major)
+MATH2100,2,Applied Mathematical Analysis,Chemical Sciences (Dual Major)
+PHYS2020,2,Thermodynamics & Condensed Matter Physics,Chemical Sciences (Dual Major)
+PHYS2041,2,Introduction to Quantum Mechanics,Chemical Sciences (Dual Major)
+SCIE2020,2,CSI UQ: Introduction to Forensic Science,Chemical Sciences (Dual Major)
+SCIE2100,2,Introduction to Bioinformatics,Chemical Sciences (Dual Major)
+BIPH3001,2,Frontiers in Biophysics,Chemical Sciences (Dual Major)
+CHEE3301,2,Polymer Engineering,Chemical Sciences (Dual Major)
+CHEE4302,2,Electrochemistry & Corrosion,Chemical Sciences (Dual Major)
+CHEE4305,2,Biomaterials: Materials in Medicine,Chemical Sciences (Dual Major)
+CHEM3001,2,Advanced Organic Chemistry,Chemical Sciences (Dual Major)
+CHEM3010,2,Advanced Inorganic Chemistry,Chemical Sciences (Dual Major)
+CHEM3011,2,Advanced Physical Chemistry,Chemical Sciences (Dual Major)
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",Chemical Sciences (Dual Major)
+PHYS3825,2,Advanced Experimental Skills,Chemical Sciences (Dual Major)
+BIOC2000,2,Biochemistry & Molecular Biology,Chemical Sciences (Dual Major)
+BIOC3000,2,Advanced Biochemistry and Molecular Biology,Chemical Sciences (Dual Major)
+CHEM3001,2,Advanced Organic Chemistry,Chemical Sciences (Dual Major)
+CHEM3004,2,Determination of Molecular Structure,Chemical Sciences (Dual Major)
+CHEM3008,2,Medicinal & Biological Chemistry,Chemical Sciences (Dual Major)
+BIOL2006,2,Biostatistics & Experimental Design,Chemical Sciences (Dual Major)
+BIOL2200,2,Cell Structure & Function,Chemical Sciences (Dual Major)
+BIOL2202,2,Genetics,Chemical Sciences (Dual Major)
+BIPH2000,2,Foundations of Biophysics,Chemical Sciences (Dual Major)
+CHEM2052,2,Chemical Biology,Chemical Sciences (Dual Major)
+CHEM2058,2,Translational Chemistry and Data Processing,Chemical Sciences (Dual Major)
+MICR2000,2,Microbiology & Immunology,Chemical Sciences (Dual Major)
+SCIE2020,2,CSI UQ: Introduction to Forensic Science,Chemical Sciences (Dual Major)
+SCIE2100,2,Introduction to Bioinformatics,Chemical Sciences (Dual Major)
+BIOC3003,2,Human Molecular Genetics & Disease,Chemical Sciences (Dual Major)
+BIOC3005,2,Molecular Systems Biology,Chemical Sciences (Dual Major)
+BIOL3004,2,Genomics & Bioinformatics,Chemical Sciences (Dual Major)
+BIOL3006,2,Molecular Cell Biology,Chemical Sciences (Dual Major)
+BIPH3001,2,Frontiers in Biophysics,Chemical Sciences (Dual Major)
+CHEE4305,2,Biomaterials: Materials in Medicine,Chemical Sciences (Dual Major)
+CHEM3010,2,Advanced Inorganic Chemistry,Chemical Sciences (Dual Major)
+CHEM3011,2,Advanced Physical Chemistry,Chemical Sciences (Dual Major)
+CHEM3013,2,Nanoscience: Self-assembly,Chemical Sciences (Dual Major)
+CHEM3014,2,Nanoscience: Synthesis,Chemical Sciences (Dual Major)
+MICR3002,2,Virology,Chemical Sciences (Dual Major)
+MICR3003,2,Molecular Microbiology,Chemical Sciences (Dual Major)
+CHEM1100,2,Chemistry 1,Chemistry (Major)
+CHEM1200,2,Chemistry 2,Chemistry (Major)
+CHEM2050,2,Intermediate Chemistry 1,Chemistry (Major)
+CHEM2054,2,Experimental Chemistry,Chemistry (Major)
+CHEM2060,2,Intermediate Chemistry 2,Chemistry (Major)
+CHEM3016,2,Advanced Experimental Chemistry,Chemistry (Major)
+CHEM3001,2,Advanced Organic Chemistry,Chemistry (Major)
+CHEM3010,2,Advanced Inorganic Chemistry,Chemistry (Major)
+CHEM3011,2,Advanced Physical Chemistry,Chemistry (Major)
+CHEM3001,2,Advanced Organic Chemistry,Chemistry (Major)
+CHEM3004,2,Determination of Molecular Structure,Chemistry (Major)
+CHEM3010,2,Advanced Inorganic Chemistry,Chemistry (Major)
+CHEM3011,2,Advanced Physical Chemistry,Chemistry (Major)
+CHEM3020,2,Medicinal Chemistry and Chemical Biology,Chemistry (Major)
+CHEM3030,2,Nanomaterials and Self-Assembled Systems,Chemistry (Major)
+BIOL1020,2,"Genes, Cells & Evolution",Computational Science (Dual Majors)
+BIOL1040,2,Cells to Organisms,Computational Science (Dual Majors)
+CHEM1100,2,Chemistry 1,Computational Science (Dual Majors)
+COSC2500,2,Numerical Methods in Computational Science,Computational Science (Dual Majors)
+SCIE2100,2,Introduction to Bioinformatics,Computational Science (Dual Majors)
+BIOL3014,2,Advanced Bioinformatics,Computational Science (Dual Majors)
+COMP3506,2,Algorithms & Data Structures,Computational Science (Dual Majors)
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",Computational Science (Dual Majors)
+COSC3500,2,High-Performance Computing,Computational Science (Dual Majors)
+MATH3104,2,Mathematical Biology,Computational Science (Dual Majors)
+PHYS3071,2,Computational Physics,Computational Science (Dual Majors)
+STAT3004,2,Probability Models & Stochastic Processes,Computational Science (Dual Majors)
+BIOC2000,2,Biochemistry & Molecular Biology,Computational Science (Dual Majors)
+BIOC3000,2,Advanced Biochemistry and Molecular Biology,Computational Science (Dual Majors)
+BIOL2202,2,Genetics,Computational Science (Dual Majors)
+BIOL2200,2,Cell Structure & Function,Computational Science (Dual Majors)
+BIPH2000,2,Foundations of Biophysics,Computational Science (Dual Majors)
+CHEM2052,2,Chemical Biology,Computational Science (Dual Majors)
+CHEM2060,2,Intermediate Chemistry 2,Computational Science (Dual Majors)
+MICR2000,2,Microbiology & Immunology,Computational Science (Dual Majors)
+SCIE2020,2,CSI UQ: Introduction to Forensic Science,Computational Science (Dual Majors)
+BIOC3003,2,Human Molecular Genetics & Disease,Computational Science (Dual Majors)
+BIOC3005,2,Molecular Systems Biology,Computational Science (Dual Majors)
+BIOC3006,2,Biochemistry of Metabolism in Health and Disease,Computational Science (Dual Majors)
+BIOL3004,2,Genomics & Bioinformatics,Computational Science (Dual Majors)
+BIOL3006,2,Molecular Cell Biology,Computational Science (Dual Majors)
+BIPH3001,2,Frontiers in Biophysics,Computational Science (Dual Majors)
+CHEM3020,2,Medicinal Chemistry and Chemical Biology,Computational Science (Dual Majors)
+BIOL1020,2,"Genes, Cells & Evolution",
+BIOL1040,2,Cells to Organisms,
+CHEM1100,2,Chemistry 1,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+BIOL2200,2,Cell Structure & Function,
+BIOM3200,2,Biomedical Science,
+BIOC2000,2,Biochemistry & Molecular Biology,
+BIOL2202,2,Genetics,
+BIOM2011,2,Integrative Cell & Tissue Biology,
+BIOM2012,2,Systems Physiology,
+BIOM2020,2,Human Anatomy,
+BIOM2208,2,Differentiation & Development,
+BIOM2402,2,Principles of Pharmacology,
+MICR2000,2,Microbiology & Immunology,
+ANAT3022,2,Functional Neuroanatomy,
+BIOC3003,2,Human Molecular Genetics & Disease,
+BIOC3005,2,Molecular Systems Biology,
+BIOC3006,2,Biochemistry of Metabolism in Health and Disease,
+BIOL3003,2,Advanced Immunology,
+BIOL3004,2,Genomics & Bioinformatics,
+BIOL3006,2,Molecular Cell Biology,
+BIOM3002,2,Human Biomedical Anatomy,
+BIOM3003,2,Functional Musculoskeletal Anatomy,
+BIOM3014,2,Molecular & Cellular Physiology,
+BIOM3015,2,Integrative Physiology & Pathophysiology,
+BIOM3020,2,Integrated Endocrinology,
+BIOM3401,2,Systems Pharmacology,
+BIOM3402,2,Experimental Pharmacology,
+BIOT3002,2,Drug Design & Development,
+DEVB3001,2,Developmental Neurobiology,
+DEVB3002,2,Stem Cells and Regenerative Medicine,
+MICR3001,2,Microbes & Human Health,
+MICR3002,2,Virology,
+MICR3003,2,Molecular Microbiology,
+NEUR3001,2,Molecular & Cellular Neuroscience,
+NEUR3002,2,The Integrated Brain,
+SCIE3011,2,Perspectives in Science Research,
+SCIE3220,2,Biomedical Science Research Skills,
+SCIE3221,2,Biomedical Science Research Project,
+SCIE3260,2,"Introduction to Research in Chemistry, Biochemistry & Microbiology (A)",
+SCIE3261,2,"Introduction to Research in Chemistry, Biochemistry & Microbiology (B)",
+CHEM1100,2,Chemistry 1,
+CHEM1200,2,Chemistry 2,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+CHEM2050,2,Intermediate Chemistry 1,
+CHEM2054,2,Experimental Chemistry,
+CHEM3016,2,Advanced Experimental Chemistry,
+CHEM2052,2,Chemical Biology,
+CHEM2060,2,Intermediate Chemistry 2,
+SCIE2020,2,CSI UQ: Introduction to Forensic Science,
+CHEM3001,2,Advanced Organic Chemistry,
+CHEM3010,2,Advanced Inorganic Chemistry,
+CHEM3011,2,Advanced Physical Chemistry,
+CHEM3001,2,Advanced Organic Chemistry,
+CHEM3004,2,Determination of Molecular Structure,
+CHEM3010,2,Advanced Inorganic Chemistry,
+CHEM3011,2,Advanced Physical Chemistry,
+CHEM3020,2,Medicinal Chemistry and Chemical Biology,
+CHEM3030,2,Nanomaterials and Self-Assembled Systems,
+CSSE1001,2,Introduction to Software Engineering,
+INFS1200,2,Introduction to Information Systems,
+MATH1061,2,Discrete Mathematics,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+COMP3506,2,Algorithms & Data Structures,
+CSSE2002,2,Programming in the Large,
+CSSE2010,2,Introduction to Computer Systems,
+DECO3801,2,Design Computing Studio 3 - Build,
+COMP2048,2,Theory of Computing,
+CSSE2310,2,Computer Systems Principles and Programming,
+DECO2500,2,Human-Computer Interaction,
+DECO2800,2,Design Computing Studio 2 - Testing & Evaluation,
+INFS2200,2,Relational Database Systems,
+COMP3301,2,Operating Systems Architecture,
+COMP3320,2,Ethical Hacking,
+COMP3702,2,Artificial Intelligence,
+COMP3710,2,Pattern Recognition and Analysis,
+COMS3000,2,Information Security,
+COMS3200,2,Computer Networks I,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+CSSE3002,2,The Software Process,
+CSSE3100,2,Reasoning About Programs,
+DECO3500,2,Social & Mobile Computing,
+INFS3200,2,Advanced Database Systems,
+INFS3202,2,Web Information Systems,
+INFS3208,2,Cloud Computing,
+BIOL1020,2,"Genes, Cells & Evolution",
+BIOL1030,2,Global Challenges in Biology,
+BIOL1040,2,Cells to Organisms,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+BIOL2006,2,Biostatistics & Experimental Design,
+BIOL2010,2,Ecology,
+BIOL2015,2,Ecology Field Studies,
+BIOL2201,2,Evolution,
+BIOL2202,2,Genetics,
+BIOL2203,2,Plant Biology,
+BIOL2204,2,Zoology,
+BIOL2205,2,Insect Science,
+GEOM2001,2,Geographical Information Systems,
+MARS2014,2,Marine Science,
+BIOL3000,2,Conservation,
+BIOL3016,2,Outback Ecology Field Studies,
+BIOL3215,2,Marine Ecology and Conservation,
+BIOL3310,2,Macroecology and Biogeography,
+BIOL3360,2,Analysis and Communication of Biological Data,
+BIOL3370,2,Animal-Plant Interactions,
+BIOL3009,2,Arthropods & Human Health,
+BIOL3023,2,Tropical Marine Ecosystems,
+BIOL3204,2,Plant Adaptation and Global Change,
+BIOL3205,2,Physiological and Integrative Zoology,
+BIOL3207,2,Animal Behaviour,
+BIOL3209,2,"Biodiversity Analysis, Discovery and Systematics",
+BIOL3227,2,Plant Identification and Vegetation Classification,
+BIOL3232,2,Insect Identification and Taxonomy,
+BIOL3236,2,Climate Change Biology,
+BIOL3320,2,Vertebrate Diversity and Evolution,
+BIOL3340,2,"Fish, Fisheries and Aquaculture",
+BIOL3350,2,Genetics and Evolution of Complex Traits: From Humans to Non-Model Organisms,
+BIOL3390,2,Genome Evolution,
+CONS3017,2,Landscape Ecology,
+BIOL1020,2,"Genes, Cells & Evolution",
+BIOL1030,2,Global Challenges in Biology,
+CHEM1100,2,Chemistry 1,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+BIOL2202,2,Genetics,
+BIOL3004,2,Genomics & Bioinformatics,
+BIOC2000,2,Biochemistry & Molecular Biology,
+BIOL2006,2,Biostatistics & Experimental Design,
+BIOL2010,2,Ecology,
+BIOL2201,2,Evolution,
+BIOL2203,2,Plant Biology,
+BIOL2204,2,Zoology,
+MICR2000,2,Microbiology & Immunology,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOC3003,2,Human Molecular Genetics & Disease,
+BIOC3005,2,Molecular Systems Biology,
+BIOL3014,2,Advanced Bioinformatics,
+BIOL3202,2,Plant Biology II,
+BIOL3203,2,Plant Molecular Biology & Biotechnology,
+BIOL3209,2,"Biodiversity Analysis, Discovery and Systematics",
+BIOL3222,2,Model Organism Genetics,
+BIOL3310,2,Macroecology and Biogeography,
+BIOL3350,2,Genetics and Evolution of Complex Traits: From Humans to Non-Model Organisms,
+BIOL3380,2,Laboratory Skills in Genetic Research,
+BIOL3390,2,Genome Evolution,
+DEVB3002,2,Stem Cells and Regenerative Medicine,
+MICR3002,2,Virology,
+MICR3003,2,Molecular Microbiology,
+MICR3004,2,Microbial Genomics,
+GEOM1000,2,Fundamentals of Geographic Information and Technologies,
+GEOS1100,2,Environment & Society,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+GEOS3102,2,Global Change: Problems and Prospects,
+ENVM2200,2,Resource Management & Environmental Planning,
+GEOG2205,2,Global Population Issues,
+GEOM2000,2,Introduction to Earth Observation Sciences (EOS),
+GEOM2001,2,Geographical Information Systems,
+GEOS2100,2,Environmental Systems,
+GEOS2101,2,Climatology & Hydrology,
+GEOS2103,2,Biogeography & Geomorphology,
+GEOS2105,2,Geography of Australia,
+GEOS2110,2,Tectonics and Geomorphology of Active Plate Boundaries,
+MARS2014,2,Marine Science,
+CONS3017,2,Landscape Ecology,
+ENVM3115,2,Climate Change and Environmental Management,
+ENVM3200,2,Coastal Processes & Management,
+ENVM3201,2,Catchment Processes & Management,
+ENVM3203,2,Tools for Environmental Assessment and Analysis,
+GEOG3205,2,Applied Demography,
+GEOM3001,2,Advanced Earth Observation Sciences (EOS),
+GEOM3002,2,Advanced Geographical Information Systems,
+GEOM3005,2,Geospatial Processing and Web Mapping,
+GEOS3004,2,International Field Studies: Natural & Built Environments of a Selected Region,
+GEOS3103,2,Progress in Geography,
+GEOS3106,2,Environmental Hazards,
+GEOS3107,2,"Plants, People and the Environment",
+GEOS3108,2,Meteorology,
+GEOS3400,2,Research Topic,
+MARS3012,2,Physical-biological Oceanography,
+SCIE3210,2,Research Topic in Geographical Science,
+ERTH1000,2,Planet Earth: The Big Picture,
+GEOM1000,2,Fundamentals of Geographic Information and Technologies,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+ERTH2003,2,"Sedimentology, Stratigraphy and Paleoenvironments",
+ERTH2004,2,Structural Geology,
+ERTH2002,2,Paleobiology,
+ERTH2005,2,Mineralogy,
+ERTH2006,2,Igneous & Metamorphic Petrology,
+ERTH2020,2,Introduction to Geophysics,
+ERTH2050,2,Field Geology,
+GEOM2000,2,Introduction to Earth Observation Sciences (EOS),
+GEOS2110,2,Tectonics and Geomorphology of Active Plate Boundaries,
+ERTH3001,2,Ore Deposits & Exploration Geology,
+ERTH3002,2,Advanced Field Experience,
+ERTH3003,2,Geomicrobiology,
+ERTH3021,2,Exploration & Mining Geophysics,
+ERTH3050,2,Field Geology: Mapping in the Outback,
+ERTH3060,2,Advanced Structural Geology,
+ERTH3103,2,Sedimentary Environments,
+ERTH3104,2,Tectonics and Crustal Evolution,
+ERTH3110,2,Marine Geoscience and Paleoceanography,
+ERTH3203,2,Energy Resources,
+ERTH3205,2,Geochemistry and Geochronology,
+ERTH3212,2,Geology of Coral Reefs,
+ERTH3222,2,Exploration Geochemistry,
+ERTH3250,2,Hydrogeology,
+ERTH3301,2,Ore Body Modelling,
+GEOM3001,2,Advanced Earth Observation Sciences (EOS),
+PHYS3071,2,Computational Physics,
+SCIE3230,2,Introduction to Research in Geological Sciences,
+SCIE3231,2,Research Project II in Geological Sciences,
+"[	
+	BIOL1020",2,"Genes, Cells & Evolution",
+[ or,NA,[ or,
+"[	
+	CHEM1221",2,"General, Organic & Biological Chemistry",
+BIOL1030,2,Global Challenges in Biology,
+ERTH1000,2,Planet Earth: The Big Picture,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+BIOL2006,2,Biostatistics & Experimental Design,
+MARS2014,2,Marine Science,
+BIOL2010,2,Ecology,
+BIOL2015,2,Ecology Field Studies,
+BIOL2201,2,Evolution,
+BIOL2202,2,Genetics,
+BIOL2203,2,Plant Biology,
+BIOL2204,2,Zoology,
+ERTH2002,2,Paleobiology,
+ERTH2003,2,"Sedimentology, Stratigraphy and Paleoenvironments",
+ERTH2050,2,Field Geology,
+ENVM2002,2,Marine & Coastal Environmental Protection,
+GEOM2000,2,Introduction to Earth Observation Sciences (EOS),
+GEOM2001,2,Geographical Information Systems,
+GEOS2100,2,Environmental Systems,
+GEOS2101,2,Climatology & Hydrology,
+GEOS2103,2,Biogeography & Geomorphology,
+MICR2000,2,Microbiology & Immunology,
+BIOL3023,2,Tropical Marine Ecosystems,
+BIOL3211,2,Marine Invertebrates,
+BIOL3215,2,Marine Ecology and Conservation,
+BIOL3340,2,"Fish, Fisheries and Aquaculture",
+ENVM3200,2,Coastal Processes & Management,
+ERTH3110,2,Marine Geoscience and Paleoceanography,
+ERTH3212,2,Geology of Coral Reefs,
+MARS3012,2,Physical-biological Oceanography,
+"[	
+	MATH1051",2,Calculus & Linear Algebra I,
+[ or,NA,[ or,
+"[	
+	MATH1071",2,Advanced Calculus & Linear Algebra I,
+"[	
+	MATH1052",2,Multivariate Calculus & Ordinary Differential Equations,
+[ or,NA,[ or,
+"[	
+	MATH1072",2,Advanced Multivariate Calculus & Ordinary Differential Equations,
+MATH1061,2,Discrete Mathematics,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+MATH2001,2,Advanced Calculus & Linear Algebra II,
+"[	
+	MATH2400",2,Mathematical Analysis,
+[ or,NA,[ or,
+"[	
+	MATH2401",2,Mathematical Analysis and Advanced Topics,
+MATH3401,2,Complex Analysis,
+COSC2500,2,Numerical Methods in Computational Science,
+MATH2100,2,Applied Mathematical Analysis,
+MATH2301,2,Linear & Abstract Algebra & Number Theory,
+MATH2302,2,Discrete Mathematics II,
+PHYS2100,2,"Dynamics, Chaos & Special Relativity",
+SCIE2100,2,Introduction to Bioinformatics,
+STAT2003,2,Mathematical Probability,
+STAT2004,2,Statistical Modelling & Analysis,
+MATH3070,2,Natural Resource Mathematics,
+MATH3090,2,Financial Mathematics,
+MATH3101,2,Bifurcation and Chaos,
+MATH3102,2,Methods & Models of Applied Mathematics,
+MATH3103,2,Algebraic Methods of Mathematical Physics,
+MATH3104,2,Mathematical Biology,
+MATH3201,2,Scientific Computing: Advanced Techniques and Applications,
+MATH3202,2,Operations Research & Mathematical Planning,
+MATH3204,2,Numerical Linear Algebra and Optimisation,
+MATH3301,2,Graph Theory and Design Theory,
+MATH3302,2,Coding & Cryptography,
+MATH3303,2,Abstract Algebra & Number Theory,
+MATH3306,2,Set Theory & Mathematical Logic,
+MATH3402,2,Functional Analysis,
+MATH3403,2,Partial Differential Equations,
+MATH3404,2,Optimisation Theory,
+MATH3405,2,Differential Geometry,
+STAT3004,2,Probability Models & Stochastic Processes,
+BIOL1020,2,"Genes, Cells & Evolution",
+BIOL1040,2,Cells to Organisms,
+CHEM1100,2,Chemistry 1,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+BIOC2000,2,Biochemistry & Molecular Biology,
+MICR2000,2,Microbiology & Immunology,
+MICR3001,2,Microbes & Human Health,
+BIOL2006,2,Biostatistics & Experimental Design,
+BIOL2010,2,Ecology,
+BIOL2200,2,Cell Structure & Function,
+BIOL2202,2,Genetics,
+BIPH2000,2,Foundations of Biophysics,
+CHEM2052,2,Chemical Biology,
+CHEM2060,2,Intermediate Chemistry 2,
+SCIE2020,2,CSI UQ: Introduction to Forensic Science,
+BIOC3005,2,Molecular Systems Biology,
+BIOL3003,2,Advanced Immunology,
+BIOL3004,2,Genomics & Bioinformatics,
+BIOL3009,2,Arthropods & Human Health,
+MICR3002,2,Virology,
+MICR3003,2,Molecular Microbiology,
+MICR3004,2,Microbial Genomics,
+BIOL3011,2,Plant Microbe & Insect Interactions,
+BIOL3201,2,Plant Diseases,
+PARA3002,2,Biomedical Parasitology,
+"[	
+	MATH1051",2,Calculus & Linear Algebra I,
+[ or,NA,[ or,
+"[	
+	MATH1071",2,Advanced Calculus & Linear Algebra I,
+"[	
+	MATH1052",2,Multivariate Calculus & Ordinary Differential Equations,
+[ or,NA,[ or,
+"[	
+	MATH1072",2,Advanced Multivariate Calculus & Ordinary Differential Equations,
+PHYS1001,2,Mechanics & Thermal Physics I,
+PHYS1002,2,Electromagnetism and Modern Physics,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+PHYS2020,2,Thermodynamics & Condensed Matter Physics,
+PHYS2041,2,Introduction to Quantum Mechanics,
+PHYS2055,2,Introduction to Fields in Physics,
+PHYS3900,2,Perspectives in Physics Research,
+PHYS3020,2,Statistical Mechanics,
+PHYS3040,2,Quantum Physics,
+PHYS3051,2,Fields in Physics,
+BIPH3001,2,Frontiers in Biophysics,
+PHYS3020,2,Statistical Mechanics,
+PHYS3040,2,Quantum Physics,
+PHYS3051,2,Fields in Physics,
+PHYS3071,2,Computational Physics,
+PHYS3080,2,Extragalactic Astrophysics & Cosmology,
+PHYS3825,2,Advanced Experimental Skills,
+BIOL1020,2,"Genes, Cells & Evolution",
+BIOL1030,2,Global Challenges in Biology,
+BIOL1040,2,Cells to Organisms,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+BIOL2006,2,Biostatistics & Experimental Design,
+BIOL2203,2,Plant Biology,
+BIOL3200,2,Current Topics in Plant Science,
+AGRC2013,2,Agricultural Microbiology & Gene Technology,
+BIOC2000,2,Biochemistry & Molecular Biology,
+BIOL2010,2,Ecology,
+BIOL2015,2,Ecology Field Studies,
+BIOL2201,2,Evolution,
+BIOL2202,2,Genetics,
+MICR2000,2,Microbiology & Immunology,
+PLNT2011,2,Plant and Environmental Health,
+BIOL3011,2,Plant Microbe & Insect Interactions,
+BIOL3201,2,Plant Diseases,
+BIOL3202,2,Plant Biology II,
+BIOL3203,2,Plant Molecular Biology & Biotechnology,
+BIOL3204,2,Plant Adaptation and Global Change,
+BIOL3227,2,Plant Identification and Vegetation Classification,
+AGRC3037,2,Plants for Human Health,
+BIOL3000,2,Conservation,
+BIOL3004,2,Genomics & Bioinformatics,
+BIOL3016,2,Outback Ecology Field Studies,
+BIOL3210,2,Fungal Biology,
+BIOL3310,2,Macroecology and Biogeography,
+BIOL3370,2,Animal-Plant Interactions,
+LAND3005,2,Soil Plant Relationships,
+PLNT3012,2,Weed Science,
+PSYC1020,2,"Introduction to Psychology: Minds, Brains and Behaviour",
+PSYC1030,2,"Introduction to Psychology: Developmental, Social & Clinical Psychology",
+PSYC1040,2,Psychological Research Methodology I,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+PSYC2010,2,Psychological Research Methodology II,
+PSYC3020,2,Measurement in Psychology,
+PSYC2020,2,Neuroscience for Psychologists,
+PSYC2030,2,Developmental Psychology,
+PSYC2040,2,Social & Organisational Psychology,
+PSYC2050,2,Learning & Cognition,
+ANAT3022,2,Functional Neuroanatomy,
+MUSC3340,2,"Music, Cognition & Development",
+PSYC3000,2,Applied Sport and Exercise Psychology,
+PSYC3032,2,Topics in Social Psychology,
+PSYC3042,2,Psychological Research: Interpretation & Evaluation,
+PSYC3052,2,Judgment & Decision-Making,
+PSYC3062,2,Introduction to Human Factors,
+PSYC3082,2,Psychotherapies and Counselling,
+PSYC3102,2,Psychopathology,
+PSYC3122,2,Attitudes & Social Cognition,
+PSYC3132,2,Health Psychology,
+PSYC3142,2,Intergroup Relations & Group Processes,
+PSYC3162,2,Development in Infancy,
+PSYC3192,2,Sensory Neuroscience,
+PSYC3202,2,Industrial & Organisational Psychology,
+PSYC3262,2,Evolutionary Approaches to Human Behaviour,
+PSYC3272,2,The Neuroscience of Social Behaviour,
+PSYC3282,2,Developmental Perspectives on the Origins of Human Culture,
+PSYC3302,2,Cognitive Neuroscience,
+PSYC3312,2,Parenting and Family Psychology,
+"[	
+	MATH1051",2,Calculus & Linear Algebra I,
+[ or,NA,[ or,
+"[	
+	MATH1071",2,Advanced Calculus & Linear Algebra I,
+"[	
+	MATH1052",2,Multivariate Calculus & Ordinary Differential Equations,
+[ or,NA,[ or,
+"[	
+	MATH1072",2,Advanced Multivariate Calculus & Ordinary Differential Equations,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+MATH2001,2,Advanced Calculus & Linear Algebra II,
+STAT2003,2,Mathematical Probability,
+STAT2004,2,Statistical Modelling & Analysis,
+STAT3001,2,Mathematical Statistics,
+STAT3004,2,Probability Models & Stochastic Processes,
+STAT3006,2,Statistical Learning,
+STAT3500,2,Problems & Applications in Modern Statistics,
+BIOL1020,2,"Genes, Cells & Evolution",
+BIOL1030,2,Global Challenges in Biology,
+BIOL1040,2,Cells to Organisms,
+COSC2500,2,Numerical Methods in Computational Science,
+SCIE2100,2,Introduction to Bioinformatics,
+BIOL3014,2,Advanced Bioinformatics,
+COMP3506,2,Algorithms & Data Structures,
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",
+COSC3500,2,High-Performance Computing,
+MATH3104,2,Mathematical Biology,
+PHYS3071,2,Computational Physics,
+STAT3004,2,Probability Models & Stochastic Processes,
+BIOL2006,2,Biostatistics & Experimental Design,
+BIOL2204,2,Zoology,
+BIOL2010,2,Ecology,
+BIOL2015,2,Ecology Field Studies,
+BIOL2201,2,Evolution,
+BIOL2202,2,Genetics,
+BIOL2203,2,Plant Biology,
+BIOL2205,2,Insect Science,
+MARS2014,2,Marine Science,
+BIOL3009,2,Arthropods & Human Health,
+BIOL3205,2,Physiological and Integrative Zoology,
+BIOL3207,2,Animal Behaviour,
+BIOL3209,2,"Biodiversity Analysis, Discovery and Systematics",
+BIOL3232,2,Insect Identification and Taxonomy,
+BIOL3238,2,"Insect Structure, Function & Physiology",
+BIOL3320,2,Vertebrate Diversity and Evolution,
+BIOL3360,2,Analysis and Communication of Biological Data,
+ANIM3049,2,Biology of Australian Marsupials and Monotremes,
+BIOL3016,2,Outback Ecology Field Studies,
+BIOL3211,2,Marine Invertebrates,
+BIOL3236,2,Climate Change Biology,
+BIOL3310,2,Macroecology and Biogeography,
+BIOL3340,2,"Fish, Fisheries and Aquaculture",
+BIOL3370,2,Animal-Plant Interactions,
+MATH3104,2,Mathematical Biology,
+CSSE1001,2,Introduction to Software Engineering,Computer Science (Extended Major)
+INFS1200,2,Introduction to Information Systems,Computer Science (Extended Major)
+MATH1061,2,Discrete Mathematics,Computer Science (Extended Major)
+COMP3506,2,Algorithms & Data Structures,Computer Science (Extended Major)
+CSSE2002,2,Programming in the Large,Computer Science (Extended Major)
+CSSE2010,2,Introduction to Computer Systems,Computer Science (Extended Major)
+CSSE2310,2,Computer Systems Principles and Programming,Computer Science (Extended Major)
+CSSE3006,4,Special Projects in Computer Systems and Software Engineering,Computer Science (Extended Major)
+DECO3801,2,Design Computing Studio 3 - Build,Computer Science (Extended Major)
+COSC2500,2,Numerical Methods in Computational Science,Computer Science (Extended Major)
+DECO2500,2,Human-Computer Interaction,Computer Science (Extended Major)
+DECO2800,2,Design Computing Studio 2 - Testing & Evaluation,Computer Science (Extended Major)
+INFS2200,2,Relational Database Systems,Computer Science (Extended Major)
+MATH2302,2,Discrete Mathematics II,Computer Science (Extended Major)
+SCIE2100,2,Introduction to Bioinformatics,Computer Science (Extended Major)
+COMP3301,2,Operating Systems Architecture,Computer Science (Extended Major)
+COMP3702,2,Artificial Intelligence,Computer Science (Extended Major)
+COMS3000,2,Information Security,Computer Science (Extended Major)
+COMS3200,2,Computer Networks I,Computer Science (Extended Major)
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",Computer Science (Extended Major)
+COSC3500,2,High-Performance Computing,Computer Science (Extended Major)
+CSSE3002,2,The Software Process,Computer Science (Extended Major)
+CSSE3100,2,Reasoning About Programs,Computer Science (Extended Major)
+DECO3500,2,Social & Mobile Computing,Computer Science (Extended Major)
+DECO3800,2,Design Computing Studio 3 - Proposal,Computer Science (Extended Major)
+INFS3200,2,Advanced Database Systems,Computer Science (Extended Major)
+INFS3202,2,Web Information Systems,Computer Science (Extended Major)
+INFS3208,2,Cloud Computing,Computer Science (Extended Major)
+CSSE1001,2,Introduction to Software Engineering,Computer Science (Major)
+INFS1200,2,Introduction to Information Systems,Computer Science (Major)
+MATH1061,2,Discrete Mathematics,Computer Science (Major)
+COMP3506,2,Algorithms & Data Structures,Computer Science (Major)
+CSSE2002,2,Programming in the Large,Computer Science (Major)
+CSSE2010,2,Introduction to Computer Systems,Computer Science (Major)
+DECO3801,2,Design Computing Studio 3 - Build,Computer Science (Major)
+COMP2048,2,Theory of Computing,Computer Science (Major)
+CSSE2310,2,Computer Systems Principles and Programming,Computer Science (Major)
+DECO2500,2,Human-Computer Interaction,Computer Science (Major)
+DECO2800,2,Design Computing Studio 2 - Testing & Evaluation,Computer Science (Major)
+INFS2200,2,Relational Database Systems,Computer Science (Major)
+COMP3301,2,Operating Systems Architecture,Computer Science (Major)
+COMP3320,2,Ethical Hacking,Computer Science (Major)
+COMP3702,2,Artificial Intelligence,Computer Science (Major)
+COMP3710,2,Pattern Recognition and Analysis,Computer Science (Major)
+COMS3000,2,Information Security,Computer Science (Major)
+COMS3200,2,Computer Networks I,Computer Science (Major)
+COSC3000,2,"Visualization, Computer Graphics & Data Analysis",Computer Science (Major)
+COSC3500,2,High-Performance Computing,Computer Science (Major)
+CSSE3002,2,The Software Process,Computer Science (Major)
+CSSE3100,2,Reasoning About Programs,Computer Science (Major)
+DECO3500,2,Social & Mobile Computing,Computer Science (Major)
+INFS3200,2,Advanced Database Systems,Computer Science (Major)
+INFS3202,2,Web Information Systems,Computer Science (Major)
+INFS3208,2,Cloud Computing,Computer Science (Major)
+BIOL1020,2,"Genes, Cells & Evolution",Ecology (Major)
+BIOL1030,2,Global Challenges in Biology,Ecology (Major)
+BIOL1040,2,Cells to Organisms,Ecology (Major)
+BIOL2006,2,Biostatistics & Experimental Design,Ecology (Major)
+BIOL2010,2,Ecology,Ecology (Major)
+BIOL2015,2,Ecology Field Studies,Ecology (Major)
+BIOL2201,2,Evolution,Ecology (Major)
+BIOL2202,2,Genetics,Ecology (Major)
+BIOL2203,2,Plant Biology,Ecology (Major)
+BIOL2204,2,Zoology,Ecology (Major)
+BIOL2205,2,Insect Science,Ecology (Major)
+GEOM2001,2,Geographical Information Systems,Ecology (Major)
+MARS2014,2,Marine Science,Ecology (Major)
+BIOL3000,2,Conservation,Ecology (Major)
+BIOL3016,2,Outback Ecology Field Studies,Ecology (Major)
+BIOL3215,2,Marine Ecology and Conservation,Ecology (Major)
+BIOL3310,2,Macroecology and Biogeography,Ecology (Major)
+BIOL3360,2,Analysis and Communication of Biological Data,Ecology (Major)
+BIOL3370,2,Animal-Plant Interactions,Ecology (Major)
+BIOL3009,2,Arthropods & Human Health,Ecology (Major)
+BIOL3023,2,Tropical Marine Ecosystems,Ecology (Major)
+BIOL3204,2,Plant Adaptation and Global Change,Ecology (Major)
+BIOL3205,2,Physiological and Integrative Zoology,Ecology (Major)
+BIOL3207,2,Animal Behaviour,Ecology (Major)
+BIOL3209,2,"Biodiversity Analysis, Discovery and Systematics",Ecology (Major)
+BIOL3227,2,Plant Identification and Vegetation Classification,Ecology (Major)
+BIOL3232,2,Insect Identification and Taxonomy,Ecology (Major)
+BIOL3236,2,Climate Change Biology,Ecology (Major)
+BIOL3320,2,Vertebrate Diversity and Evolution,Ecology (Major)
+BIOL3340,2,"Fish, Fisheries and Aquaculture",Ecology (Major)
+BIOL3350,2,Genetics and Evolution of Complex Traits: From Humans to Non-Model Organisms,Ecology (Major)
+BIOL3390,2,Genome Evolution,Ecology (Major)
+CONS3017,2,Landscape Ecology,Ecology (Major)
+BIOL1020,2,"Genes, Cells & Evolution",Food Science & Nutrition (Dual Major)
+BIOL1040,2,Cells to Organisms,Food Science & Nutrition (Dual Major)
+CHEM1100,2,Chemistry 1,Food Science & Nutrition (Dual Major)
+CHEM1200,2,Chemistry 2,Food Science & Nutrition (Dual Major)
+FOOD1001,2,Principles of Food Preservation,Food Science & Nutrition (Dual Major)
+CHEM2003,2,Food Chemistry,Food Science & Nutrition (Dual Major)
+FOOD2000,2,Food Science,Food Science & Nutrition (Dual Major)
+FOOD3007,2,Food Structure & Sensory Science,Food Science & Nutrition (Dual Major)
+FOOD3011,2,Food Product Development,Food Science & Nutrition (Dual Major)
+FOOD3017,2,"Food Policy, Safety & Quality Management",Food Science & Nutrition (Dual Major)
+MICR2001,2,Food Microbiology I,Food Science & Nutrition (Dual Major)
+MICR3860,2,Food Microbiology II,Food Science & Nutrition (Dual Major)
+NUTR2101,2,Nutrition Science,Food Science & Nutrition (Dual Major)
+NUTR3011,2,Understanding Population Nutrition,Food Science & Nutrition (Dual Major)
+NUTR3000,2,Nutrition & Exercise,Food Science & Nutrition (Dual Major)
+NUTR3012,2,Community & Public Health Nutrition,Food Science & Nutrition (Dual Major)
+NUTR3201,2,Advanced Nutrition Sciences,Food Science & Nutrition (Dual Major)
+"[	
+	BIOL1020",2,"Genes, Cells & Evolution",Food Science and Technology (Major)
+[ or,NA,[ or,Food Science and Technology (Major)
+"[	
+	BIOL1040",2,Cells to Organisms,Food Science and Technology (Major)
+CHEM1100,2,Chemistry 1,Food Science and Technology (Major)
+FOOD1001,2,Principles of Food Preservation,Food Science and Technology (Major)
+CHEM2003,2,Food Chemistry,Food Science and Technology (Major)
+FOOD2000,2,Food Science,Food Science and Technology (Major)
+FOOD3007,2,Food Structure & Sensory Science,Food Science and Technology (Major)
+FOOD3011,2,Food Product Development,Food Science and Technology (Major)
+MICR2001,2,Food Microbiology I,Food Science and Technology (Major)
+FOOD3000,2,Functional Foods & Nutraceuticals,Food Science and Technology (Major)
+FOOD3008,2,Food Process Engineering II,Food Science and Technology (Major)
+FOOD3017,2,"Food Policy, Safety & Quality Management",Food Science and Technology (Major)
+FOOD3022,2,Bush Foods of Australia,Food Science and Technology (Major)
+MICR3860,2,Food Microbiology II,Food Science and Technology (Major)
+"[	
+	BIOL1020",2,"Genes, Cells & Evolution",Food Sc & Technology (Extended Major)
+[ or,NA,[ or,Food Sc & Technology (Extended Major)
+"[	
+	BIOL1040",2,Cells to Organisms,Food Sc & Technology (Extended Major)
+CHEM1100,2,Chemistry 1,Food Sc & Technology (Extended Major)
+FOOD1001,2,Principles of Food Preservation,Food Sc & Technology (Extended Major)
+CHEM2003,2,Food Chemistry,Food Sc & Technology (Extended Major)
+FOOD2000,2,Food Science,Food Sc & Technology (Extended Major)
+FOOD2003,2,Food Process Engineering I,Food Sc & Technology (Extended Major)
+FOOD3000,2,Functional Foods & Nutraceuticals,Food Sc & Technology (Extended Major)
+FOOD3007,2,Food Structure & Sensory Science,Food Sc & Technology (Extended Major)
+FOOD3008,2,Food Process Engineering II,Food Sc & Technology (Extended Major)
+FOOD3011,2,Food Product Development,Food Sc & Technology (Extended Major)
+FOOD3601,2,Special Topic,Food Sc & Technology (Extended Major)
+MICR2001,2,Food Microbiology I,Food Sc & Technology (Extended Major)
+MICR3860,2,Food Microbiology II,Food Sc & Technology (Extended Major)
+NUTR2101,2,Nutrition Science,Food Sc & Technology (Extended Major)
+BIOL1020,2,"Genes, Cells & Evolution",Genetics (Major)
+BIOL1030,2,Global Challenges in Biology,Genetics (Major)
+CHEM1100,2,Chemistry 1,Genetics (Major)
+BIOL2202,2,Genetics,Genetics (Major)
+BIOL3004,2,Genomics & Bioinformatics,Genetics (Major)
+BIOC2000,2,Biochemistry & Molecular Biology,Genetics (Major)
+BIOL2006,2,Biostatistics & Experimental Design,Genetics (Major)
+BIOL2010,2,Ecology,Genetics (Major)
+BIOL2201,2,Evolution,Genetics (Major)
+BIOL2203,2,Plant Biology,Genetics (Major)
+BIOL2204,2,Zoology,Genetics (Major)
+MICR2000,2,Microbiology & Immunology,Genetics (Major)
+SCIE2100,2,Introduction to Bioinformatics,Genetics (Major)
+BIOC3003,2,Human Molecular Genetics & Disease,Genetics (Major)
+BIOC3005,2,Molecular Systems Biology,Genetics (Major)
+BIOL3014,2,Advanced Bioinformatics,Genetics (Major)
+BIOL3202,2,Plant Biology II,Genetics (Major)
+BIOL3203,2,Plant Molecular Biology & Biotechnology,Genetics (Major)
+BIOL3209,2,"Biodiversity Analysis, Discovery and Systematics",Genetics (Major)
+BIOL3222,2,Model Organism Genetics,Genetics (Major)
+BIOL3310,2,Macroecology and Biogeography,Genetics (Major)
+BIOL3350,2,Genetics and Evolution of Complex Traits: From Humans to Non-Model Organisms,Genetics (Major)
+BIOL3380,2,Laboratory Skills in Genetic Research,Genetics (Major)
+BIOL3390,2,Genome Evolution,Genetics (Major)
+DEVB3002,2,Stem Cells and Regenerative Medicine,Genetics (Major)
+MICR3002,2,Virology,Genetics (Major)
+MICR3003,2,Molecular Microbiology,Genetics (Major)
+MICR3004,2,Microbial Genomics,Genetics (Major)
+GEOM1000,2,Fundamentals of Geographic Information and Technologies,Geographical Sciences (Major)
+GEOS1100,2,Environment & Society,Geographical Sciences (Major)
+GEOS3102,2,Global Change: Problems and Prospects,Geographical Sciences (Major)
+ENVM2200,2,Resource Management & Environmental Planning,Geographical Sciences (Major)
+GEOG2205,2,Global Population Issues,Geographical Sciences (Major)
+GEOM2000,2,Introduction to Earth Observation Sciences (EOS),Geographical Sciences (Major)
+GEOM2001,2,Geographical Information Systems,Geographical Sciences (Major)
+GEOS2100,2,Environmental Systems,Geographical Sciences (Major)
+GEOS2101,2,Climatology & Hydrology,Geographical Sciences (Major)
+GEOS2103,2,Biogeography & Geomorphology,Geographical Sciences (Major)
+GEOS2105,2,Geography of Australia,Geographical Sciences (Major)
+GEOS2110,2,Tectonics and Geomorphology of Active Plate Boundaries,Geographical Sciences (Major)
+MARS2014,2,Marine Science,Geographical Sciences (Major)
+CONS3017,2,Landscape Ecology,Geographical Sciences (Major)
+ENVM3115,2,Climate Change and Environmental Management,Geographical Sciences (Major)
+ENVM3200,2,Coastal Processes & Management,Geographical Sciences (Major)
+ENVM3201,2,Catchment Processes & Management,Geographical Sciences (Major)
+ENVM3203,2,Tools for Environmental Assessment and Analysis,Geographical Sciences (Major)
+GEOG3205,2,Applied Demography,Geographical Sciences (Major)
+GEOM3001,2,Advanced Earth Observation Sciences (EOS),Geographical Sciences (Major)
+GEOM3002,2,Advanced Geographical Information Systems,Geographical Sciences (Major)
+GEOM3005,2,Geospatial Processing and Web Mapping,Geographical Sciences (Major)
+GEOS3004,2,International Field Studies: Natural & Built Environments of a Selected Region,Geographical Sciences (Major)
+GEOS3103,2,Progress in Geography,Geographical Sciences (Major)
+GEOS3106,2,Environmental Hazards,Geographical Sciences (Major)
+GEOS3107,2,"Plants, People and the Environment",Geographical Sciences (Major)
+GEOS3108,2,Meteorology,Geographical Sciences (Major)
+GEOS3400,2,Research Topic,Geographical Sciences (Major)
+MARS3012,2,Physical-biological Oceanography,Geographical Sciences (Major)
+SCIE3210,2,Research Topic in Geographical Science,Geographical Sciences (Major)
+ERTH1000,2,Planet Earth: The Big Picture,Geological Sciences (Major)
+GEOM1000,2,Fundamentals of Geographic Information and Technologies,Geological Sciences (Major)
+ERTH2003,2,"Sedimentology, Stratigraphy and Paleoenvironments",Geological Sciences (Major)
+ERTH2004,2,Structural Geology,Geological Sciences (Major)
+ERTH2002,2,Paleobiology,Geological Sciences (Major)
+ERTH2005,2,Mineralogy,Geological Sciences (Major)
+ERTH2006,2,Igneous & Metamorphic Petrology,Geological Sciences (Major)
+ERTH2020,2,Introduction to Geophysics,Geological Sciences (Major)
+ERTH2050,2,Field Geology,Geological Sciences (Major)
+GEOM2000,2,Introduction to Earth Observation Sciences (EOS),Geological Sciences (Major)
+GEOS2110,2,Tectonics and Geomorphology of Active Plate Boundaries,Geological Sciences (Major)
+ERTH3001,2,Ore Deposits & Exploration Geology,Geological Sciences (Major)
+ERTH3002,2,Advanced Field Experience,Geological Sciences (Major)
+ERTH3003,2,Geomicrobiology,Geological Sciences (Major)
+ERTH3021,2,Exploration & Mining Geophysics,Geological Sciences (Major)
+ERTH3050,2,Field Geology: Mapping in the Outback,Geological Sciences (Major)
+ERTH3060,2,Advanced Structural Geology,Geological Sciences (Major)
+ERTH3103,2,Sedimentary Environments,Geological Sciences (Major)
+ERTH3104,2,Tectonics and Crustal Evolution,Geological Sciences (Major)
+ERTH3110,2,Marine Geoscience and Paleoceanography,Geological Sciences (Major)
+ERTH3203,2,Energy Resources,Geological Sciences (Major)
+ERTH3205,2,Geochemistry and Geochronology,Geological Sciences (Major)
+ERTH3212,2,Geology of Coral Reefs,Geological Sciences (Major)
+ERTH3222,2,Exploration Geochemistry,Geological Sciences (Major)
+ERTH3250,2,Hydrogeology,Geological Sciences (Major)
+ERTH3301,2,Ore Body Modelling,Geological Sciences (Major)
+GEOM3001,2,Advanced Earth Observation Sciences (EOS),Geological Sciences (Major)
+PHYS3071,2,Computational Physics,Geological Sciences (Major)
+SCIE3230,2,Introduction to Research in Geological Sciences,Geological Sciences (Major)
+SCIE3231,2,Research Project II in Geological Sciences,Geological Sciences (Major)
+ERTH1000,2,Planet Earth: The Big Picture,Geological Sciences (Extended Major)
+GEOM1000,2,Fundamentals of Geographic Information and Technologies,Geological Sciences (Extended Major)
+ERTH2003,2,"Sedimentology, Stratigraphy and Paleoenvironments",Geological Sciences (Extended Major)
+ERTH2004,2,Structural Geology,Geological Sciences (Extended Major)
+ERTH2005,2,Mineralogy,Geological Sciences (Extended Major)
+ERTH2050,2,Field Geology,Geological Sciences (Extended Major)
+ERTH2002,2,Paleobiology,Geological Sciences (Extended Major)
+ERTH2006,2,Igneous & Metamorphic Petrology,Geological Sciences (Extended Major)
+ERTH2020,2,Introduction to Geophysics,Geological Sciences (Extended Major)
+GEOM2000,2,Introduction to Earth Observation Sciences (EOS),Geological Sciences (Extended Major)
+GEOS2110,2,Tectonics and Geomorphology of Active Plate Boundaries,Geological Sciences (Extended Major)
+ERTH3001,2,Ore Deposits & Exploration Geology,Geological Sciences (Extended Major)
+ERTH3002,2,Advanced Field Experience,Geological Sciences (Extended Major)
+ERTH3003,2,Geomicrobiology,Geological Sciences (Extended Major)
+ERTH3021,2,Exploration & Mining Geophysics,Geological Sciences (Extended Major)
+ERTH3050,2,Field Geology: Mapping in the Outback,Geological Sciences (Extended Major)
+ERTH3060,2,Advanced Structural Geology,Geological Sciences (Extended Major)
+ERTH3103,2,Sedimentary Environments,Geological Sciences (Extended Major)
+ERTH3104,2,Tectonics and Crustal Evolution,Geological Sciences (Extended Major)
+ERTH3110,2,Marine Geoscience and Paleoceanography,Geological Sciences (Extended Major)
+ERTH3203,2,Energy Resources,Geological Sciences (Extended Major)
+ERTH3205,2,Geochemistry and Geochronology,Geological Sciences (Extended Major)
+ERTH3212,2,Geology of Coral Reefs,Geological Sciences (Extended Major)
+ERTH3222,2,Exploration Geochemistry,Geological Sciences (Extended Major)
+ERTH3250,2,Hydrogeology,Geological Sciences (Extended Major)
+ERTH3301,2,Ore Body Modelling,Geological Sciences (Extended Major)
+GEOM3001,2,Advanced Earth Observation Sciences (EOS),Geological Sciences (Extended Major)
+PHYS3071,2,Computational Physics,Geological Sciences (Extended Major)
+SCIE3230,2,Introduction to Research in Geological Sciences,Geological Sciences (Extended Major)
+SCIE3231,2,Research Project II in Geological Sciences,Geological Sciences (Extended Major)
+MGTS2604,2,Introduction to Human Resource Management,
+MGTS2607,2,Employment Relations,
+MGTS2603,2,Leading & Managing People,
+MGTS3601,2,Organisational Design & Change Management,
+MGTS3603,2,Strategic Human Resource Management,
+MGTS3604,2,Human Resource Development,
+MGTS3606,2,Global Human Resource Management,
+MGTS3607,2,Managing Performance,
+IBUS2301,2,International Business Management,
+IBUS2302,2,Globalisation & Business,
+IBUS2309,2,Understanding Cultures in International Business,
+IBUS3306,2,Managing International Legal Complexity,
+IBUS3310,2,International Business Operations,
+MGTS3606,2,Global Human Resource Management,
+BIOL1020,2,"Genes, Cells & Evolution",Marine Biology (Extended Major)
+BIOL1030,2,Global Challenges in Biology,Marine Biology (Extended Major)
+"[	
+	ERTH1000",2,Planet Earth: The Big Picture,Marine Biology (Extended Major)
+[ or,NA,[ or,Marine Biology (Extended Major)
+"[	
+	CHEM1221",2,"General, Organic & Biological Chemistry",Marine Biology (Extended Major)
+BIOL2006,2,Biostatistics & Experimental Design,Marine Biology (Extended Major)
+BIOL2204,2,Zoology,Marine Biology (Extended Major)
+MARS2014,2,Marine Science,Marine Biology (Extended Major)
+BIOL2010,2,Ecology,Marine Biology (Extended Major)
+BIOL2015,2,Ecology Field Studies,Marine Biology (Extended Major)
+BIOL2201,2,Evolution,Marine Biology (Extended Major)
+BIOL2202,2,Genetics,Marine Biology (Extended Major)
+BIOL2203,2,Plant Biology,Marine Biology (Extended Major)
+ERTH2002,2,Paleobiology,Marine Biology (Extended Major)
+MICR2000,2,Microbiology & Immunology,Marine Biology (Extended Major)
+BIOL3023,2,Tropical Marine Ecosystems,Marine Biology (Extended Major)
+BIOL3211,2,Marine Invertebrates,Marine Biology (Extended Major)
+BIOL3215,2,Marine Ecology and Conservation,Marine Biology (Extended Major)
+BIOL3340,2,"Fish, Fisheries and Aquaculture",Marine Biology (Extended Major)
+BIOL3360,2,Analysis and Communication of Biological Data,Marine Biology (Extended Major)
+MARS3012,2,Physical-biological Oceanography,Marine Biology (Extended Major)
+BIOL3000,2,Conservation,Marine Biology (Extended Major)
+BIOL3205,2,Physiological and Integrative Zoology,Marine Biology (Extended Major)
+BIOL3207,2,Animal Behaviour,Marine Biology (Extended Major)
+BIOL3209,2,"Biodiversity Analysis, Discovery and Systematics",Marine Biology (Extended Major)
+BIOL3236,2,Climate Change Biology,Marine Biology (Extended Major)
+BIOL3310,2,Macroecology and Biogeography,Marine Biology (Extended Major)
+BIOL3320,2,Vertebrate Diversity and Evolution,Marine Biology (Extended Major)
+ERTH3110,2,Marine Geoscience and Paleoceanography,Marine Biology (Extended Major)
+ERTH3212,2,Geology of Coral Reefs,Marine Biology (Extended Major)
+"[	
+	BIOL1020",2,"Genes, Cells & Evolution",Marine Science (Major)
+[ or,NA,[ or,Marine Science (Major)
+"[	
+	CHEM1221",2,"General, Organic & Biological Chemistry",Marine Science (Major)
+BIOL1030,2,Global Challenges in Biology,Marine Science (Major)
+ERTH1000,2,Planet Earth: The Big Picture,Marine Science (Major)
+BIOL2006,2,Biostatistics & Experimental Design,Marine Science (Major)
+MARS2014,2,Marine Science,Marine Science (Major)
+BIOL2010,2,Ecology,Marine Science (Major)
+BIOL2015,2,Ecology Field Studies,Marine Science (Major)
+BIOL2201,2,Evolution,Marine Science (Major)
+BIOL2202,2,Genetics,Marine Science (Major)
+BIOL2203,2,Plant Biology,Marine Science (Major)
+BIOL2204,2,Zoology,Marine Science (Major)
+ERTH2002,2,Paleobiology,Marine Science (Major)
+ERTH2003,2,"Sedimentology, Stratigraphy and Paleoenvironments",Marine Science (Major)
+ERTH2050,2,Field Geology,Marine Science (Major)
+ENVM2002,2,Marine & Coastal Environmental Protection,Marine Science (Major)
+GEOM2000,2,Introduction to Earth Observation Sciences (EOS),Marine Science (Major)
+GEOM2001,2,Geographical Information Systems,Marine Science (Major)
+GEOS2100,2,Environmental Systems,Marine Science (Major)
+GEOS2101,2,Climatology & Hydrology,Marine Science (Major)
+GEOS2103,2,Biogeography & Geomorphology,Marine Science (Major)
+MICR2000,2,Microbiology & Immunology,Marine Science (Major)
+BIOL3023,2,Tropical Marine Ecosystems,Marine Science (Major)
+BIOL3211,2,Marine Invertebrates,Marine Science (Major)
+BIOL3215,2,Marine Ecology and Conservation,Marine Science (Major)
+BIOL3340,2,"Fish, Fisheries and Aquaculture",Marine Science (Major)
+ENVM3200,2,Coastal Processes & Management,Marine Science (Major)
+ERTH3110,2,Marine Geoscience and Paleoceanography,Marine Science (Major)
+ERTH3212,2,Geology of Coral Reefs,Marine Science (Major)
+MARS3012,2,Physical-biological Oceanography,Marine Science (Major)
+MKTG2501,2,Consumer Behaviour,
+MKTG3501,2,Marketing Strategy,
+MKTG2505,2,Product and Service Management,
+MKTG2508,2,Brand Management and Strategy,
+MKTG2511,2,Marketing Analysis,
+MKTG3503,2,Sales and Account Management,
+MKTG3504,2,Applied Market Research,
+MKTG3509,2,Contemporary Issues in Marketing,
+"[	
+	MATH1051",2,Calculus & Linear Algebra I,Mathematics (Major)
+[ or,NA,[ or,Mathematics (Major)
+"[	
+	MATH1071",2,Advanced Calculus & Linear Algebra I,Mathematics (Major)
+"[	
+	MATH1052",2,Multivariate Calculus & Ordinary Differential Equations,Mathematics (Major)
+[ or,NA,[ or,Mathematics (Major)
+"[	
+	MATH1072",2,Advanced Multivariate Calculus & Ordinary Differential Equations,Mathematics (Major)
+MATH1061,2,Discrete Mathematics,Mathematics (Major)
+MATH2001,2,Advanced Calculus & Linear Algebra II,Mathematics (Major)
+"[	
+	MATH2400",2,Mathematical Analysis,Mathematics (Major)
+[ or,NA,[ or,Mathematics (Major)
+"[	
+	MATH2401",2,Mathematical Analysis and Advanced Topics,Mathematics (Major)
+MATH3401,2,Complex Analysis,Mathematics (Major)
+COSC2500,2,Numerical Methods in Computational Science,Mathematics (Major)
+MATH2100,2,Applied Mathematical Analysis,Mathematics (Major)
+MATH2301,2,Linear & Abstract Algebra & Number Theory,Mathematics (Major)
+MATH2302,2,Discrete Mathematics II,Mathematics (Major)
+PHYS2100,2,"Dynamics, Chaos & Special Relativity",Mathematics (Major)
+SCIE2100,2,Introduction to Bioinformatics,Mathematics (Major)
+STAT2003,2,Mathematical Probability,Mathematics (Major)
+STAT2004,2,Statistical Modelling & Analysis,Mathematics (Major)
+MATH3070,2,Natural Resource Mathematics,Mathematics (Major)
+MATH3090,2,Financial Mathematics,Mathematics (Major)
+MATH3101,2,Bifurcation and Chaos,Mathematics (Major)
+MATH3102,2,Methods & Models of Applied Mathematics,Mathematics (Major)
+MATH3103,2,Algebraic Methods of Mathematical Physics,Mathematics (Major)
+MATH3104,2,Mathematical Biology,Mathematics (Major)
+MATH3201,2,Scientific Computing: Advanced Techniques and Applications,Mathematics (Major)
+MATH3202,2,Operations Research & Mathematical Planning,Mathematics (Major)
+MATH3204,2,Numerical Linear Algebra and Optimisation,Mathematics (Major)
+MATH3301,2,Graph Theory and Design Theory,Mathematics (Major)
+MATH3302,2,Coding & Cryptography,Mathematics (Major)
+MATH3303,2,Abstract Algebra & Number Theory,Mathematics (Major)
+MATH3306,2,Set Theory & Mathematical Logic,Mathematics (Major)
+MATH3402,2,Functional Analysis,Mathematics (Major)
+MATH3403,2,Partial Differential Equations,Mathematics (Major)
+MATH3404,2,Optimisation Theory,Mathematics (Major)
+MATH3405,2,Differential Geometry,Mathematics (Major)
+STAT3004,2,Probability Models & Stochastic Processes,Mathematics (Major)
+"[	
+	MATH1051",2,Calculus & Linear Algebra I,Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	MATH1071",2,Advanced Calculus & Linear Algebra I,Mathematics (Extended Major)
+"[	
+	MATH1052",2,Multivariate Calculus & Ordinary Differential Equations,Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	MATH1072",2,Advanced Multivariate Calculus & Ordinary Differential Equations,Mathematics (Extended Major)
+MATH1061,2,Discrete Mathematics,Mathematics (Extended Major)
+MATH2001,2,Advanced Calculus & Linear Algebra II,Mathematics (Extended Major)
+"[	
+	MATH2400",2,Mathematical Analysis,Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	MATH2401",2,Mathematical Analysis and Advanced Topics,Mathematics (Extended Major)
+MATH3401,2,Complex Analysis,Mathematics (Extended Major)
+MATH2100,2,Applied Mathematical Analysis,Mathematics (Extended Major)
+MATH2301,2,Linear & Abstract Algebra & Number Theory,Mathematics (Extended Major)
+MATH2302,2,Discrete Mathematics II,Mathematics (Extended Major)
+STAT2003,2,Mathematical Probability,Mathematics (Extended Major)
+COSC2500,2,Numerical Methods in Computational Science,Mathematics (Extended Major)
+MATH2100,2,Applied Mathematical Analysis,Mathematics (Extended Major)
+MATH2301,2,Linear & Abstract Algebra & Number Theory,Mathematics (Extended Major)
+MATH2302,2,Discrete Mathematics II,Mathematics (Extended Major)
+PHYS2100,2,"Dynamics, Chaos & Special Relativity",Mathematics (Extended Major)
+SCIE2100,2,Introduction to Bioinformatics,Mathematics (Extended Major)
+STAT2003,2,Mathematical Probability,Mathematics (Extended Major)
+STAT2004,2,Statistical Modelling & Analysis,Mathematics (Extended Major)
+MATH3070,2,Natural Resource Mathematics,Mathematics (Extended Major)
+MATH3090,2,Financial Mathematics,Mathematics (Extended Major)
+MATH3101,2,Bifurcation and Chaos,Mathematics (Extended Major)
+MATH3102,2,Methods & Models of Applied Mathematics,Mathematics (Extended Major)
+MATH3103,2,Algebraic Methods of Mathematical Physics,Mathematics (Extended Major)
+MATH3104,2,Mathematical Biology,Mathematics (Extended Major)
+MATH3201,2,Scientific Computing: Advanced Techniques and Applications,Mathematics (Extended Major)
+MATH3202,2,Operations Research & Mathematical Planning,Mathematics (Extended Major)
+MATH3204,2,Numerical Linear Algebra and Optimisation,Mathematics (Extended Major)
+MATH3301,2,Graph Theory and Design Theory,Mathematics (Extended Major)
+MATH3302,2,Coding & Cryptography,Mathematics (Extended Major)
+MATH3303,2,Abstract Algebra & Number Theory,Mathematics (Extended Major)
+MATH3306,2,Set Theory & Mathematical Logic,Mathematics (Extended Major)
+MATH3402,2,Functional Analysis,Mathematics (Extended Major)
+MATH3403,2,Partial Differential Equations,Mathematics (Extended Major)
+MATH3404,2,Optimisation Theory,Mathematics (Extended Major)
+MATH3405,2,Differential Geometry,Mathematics (Extended Major)
+STAT3004,2,Probability Models & Stochastic Processes,Mathematics (Extended Major)
+"[	
+	SCIE3250",2,Introduction to Research in Mathematics/Physics,Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	SCIE3251",2,Introduction to Research in Mathematics/Physics,Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	SCIE3255",2,Mathematics & Physics Industry Project,Mathematics (Extended Major)
+"[	
+	BIOL3014",2,Advanced Bioinformatics,Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	COMP3506",2,Algorithms & Data Structures,Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	COSC3000",2,"Visualization, Computer Graphics & Data Analysis",Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	COSC3500",2,High-Performance Computing,Mathematics (Extended Major)
+[ or,NA,[ or,Mathematics (Extended Major)
+"[	
+	PHYS3040",2,Quantum Physics,Mathematics (Extended Major)
