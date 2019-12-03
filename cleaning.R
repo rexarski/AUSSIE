@@ -204,5 +204,5 @@ rm(CapStr)
 
 dfs <- bind_rows(do.call("rbind", lapply(ls(),get)))
 write(toJSON(dfs, pretty = F), "aus-uni.json")
-
+write_delim(dfs, delim=",", "aus-uni.csv")
 
