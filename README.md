@@ -2,36 +2,7 @@
 
 > Scrape course information Australian universities. Although some of them call programs "courses" and call courses "units". Potato, potato, the same thing.
 
-## Todo
-
-- [x] ANU
-- [x] University of Melbourne
-- [x] University of Sydney
-- [x] UNSW
-- [x] University of Queensland
-- [ ] Monash University
-- [ ] The University of Western Australia
-- [ ] University of Adelaide
-- [ ] The University of Canberra
-- [ ] Bond University
-- [ ] Carnegie Mellon University (Australia Campus)
-- [ ] Charles Sturt University
-- [ ] Curtin University
-- [ ] Deakin University
-- [ ] Griffith University
-- [ ] Macquarie University
-- [ ] Murdoch University
-- [ ] Queensland University of Technology
-- [ ] Royal Melbourne Institute of Technology
-- [ ] Southern Cross University
-- [ ] The University of Newcastle
-- [ ] University of South Australia
-- [ ] University of the Sunshine Coast
-- [ ] University of Tasmania
-- [x] University of Technology Sydney
-- [ ] University of Wollongong
-- [ ] Victoria University
-- [ ] Western Sydney University
+**The result is saved in `aus-uni.json`.**
 
 ## Setup
 
@@ -49,9 +20,40 @@ To stop Selenium, use this:
 docker stop [container_id]
 ```
 
-## The Australian National University
+## Todo
+  
+- [x] [ANU](https://programsandcourses.anu.edu.au/catalogue)
+- [x] [University of Melbourne](https://handbook.unimelb.edu.au/search?types%5B%5D=subject&year=2019&level_type%5B%5D=all&campus_and_attendance_mode%5B%5D=all&org_unit%5B%5D=all&page=1&sort=_score%7Cdesc)
+- [x] [University of Sydney](https://sydney.edu.au/courses/search.html)
+- [x] [University of New South Wales](http://timetable.unsw.edu.au/2020/subjectSearch.html)
+- [x] [University of Queensland](https://my.uq.edu.au/programs-courses/browse.html?level=ugpg) 
+- [x] [Monash University](http://www.monash.edu/pubs/2019handbooks/units/index-bycode.html)
+- [x] [University of Adelaide](https://www.adelaide.edu.au/course-outlines/)
+- [x] [University of Western Australia](https://handbooks.uwa.edu.au/search?type=units)
+- [x] [RMIT](https://www.rmit.edu.au/content/dam/rmit/documents/staff-site/servicesandtools/finance/2020-HE-course-list.pdf)
+- [x] [Deakin University](https://www.deakin.edu.au/courses-search/unit-search.php?hidCurrentYear=2020&hidYear=2020&hidType=max&txtUnit=&txtTitle=&txtKeyword=&selLevel=Select&selSemester=Select&selMode=Select&selLocation=B&chkSortby=unit_cd&btnSubmit=)
+- [x] [Victoria University](https://www.vu.edu.au/courses/search?iam=resident&query=&type=Unit)
+- [x] [Bond University](https://bond.edu.au/current-students/study-information/subjects?type=1&area=All)
+- [x] [Curtin University](http://handbook.curtin.edu.au/unitSearch.html)
+- [x] [Griffith University](https://www.griffith.edu.au/study/courses)
+- [x] [Murdoch University](http://handbook.murdoch.edu.au/units/?year=2020&sort=UnitCd)
+- [x] [Southern Cross University](https://www.scu.edu.au/study-at-scu/unit-search/?year=2020)
+- [x] [University of Newcastle](https://www.newcastle.edu.au/course)
+- [x] [University of Wollongong](https://solss.uow.edu.au/sid/cal.USER_CALENDAR_SELECT_SCREEN?p_cal_types=UP&p_breadcrumb_type=1&p_menu_type=1&p_cs=8794042783047766832)
+- [x] [University of Sunshine Coast](https://www.usc.edu.au/learn/courses-and-programs/courses/search-for-usc-courses?courseCode=&keyword=&teachingPeriodOfOffer=Semester+1&school=&offeredLocations=&submit=Search&searchType=coursesonly#coursesonly)
 
-**[Source](https://programsandcourses.anu.edu.au/catalogue)**
+**Data from the following unis are scraped by my colleague:
+
+- University of Technology Sydney
+- University of Canberra
+- Queensland University of Technology
+- La Trobe University
+- Macquarie University
+- [University of Tasmania](https://www.utas.edu.au/courses/unit-search?query=&collection=handbook-meta&clive=handbook-units&sort=&meta_B_and=&meta_A_and=&meta_F_phrase_and=&meta_M_phrase_and=&meta_J_phrase_and=&meta_unitYear=2020&meta_D_phrase_and=&meta_U_phrase_and=&meta_N_phrase_and=&meta_E_phrase_and=&meta_V_phrase_and=)
+
+## Comments
+
+### The Australian National University
 
 The content is inserted via JavaScript. So Selenium is required to render information before extracting real data.
 
@@ -59,9 +61,7 @@ In order to navigate to current page for scraping, a user need to click on ***Co
 
 Execute the commands in `ANU.R`, and a collection of courses would be stored in json format in directory `data`.
 
-## University of Melbourne
-
-**[Source](https://handbook.unimelb.edu.au/search?types%5B%5D=subject&year=2019&level_type%5B%5D=all&campus_and_attendance_mode%5B%5D=all&org_unit%5B%5D=all&page=1&sort=_score%7Cdesc)**
+### University of Melbourne
 
 The webpage showing all courses info is paginated. Initially, I thought we need to do these extra steps:
 
@@ -71,11 +71,9 @@ The webpage showing all courses info is paginated. Initially, I thought we need 
 
 With a popup window telling me to accept cookies, I turned myself to Selenium again for help. But it was really painful to deal with an error caused by `remDr$navigate(new_url)`, especailly it kept displaying an `UnknownError` message. Well, the ending of this story is not too bad as I realized I could just keep the popup window hanging. Screw Selenium!
 
-## University of Sydney
+### University of Sydney
 
-**[Source](https://sydney.edu.au/courses/search.html)**
-
-### Day 1
+#### Day 1
 
 Different error every time.
 
@@ -108,19 +106,15 @@ Error: 	 Summary: NoSuchElement
 	 Further Details: run errorDetails method
 ```
 
-### Day 2
+#### Day 2
 
 Turns out loading JavaScript takes a while on their webiste. Adding some downtime to each click on the web would be a nice solution.
 
-## University of New South West
-
-**[Source](http://timetable.unsw.edu.au/2020/subjectSearch.html)**
+### University of New South Wales
 
 The only thing worth mentioning is different subject pages might contain different number of "sections". Some area of subject has three sections: *undergraduate, postgraduate* and *research*. But some only has one.
 
-## University of Queesland
-
-**[Source 1](https://my.uq.edu.au/programs-courses/browse.html?level=ugpg)** and **[Source 2](https://my.uq.edu.au/programs-courses/browse.html?level=pgpg)**
+### University of Queensland
 
 This one is straightforward and tricky at the same time. The target urls to scrape are not in the same form all the way. Pay attention to this.
 
@@ -139,20 +133,36 @@ Additionally, there are some program pages, though directing to an existing cour
 > then probably it's better to get the exact url from previous page instead of "putting them together"
 > also major_data is different in the second type of webpage
 
-**breakpoint: 1930**
+### RMIT
 
-## Monash University
+RMIT is the only uni so far that requires a document analysis (kinda). Thanks to the formality of a table (in fact, multiple tables), it is not painful to extract all of them.
 
-- http://www.monash.edu/pubs/2019handbooks/units/index-bycode.html
+### Deakin
 
-## University of Western Australia
+On the contrary, I first thought Deakin's data is only contained in its corresponding pdf version handbook. That was really a PITA (guess what does this mean?) because although a toc is two-column, the data scraped is not. So matching left data from the left column and its leftovers onto the next line is even impossible. It feels really confusing even now I'm describing this to you and to myself. Just forget about it, I eventually figured out where to scrape the data.
 
-## University of Adelaide
+### Griffith
 
-## University of Canberra
+the lazy loading mechanics (if i'm correct) is really annoying in [this website](https://www.griffith.edu.au/study/courses).
+
+In detail, if we dive into the developer console of web browser, the secret is unveiled: each time we scroll to the end of this page, an additional 500 results will be rendered after a few seconds. So the best practice here is to directly get the response as json, dump them locally and deal with them later.
+
+A response url looks like [this](https://www.griffith.edu.au/_designs/search/degree-search?num_ranks=500&start_rank=2001&collection=courses-api) and we can modify the parameters to catch them all at the same time!
+
+The next step is to deal with json file ;)
+
+### USC
+
+Search results only contain top 50 out of all results. :( Why? It's impossible to extract all data if the data itself is kept secret.
 
 ## Useful Links
 
 - [Scraping HTML Text](http://bradleyboehmke.github.io/2015/12/scraping-html-text.html)
 - [Convert a list to a data frame](https://stackoverflow.com/questions/4227223/convert-a-list-to-a-data-frame)
 - [R grep pattern regex with brackets](https://stackoverflow.com/questions/7992436/r-grep-pattern-regex-with-brackets)
+- [strsplit with vertical bar](https://stackoverflow.com/questions/23193219/strsplit-with-vertical-bar-pipe)
+- [Remove a subset of records from a dataframe in r](https://stackoverflow.com/questions/38759429/remove-a-subset-of-records-from-a-dataframe-in-r)
+- [Merge extra contents to the left when splitting one column to two with multiple delimiters](https://stackoverflow.com/questions/33109799/merge-extra-contents-to-the-left-when-splitting-one-column-to-two-with-multiple)
+- [How to split a string from right-to-left, like Python's rsplit()?](https://stackoverflow.com/questions/20454768/how-to-split-a-string-from-right-to-left-like-pythons-rsplit)
+- [Why is message() a better choice than print() in R for writing a package?](https://stackoverflow.com/questions/36699272/why-is-message-a-better-choice-than-print-in-r-for-writing-a-package/36700294)
+- [How to extract date from a multiline string or File in R](https://stackoverflow.com/questions/58156097/how-to-extract-date-from-a-multiline-string-or-file-in-r)

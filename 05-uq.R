@@ -26,7 +26,7 @@ output <- tibble(code = character(),
                  major = character())
 
 # break point
-i <- 2055
+i <- 1
 
 while (i <= length(majors)) {
   
@@ -103,8 +103,7 @@ while (i <= length(majors)) {
   i <- i + 1
 }
 
-# write_delim(output, delim=",", "./data/uq.csv")
-write_delim(output, delim=",", "./data/uq-2055.csv")
+write_delim(output, delim=",", "./data/uq.csv")
 
 # rm(list=ls())
 # gc()

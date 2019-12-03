@@ -1,0 +1,2441 @@
+code,title,uni,state
+ACCT3102,External Reporting Issues,University of Queensland,QLD
+ACCT4101,Advanced Studies in Accounting,University of Queensland,QLD
+ACCT3101,Auditing & Public Practice,University of Queensland,QLD
+ACCT3103,Advanced Financial Accounting,University of Queensland,QLD
+ACCT3104,Management Accounting,University of Queensland,QLD
+ACCT3105,Advanced Management Accounting,University of Queensland,QLD
+BISM2206,Accounting Information and Software Applications,University of Queensland,QLD
+ECON1310,Quantitative Economic & Business Analysis A,University of Queensland,QLD
+LAWS3100,Corporations Law,University of Queensland,QLD
+LAWS3101,Income Tax Law,University of Queensland,QLD
+RBUS4999,Business Industry Placement,University of Queensland,QLD
+BISM2204,R for Business Analytics,University of Queensland,QLD
+BISM4201,Business Analytics: Cases and Strategies,University of Queensland,QLD
+BISM2205,Predictive Analytics in R,University of Queensland,QLD
+BISM3202,Machine Learning in R,University of Queensland,QLD
+BISM3204,Data Visualisation in R,University of Queensland,QLD
+BISM3209,Pricing and Revenue Optimisation,University of Queensland,QLD
+BISM4202,Text Analysis in R,University of Queensland,QLD
+BISM2207,Managing Business Data,University of Queensland,QLD
+BISM4203,Advanced Studies in Business Information Systems,University of Queensland,QLD
+BISM2202,Data Analytics and Information Management,University of Queensland,QLD
+BISM2203,Business Process Management,University of Queensland,QLD
+BISM3205,Business Information Security,University of Queensland,QLD
+BISM3206,Advanced Data Analytics,University of Queensland,QLD
+BISM3222,Information Analysis and System Design,University of Queensland,QLD
+TIMS2301,Theory of Entrepreneurship and Innovation,University of Queensland,QLD
+TIMS4301,Entrepreneurship and Innovation Incubator,University of Queensland,QLD
+TIMS3302,Entrepreneurship,University of Queensland,QLD
+TIMS3304,Social Entrepreneurship,University of Queensland,QLD
+TIMS3309,Fundamentals of Technology and Innovation Management,University of Queensland,QLD
+TIMS3310,Entrepreneurial Leadership,University of Queensland,QLD
+TIMS4302,Business Model Innovation and Growth,University of Queensland,QLD
+FINM2415,Corporate Finance,University of Queensland,QLD
+FINM4401,Advanced Studies in Finance,University of Queensland,QLD
+"[	
+	ECON3210",Financial Markets & Institutions,University of Queensland,QLD
+[ or,[ or,University of Queensland,QLD
+"[	
+	FINM3404",Banking & Lending Decisions,University of Queensland,QLD
+FINM2416,Asset Pricing,University of Queensland,QLD
+FINM3403,International Financial Management,University of Queensland,QLD
+FINM3405,Derivatives and Risk Management,University of Queensland,QLD
+MGTS2607,Employment Relations,University of Queensland,QLD
+MGTS4603,Advanced Studies in Human Resource Management,University of Queensland,QLD
+MGTS2603,Leading & Managing People,University of Queensland,QLD
+MGTS3601,Organisational Design & Change Management,University of Queensland,QLD
+MGTS3602,Managing Workplace Conflict,University of Queensland,QLD
+MGTS3603,Strategic Human Resource Management,University of Queensland,QLD
+MGTS3604,Human Resource Development,University of Queensland,QLD
+MGTS3605,Negotiating Employment Agreements,University of Queensland,QLD
+MGTS3606,Global Human Resource Management,University of Queensland,QLD
+MGTS3607,Managing Performance,University of Queensland,QLD
+IBUS3303,Global Production and Logistics,University of Queensland,QLD
+IBUS4301,Advanced Studies in International Business,University of Queensland,QLD
+IBUS2302,Globalisation & Business,University of Queensland,QLD
+IBUS2309,Understanding Cultures in International Business,University of Queensland,QLD
+IBUS3304,Business in Asia,University of Queensland,QLD
+IBUS3306,Managing International Legal Complexity,University of Queensland,QLD
+MKTG2501,Consumer Behaviour,University of Queensland,QLD
+MKTG4501,Advanced Studies in Marketing,University of Queensland,QLD
+MKTG2505,Product and Service Management,University of Queensland,QLD
+MKTG2508,Brand Management and Strategy,University of Queensland,QLD
+MKTG2511,Marketing Analysis,University of Queensland,QLD
+MKTG3501,Marketing Strategy,University of Queensland,QLD
+MKTG3503,Sales and Account Management,University of Queensland,QLD
+MKTG3504,Applied Market Research,University of Queensland,QLD
+MKTG3509,Contemporary Issues in Marketing,University of Queensland,QLD
+ECON6010,Microeconomics A,University of Queensland,QLD
+ECON6020,Macroeconomics A,University of Queensland,QLD
+ECON6300,Advanced Microeconometrics,University of Queensland,QLD
+ECON6910,Honours Thesis,University of Queensland,QLD
+ECON6030,Microeconomics B,University of Queensland,QLD
+ECON6040,Macroeconomics B,University of Queensland,QLD
+RBUS6923,Scientific Methods in Commerce,University of Queensland,QLD
+RBUS6996,Honours Thesis A,University of Queensland,QLD
+"[	
+	FINM6401",Corporate Finance Honours,University of Queensland,QLD
+"[	
+	FINM6402",Empirical Finance Honours,University of Queensland,QLD
+FINM6403,Empirical Finance Honours II,University of Queensland,QLD
+ANCH1240,The Rise of Ancient Greece: Greek History to the 4th Century BC,University of Queensland,QLD
+ANCH1250,The Rise of Ancient Rome: Roman History from Romulus to Augustus,University of Queensland,QLD
+ANCH2030,"Myth, Magic and Religion in the Ancient World",University of Queensland,QLD
+ANCH2040,The World of Classical Athens: Politics and Society,University of Queensland,QLD
+ANCH2050,Ancient World Study Tour: Sites and Museums,University of Queensland,QLD
+ANCH2070,Study Tour: Sites and Museums of Roman Italy,University of Queensland,QLD
+ANCH2130,Alexander the Great and the Hellenistic World,University of Queensland,QLD
+ANCH2230,The Roman Empire: Politics and Society,University of Queensland,QLD
+ANCH2250,The Career and Influence of Julius Caesar,University of Queensland,QLD
+ANCH2270,Art & Archaeology of Ancient Rome,University of Queensland,QLD
+ANCH2280,Roman Society & Civilisation,University of Queensland,QLD
+ANCH2290,Art & Archaeology of Ancient Greece,University of Queensland,QLD
+ANCH2310,Individuals and the State in the Roman Republic,University of Queensland,QLD
+ANCH2431,The World of Late Antiquity,University of Queensland,QLD
+ANCH2500,Ancient History and Modern Cinema,University of Queensland,QLD
+ANCH2900,R.D. Milns Antiquities Museum International Internship and Field,University of Queensland,QLD
+DRAM2090,Ancient Greek and Roman Theatre,University of Queensland,QLD
+GREK2120,Intermediate Greek,University of Queensland,QLD
+GREK2230,Greek Language & Literature 1,University of Queensland,QLD
+LATN2120,Intermediate Latin,University of Queensland,QLD
+LATN2230,Latin Language & Literature 1,University of Queensland,QLD
+WRIT3100,Writing Ancient History,University of Queensland,QLD
+ANCH3020,Special Topic in Greek History,University of Queensland,QLD
+ANCH3030,Special Topic in Roman History,University of Queensland,QLD
+GREK1110,Introductory Greek,University of Queensland,QLD
+LATN1110,Introductory Latin,University of Queensland,QLD
+ARTT1105,Art in the Modern World,University of Queensland,QLD
+ARTT1106,Looking at Art,University of Queensland,QLD
+ARTT2103,Australia Pacific Indigenous Arts,University of Queensland,QLD
+ARTT2102,Renaissance Art,University of Queensland,QLD
+ARTT2105,"Baroque and Beyond, 1600-1900",University of Queensland,QLD
+ARTT2107,Asian Contemporary Art,University of Queensland,QLD
+ARTT2127,Australian Art,University of Queensland,QLD
+ARTT3117,Visual Arts Curating and Writing,University of Queensland,QLD
+MSTU2140,Studies in Photography,University of Queensland,QLD
+ARTT2116,Art and Architecture in Venice,University of Queensland,QLD
+ARTT2200,Indigenous Art and Culture Field School,University of Queensland,QLD
+ARTT3200,Art Internships & Independent Research,University of Queensland,QLD
+ARTT3100,Readings in Art History,University of Queensland,QLD
+ARTT3101,Topics in Contemporary Art,University of Queensland,QLD
+PHIL2500,Philosophy & Art,University of Queensland,QLD
+DRAM1010,Elements of Performance,University of Queensland,QLD
+DRAM1100,The Theatre Experience,University of Queensland,QLD
+DRAM2030,Experimentation in 20th Century Theatre,University of Queensland,QLD
+DRAM2025,Major Movements in European Theatre (1500-1800),University of Queensland,QLD
+DRAM2040,Contemporary Theatre & Performance,University of Queensland,QLD
+DRAM2050,Australian Drama,University of Queensland,QLD
+DRAM2200,Live Theatre Production: Performance Creation & Event Management,University of Queensland,QLD
+DRAM3103,Theatre Historiography: Making the Connections,University of Queensland,QLD
+DRAM3102,Playwriting & Dramaturgy: Creative Practice,University of Queensland,QLD
+DRAM3104,"Independent Practice: Secondments, Field Trips, Research",University of Queensland,QLD
+DRAM3105,Directing & Dramaturgy: From History to Workshop,University of Queensland,QLD
+DRAM2400,Performative Communication: Presentation and Public Speaking,University of Queensland,QLD
+WRIT2120,Creative Writing: Screenwriting,University of Queensland,QLD
+WRIT2250,"Writing: Grammar, Syntax, and Style",University of Queensland,QLD
+ENGL1800,Literary Classics: Texts and Traditions,University of Queensland,QLD
+ENGL1500,Contemporary Literature: Reading & Writing,University of Queensland,QLD
+ENGL1900,The Birth of the Modern: Literature and Thought from 1850 to 1960,University of Queensland,QLD
+ENGL2405,Thinking about Literature: Criticism and Theory,University of Queensland,QLD
+ENGL2040,Gothic Fiction,University of Queensland,QLD
+ENGL2060,Shakespeare and His Contemporaries,University of Queensland,QLD
+ENGL2065,Jane Austen and her Influence,University of Queensland,QLD
+ENGL2070,"Contemporary British and American Fiction: Ethics, Politics,and Literature",University of Queensland,QLD
+ENGL2440,"The Novel: Realism, History, Fiction",University of Queensland,QLD
+ENGL2460,Poetry: Tradition and Revolution,University of Queensland,QLD
+ENGL3100,Australian Literature,University of Queensland,QLD
+ENGL3500,Gender and Textuality,University of Queensland,QLD
+ENGL3630,Postmodernism: Fiction and Theories,University of Queensland,QLD
+ENGL3020,"Journals, Repositories & Conferences Internship",University of Queensland,QLD
+ENGL3030,Adaptation: Studies in Transmission Between Cultures and Forms,University of Queensland,QLD
+HIST1601,Turning Points in World History,University of Queensland,QLD
+HIST1201,The Australian Experience,University of Queensland,QLD
+HIST1400,The Medieval and Early Modern World,University of Queensland,QLD
+HIST2312,The History Makers,University of Queensland,QLD
+HIST2100,"China: From Empire to Republic, 1500-1951",University of Queensland,QLD
+HIST2101,"Contemporary China: The People's Republic, Hong Kong & Taiwan since 1949",University of Queensland,QLD
+HIST2107,The Modern Middle East,University of Queensland,QLD
+HIST2119,"Modern Southeast Asia: Freedom, Power and the State",University of Queensland,QLD
+HIST2140,Indian History and Religion Study Tour,University of Queensland,QLD
+RELN2300,"Rituals, Priests & Kings: A History of Hinduism",University of Queensland,QLD
+HIST2619,Japan and the World,University of Queensland,QLD
+HIST2013,Medieval Study Tour,University of Queensland,QLD
+HIST2411,Witchcraft & Demonology in Early Modern Europe & Its Colonies,University of Queensland,QLD
+HIST2412,The British Isles: 1500-1700,University of Queensland,QLD
+HIST2416,Medieval Heresy,University of Queensland,QLD
+HIST2615,Age of Crusades,University of Queensland,QLD
+RELN2411,Western Religious Thought from the Middle Ages to the Present,University of Queensland,QLD
+HIST2211,America in Film,University of Queensland,QLD
+HIST2245,Australians at War,University of Queensland,QLD
+HIST2247,The Making of Modern Australia: Society & Culture since 1901,University of Queensland,QLD
+HIST2407,Germany from Bismarck to Hitler (1870-1933),University of Queensland,QLD
+HIST2408,Germany from Hitler to Reunification (1933-1991),University of Queensland,QLD
+HIST2414,The Radical Right & Fascism in Europe,University of Queensland,QLD
+HIST2417,"Imperial Britain: Crisis and Conflict, 1815-1945",University of Queensland,QLD
+HIST2707,The Anatomy of a Super Power: the US since 1945,University of Queensland,QLD
+HIST2030,"History of Medicine, Science and the Body",University of Queensland,QLD
+HIST2603,Sex in History,University of Queensland,QLD
+HIST2611,"Body, Fashion & Consumption in History",University of Queensland,QLD
+WRIT3613,History in Action,University of Queensland,QLD
+HIST3616,History in Popular Culture,University of Queensland,QLD
+HIST3301,History of Genocide,University of Queensland,QLD
+HIST3302,The City in History,University of Queensland,QLD
+HIST3303,Trafficking Bodies from the Ancient World to the Present,University of Queensland,QLD
+MATH1051,Calculus & Linear Algebra I,University of Queensland,QLD
+MATH1052,Multivariate Calculus & Ordinary Differential Equations,University of Queensland,QLD
+MATH2001,Advanced Calculus & Linear Algebra II,University of Queensland,QLD
+MATH2400,Mathematical Analysis,University of Queensland,QLD
+MATH1050,Mathematical Foundations,University of Queensland,QLD
+COSC2500,Numerical Methods in Computational Science,University of Queensland,QLD
+MATH2100,Applied Mathematical Analysis,University of Queensland,QLD
+STAT2003,Mathematical Probability,University of Queensland,QLD
+STAT2203,Probability Models and Data Analysis for Engineering,University of Queensland,QLD
+MATH3401,Complex Analysis,University of Queensland,QLD
+MATH3090,Financial Mathematics,University of Queensland,QLD
+MATH3101,Bifurcation and Chaos,University of Queensland,QLD
+MATH3102,Methods & Models of Applied Mathematics,University of Queensland,QLD
+MATH3103,Algebraic Methods of Mathematical Physics,University of Queensland,QLD
+MATH3104,Mathematical Biology,University of Queensland,QLD
+MATH3201,Scientific Computing: Advanced Techniques and Applications,University of Queensland,QLD
+MATH3202,Operations Research & Mathematical Planning,University of Queensland,QLD
+MATH3402,Functional Analysis,University of Queensland,QLD
+MATH3403,Partial Differential Equations,University of Queensland,QLD
+MATH3404,Optimisation Theory,University of Queensland,QLD
+MATH3405,Differential Geometry,University of Queensland,QLD
+STAT3004,Probability Models & Stochastic Processes,University of Queensland,QLD
+MATH1061,Discrete Mathematics,University of Queensland,QLD
+MATH2301,Linear & Abstract Algebra & Number Theory,University of Queensland,QLD
+MATH2302,Discrete Mathematics II,University of Queensland,QLD
+MATH3301,Graph Theory and Design Theory,University of Queensland,QLD
+MATH3302,Coding & Cryptography,University of Queensland,QLD
+MATH3303,Abstract Algebra & Number Theory,University of Queensland,QLD
+MATH3306,Set Theory & Mathematical Logic,University of Queensland,QLD
+MUSC1050,Music in Society 1,University of Queensland,QLD
+MUSC1600,Musicianship 1,University of Queensland,QLD
+MUSC2051,Music in Society 2,University of Queensland,QLD
+MUSC2060,Musicianship 2,University of Queensland,QLD
+MUSC2510,Music in Society 3,University of Queensland,QLD
+MUSC3560,Historical Performance Practice,University of Queensland,QLD
+MUSC3600,Counterpoint,University of Queensland,QLD
+MUSC3720,Music in Film and Television,University of Queensland,QLD
+MUSC2300,Music and Human Behaviour,University of Queensland,QLD
+MUSC2310,"Music, Wellbeing and Health",University of Queensland,QLD
+MUSC2501,Music History - Medieval/Renaissance,University of Queensland,QLD
+MUSC2640,Introduction to Musical Analysis,University of Queensland,QLD
+MUSC2710,"Music in War, Protest and Peace",University of Queensland,QLD
+MUSC3540,"Music Communication, Writing and Critique",University of Queensland,QLD
+MUSC2620,Advanced Musicianship 1,University of Queensland,QLD
+MUSC2630,Advanced Musicianship 2,University of Queensland,QLD
+PHIL1002,Introduction to Philosophy: What is Philosophy?,University of Queensland,QLD
+PHIL1013,Introduction to Ethics,University of Queensland,QLD
+PHIL1110,Critical Reasoning,University of Queensland,QLD
+PHIL2013,Rise of Modern Philosophy,University of Queensland,QLD
+PHIL2000,Epistemology & Metaphysics,University of Queensland,QLD
+PHIL2010,Representation & Reality: The Philosophy of Language,University of Queensland,QLD
+PHIL2011,Philosophy of Modern Physics,University of Queensland,QLD
+PHIL2020,Paradoxes,University of Queensland,QLD
+PHIL2050,Mind and Cognition,University of Queensland,QLD
+PHIL2090,Philosophy of Science: select topics in the foundations of scientific enquiry,University of Queensland,QLD
+PHIL2110,Formal Logic: an introduction to classical formal logic,University of Queensland,QLD
+PHIL2150,Philosophy of the Life Sciences,University of Queensland,QLD
+PHIL2190,Feminist Philosophy,University of Queensland,QLD
+PHIL2210,Environmental Philosophy,University of Queensland,QLD
+PHIL2220,Kant & European Philosophy,University of Queensland,QLD
+PHIL2300,Phenomenology & Existentialism,University of Queensland,QLD
+PHIL2310,European Social Philosophy,University of Queensland,QLD
+PHIL2330,Political Philosophy,University of Queensland,QLD
+PHIL2700,Philosophy and Education,University of Queensland,QLD
+PHIL2750,Social and Economic Justice,University of Queensland,QLD
+PHIL3002,Philosophy Today,University of Queensland,QLD
+PHIL3110,Advanced Logic,University of Queensland,QLD
+PHIL3612,Advanced Topics in Metaphysics,University of Queensland,QLD
+PHIL3620,Contemporary European Philosophy,University of Queensland,QLD
+PHIL3630,Advanced Topics in Moral & Political Philosophy,University of Queensland,QLD
+RELN1000,World Religions,University of Queensland,QLD
+RELN1001,Belief & Unbelief,University of Queensland,QLD
+RELN1510,The History of the Supernatural,University of Queensland,QLD
+RELN2000,"The idea of the sacred: texts, places and festivals",University of Queensland,QLD
+RELN2113,Spirituality in the Everyday,University of Queensland,QLD
+RELN2115,Playing God: Religion & Science,University of Queensland,QLD
+RELN2117,Sociology of Religion,University of Queensland,QLD
+RELN2301,Buddhism,University of Queensland,QLD
+RELN2307,Islam,University of Queensland,QLD
+RELN2310,"Religion, Peace and Violence",University of Queensland,QLD
+RELN2409,The World of Jesus and the Early Christians,University of Queensland,QLD
+RELN2410,The Bible: Narratives & Interpretations,University of Queensland,QLD
+RELN3000,The Future of Religion: An Advanced Study of Contemporary Issues,University of Queensland,QLD
+RELN3001,Independent Study Unit,University of Queensland,QLD
+RELN3500,Advanced Study of Religious Texts A,University of Queensland,QLD
+RELN3501,Advanced Study of Religious Texts B,University of Queensland,QLD
+BIOL2106,Advanced Biostatistics,University of Queensland,QLD
+BIOL2902,Advanced Genetics,University of Queensland,QLD
+"[	
+	SCIE3241",Special Project in Biology,University of Queensland,QLD
+"[	
+	SCIE3260","Introduction to Research in Chemistry, Biochemistry & Microbiology (A)",University of Queensland,QLD
+"[	
+	SCIE3261","Introduction to Research in Chemistry, Biochemistry & Microbiology (B)",University of Queensland,QLD
+"[	
+	SCIE3270",Introduction to Research in Agriculture and Food Science (A),University of Queensland,QLD
+"[	
+	SCIE3271",Introduction to Research in Agriculture and Food Science (B),University of Queensland,QLD
+"[	
+	BIOL6402",Critical Thinking and Communication in Biology,University of Queensland,QLD
+"[	
+	BIOL6403",Critical Thinking and Communication in Biology,University of Queensland,QLD
+"[	
+	BIOL6501",BSc(Hons) Research in Biological Sciences,University of Queensland,QLD
+"[	
+	BIOL6502",BSc(Hons) Research in Biological Sciences,University of Queensland,QLD
+"[	
+	BIOL6503",BSc(Hons) Research in Biological Sciences,University of Queensland,QLD
+"[	
+	BIOC6511",Honours Project,University of Queensland,QLD
+"[	
+	BIOC6512",Honours Project,University of Queensland,QLD
+AGRC6631,Agricultural Research Methodologies,University of Queensland,QLD
+"[	
+	AGRC6001",Honours Research Project,University of Queensland,QLD
+"[	
+	AGRC6002",Honours Research Project,University of Queensland,QLD
+BIOL1020,"Genes, Cells & Evolution",University of Queensland,QLD
+BIOL1040,Cells to Organisms,University of Queensland,QLD
+CHEM1100,Chemistry 1,University of Queensland,QLD
+BIOC2000,Biochemistry & Molecular Biology,University of Queensland,QLD
+BIOC3000,Advanced Biochemistry and Molecular Biology,University of Queensland,QLD
+BIOL2200,Cell Structure & Function,University of Queensland,QLD
+CHEM2052,Chemical Biology,University of Queensland,QLD
+CHEM2060,Intermediate Chemistry 2,University of Queensland,QLD
+MICR2000,Microbiology & Immunology,University of Queensland,QLD
+SCIE2020,CSI UQ: Introduction to Forensic Science,University of Queensland,QLD
+BIOC3003,Human Molecular Genetics & Disease,University of Queensland,QLD
+BIOC3005,Molecular Systems Biology,University of Queensland,QLD
+BIOC3006,Biochemistry of Metabolism in Health and Disease,University of Queensland,QLD
+BIOL3004,Genomics & Bioinformatics,University of Queensland,QLD
+BIOL3006,Molecular Cell Biology,University of Queensland,QLD
+BIOL1030,Global Challenges in Biology,University of Queensland,QLD
+BIOL2010,Ecology,University of Queensland,QLD
+BIOL3360,Analysis and Communication of Biological Data,University of Queensland,QLD
+BIOL2015,Ecology Field Studies,University of Queensland,QLD
+BIOL2201,Evolution,University of Queensland,QLD
+BIOL2203,Plant Biology,University of Queensland,QLD
+BIOL2204,Zoology,University of Queensland,QLD
+BIOL2205,Insect Science,University of Queensland,QLD
+GEOM2001,Geographical Information Systems,University of Queensland,QLD
+MARS2014,Marine Science,University of Queensland,QLD
+BIOL3000,Conservation,University of Queensland,QLD
+BIOL3016,Outback Ecology Field Studies,University of Queensland,QLD
+BIOL3215,Marine Ecology and Conservation,University of Queensland,QLD
+BIOL3310,Macroecology and Biogeography,University of Queensland,QLD
+BIOL3370,Animal-Plant Interactions,University of Queensland,QLD
+BIOL3009,Arthropods & Human Health,University of Queensland,QLD
+BIOL3023,Tropical Marine Ecosystems,University of Queensland,QLD
+BIOL3204,Plant Adaptation and Global Change,University of Queensland,QLD
+BIOL3205,Physiological and Integrative Zoology,University of Queensland,QLD
+BIOL3207,Animal Behaviour,University of Queensland,QLD
+BIOL3209,"Biodiversity Analysis, Discovery and Systematics",University of Queensland,QLD
+BIOL3227,Plant Identification and Vegetation Classification,University of Queensland,QLD
+BIOL3232,Insect Identification and Taxonomy,University of Queensland,QLD
+BIOL3236,Climate Change Biology,University of Queensland,QLD
+BIOL3320,Vertebrate Diversity and Evolution,University of Queensland,QLD
+BIOL3340,"Fish, Fisheries and Aquaculture",University of Queensland,QLD
+BIOL3350,Genetics and Evolution of Complex Traits: From Humans to Non-Model Organisms,University of Queensland,QLD
+BIOL3380,Laboratory Skills in Genetic Research,University of Queensland,QLD
+BIOL3390,Genome Evolution,University of Queensland,QLD
+CONS3017,Landscape Ecology,University of Queensland,QLD
+BIOL3014,Advanced Bioinformatics,University of Queensland,QLD
+BIOL3203,Plant Molecular Biology & Biotechnology,University of Queensland,QLD
+BIOL3222,Model Organism Genetics,University of Queensland,QLD
+MICR3002,Virology,University of Queensland,QLD
+MICR3003,Molecular Microbiology,University of Queensland,QLD
+MICR3004,Microbial Genomics,University of Queensland,QLD
+BIOL3211,Marine Invertebrates,University of Queensland,QLD
+ERTH3110,Marine Geoscience and Paleoceanography,University of Queensland,QLD
+ERTH3212,Geology of Coral Reefs,University of Queensland,QLD
+MARS3012,Physical-biological Oceanography,University of Queensland,QLD
+MICR3001,Microbes & Human Health,University of Queensland,QLD
+BIOL3003,Advanced Immunology,University of Queensland,QLD
+PARA3002,Biomedical Parasitology,University of Queensland,QLD
+BIOL3011,Plant Microbe & Insect Interactions,University of Queensland,QLD
+BIOL3200,Current Topics in Plant Science,University of Queensland,QLD
+BIOL3201,Plant Diseases,University of Queensland,QLD
+BIOL3202,Plant Biology II,University of Queensland,QLD
+BIOL3210,Fungal Biology,University of Queensland,QLD
+PLNT3012,Weed Science,University of Queensland,QLD
+BIOL3238,"Insect Structure, Function & Physiology",University of Queensland,QLD
+BIOL3239,Brain to Behaviour: Invertebrate Neuroethology,University of Queensland,QLD
+BIOM2013,Advanced Integrative Cell & Tissue Biology,University of Queensland,QLD
+BIOM2222,Advanced Techniques in Biomedical Science,University of Queensland,QLD
+BIOM3333,Principles of Biomedical Research,University of Queensland,QLD
+"[	
+	BIOM6501",Research Project in Biomedical Sciences,University of Queensland,QLD
+"[	
+	BIOM6502",Research Project in Biomedical Sciences,University of Queensland,QLD
+"[	
+	BIOM6503",Research Project in Biomedical Sciences,University of Queensland,QLD
+BIOL2202,Genetics,University of Queensland,QLD
+BIOM2012,Systems Physiology,University of Queensland,QLD
+BIOM2020,Human Anatomy,University of Queensland,QLD
+BIOM2208,Differentiation & Development,University of Queensland,QLD
+BIOM2402,Principles of Pharmacology,University of Queensland,QLD
+SCIE3220,Biomedical Science Research Skills,University of Queensland,QLD
+SCIE3221,Biomedical Science Research Project,University of Queensland,QLD
+SCIE3222,Advanced Biomedical Science Research Project,University of Queensland,QLD
+SCIE3223,Advanced Biomedical Science Research Project,University of Queensland,QLD
+SCIE3224,Advanced Biomedical Science Research Project,University of Queensland,QLD
+SCIE3225,Advanced Biomedical Science Research Project,University of Queensland,QLD
+SCIE3226,Advanced Biomedical Science Research Project,University of Queensland,QLD
+SCIE3260,"Introduction to Research in Chemistry, Biochemistry & Microbiology (A)",University of Queensland,QLD
+SCIE3261,"Introduction to Research in Chemistry, Biochemistry & Microbiology (B)",University of Queensland,QLD
+ANAT3022,Functional Neuroanatomy,University of Queensland,QLD
+BIOM3002,Human Biomedical Anatomy,University of Queensland,QLD
+BIOM3003,Functional Musculoskeletal Anatomy,University of Queensland,QLD
+BIOM3014,Molecular & Cellular Physiology,University of Queensland,QLD
+BIOM3015,Integrative Physiology & Pathophysiology,University of Queensland,QLD
+BIOM3020,Integrated Endocrinology,University of Queensland,QLD
+BIOM3401,Systems Pharmacology,University of Queensland,QLD
+BIOM3402,Experimental Pharmacology,University of Queensland,QLD
+BIOT3002,Drug Design & Development,University of Queensland,QLD
+DEVB3001,Developmental Neurobiology,University of Queensland,QLD
+DEVB3002,Stem Cells and Regenerative Medicine,University of Queensland,QLD
+NEUR3001,Molecular & Cellular Neuroscience,University of Queensland,QLD
+NEUR3002,The Integrated Brain,University of Queensland,QLD
+CHEM1200,Chemistry 2,University of Queensland,QLD
+CHEM2054,Experimental Chemistry,University of Queensland,QLD
+CHEM2901,Advanced Chemistry 1,University of Queensland,QLD
+CHEM2902,Advanced Chemistry 2,University of Queensland,QLD
+CHEM3001,Advanced Organic Chemistry,University of Queensland,QLD
+CHEM3004,Determination of Molecular Structure,University of Queensland,QLD
+CHEM3010,Advanced Inorganic Chemistry,University of Queensland,QLD
+CHEM3011,Advanced Physical Chemistry,University of Queensland,QLD
+CHEM3016,Advanced Experimental Chemistry,University of Queensland,QLD
+"[	
+	CHEM6511",Honours in Chemistry,University of Queensland,QLD
+"[	
+	CHEM6512",Honours in Chemistry,University of Queensland,QLD
+"[	
+	CHEM6513",Honours in Chemistry,University of Queensland,QLD
+CHEM2058,Translational Chemistry and Data Processing,University of Queensland,QLD
+GEOM1000,Fundamentals of Geographic Information and Technologies,University of Queensland,QLD
+GEOS1100,Environment & Society,University of Queensland,QLD
+GEOS3102,Global Change: Problems and Prospects,University of Queensland,QLD
+"[	
+	GEOS3401",Advanced Science Research Topic in Geographical Science,University of Queensland,QLD
+"[	
+	GEOS3402",Advanced Science Research Topic in Geographical Science,University of Queensland,QLD
+ENVM4008,Science & the Environment,University of Queensland,QLD
+"[	
+	GEOS6100",Honours Research Thesis,University of Queensland,QLD
+"[	
+	GEOS6101",Honours Research Thesis,University of Queensland,QLD
+GEOG2205,Global Population Issues,University of Queensland,QLD
+GEOM2000,Introduction to Earth Observation Sciences (EOS),University of Queensland,QLD
+GEOS2100,Environmental Systems,University of Queensland,QLD
+GEOS2101,Climatology & Hydrology,University of Queensland,QLD
+GEOS2103,Biogeography & Geomorphology,University of Queensland,QLD
+GEOS2110,Tectonics and Geomorphology of Active Plate Boundaries,University of Queensland,QLD
+STAT2004,Statistical Modelling & Analysis,University of Queensland,QLD
+COSC3000,"Visualization, Computer Graphics & Data Analysis",University of Queensland,QLD
+ENVM3201,Catchment Processes & Management,University of Queensland,QLD
+GEOG3205,Applied Demography,University of Queensland,QLD
+GEOM3001,Advanced Earth Observation Sciences (EOS),University of Queensland,QLD
+GEOM3002,Advanced Geographical Information Systems,University of Queensland,QLD
+GEOM3005,Geospatial Processing and Web Mapping,University of Queensland,QLD
+GEOS3106,Environmental Hazards,University of Queensland,QLD
+GEOS3107,"Plants, People and the Environment",University of Queensland,QLD
+GEOS3108,Meteorology,University of Queensland,QLD
+GEOS3400,Research Topic,University of Queensland,QLD
+ERTH1000,Planet Earth: The Big Picture,University of Queensland,QLD
+SCIE1100,Advanced Theory and Practice in Science,University of Queensland,QLD
+ERTH2004,Structural Geology,University of Queensland,QLD
+ERTH2006,Igneous & Metamorphic Petrology,University of Queensland,QLD
+ERTH2020,Introduction to Geophysics,University of Queensland,QLD
+ERTH2050,Field Geology,University of Queensland,QLD
+ERTH3001,Ore Deposits & Exploration Geology,University of Queensland,QLD
+ERTH3104,Tectonics and Crustal Evolution,University of Queensland,QLD
+SCIE3230,Introduction to Research in Geological Sciences,University of Queensland,QLD
+ERTH3021,Exploration & Mining Geophysics,University of Queensland,QLD
+ERTH3050,Field Geology: Mapping in the Outback,University of Queensland,QLD
+ERTH3060,Advanced Structural Geology,University of Queensland,QLD
+ERTH3103,Sedimentary Environments,University of Queensland,QLD
+ERTH3203,Energy Resources,University of Queensland,QLD
+ERTH3205,Geochemistry and Geochronology,University of Queensland,QLD
+ERTH3250,Hydrogeology,University of Queensland,QLD
+ERTH3301,Ore Body Modelling,University of Queensland,QLD
+PHYS3071,Computational Physics,University of Queensland,QLD
+"[	
+	ERTH6501",Geology Honours Thesis,University of Queensland,QLD
+"[	
+	ERTH6502",Geology Honours Thesis,University of Queensland,QLD
+"[	
+	MATH1051",Calculus & Linear Algebra I,University of Queensland,QLD
+"[	
+	MATH1071",Advanced Calculus & Linear Algebra I,University of Queensland,QLD
+"[	
+	MATH1052",Multivariate Calculus & Ordinary Differential Equations,University of Queensland,QLD
+"[	
+	MATH1072",Advanced Multivariate Calculus & Ordinary Differential Equations,University of Queensland,QLD
+"[	
+	MATH2400",Mathematical Analysis,University of Queensland,QLD
+"[	
+	MATH2401",Mathematical Analysis and Advanced Topics,University of Queensland,QLD
+"[	
+	MATH6010",Mathematics Honours Research Project,University of Queensland,QLD
+"[	
+	MATH6020",Mathematics Honours Research Project,University of Queensland,QLD
+"[	
+	SCIE3250",Introduction to Research in Mathematics/Physics,University of Queensland,QLD
+"[	
+	SCIE3251",Introduction to Research in Mathematics/Physics,University of Queensland,QLD
+PHYS2100,"Dynamics, Chaos & Special Relativity",University of Queensland,QLD
+SCIE2100,Introduction to Bioinformatics,University of Queensland,QLD
+MATH3070,Natural Resource Mathematics,University of Queensland,QLD
+MATH3204,Numerical Linear Algebra and Optimisation,University of Queensland,QLD
+MATH4090,Computation in Financial Mathematics,University of Queensland,QLD
+MATH4091,Financial Calculus,University of Queensland,QLD
+MATH4104,Advanced Hamiltonian Dynamics & Chaos,University of Queensland,QLD
+MATH4105,General Relativity,University of Queensland,QLD
+MATH4106,Advanced Mathematical Methods & Models A,University of Queensland,QLD
+MATH4107,Advanced Mathematical Methods & Models B,University of Queensland,QLD
+MATH4201,Applications of Scientific Computing,University of Queensland,QLD
+MATH4202,Advanced Topics in Operations Research,University of Queensland,QLD
+MATH4301,Advanced Algebra,University of Queensland,QLD
+MATH4302,Combinatorial Designs,University of Queensland,QLD
+MATH4303,Advanced Combinatorics,University of Queensland,QLD
+MATH4304,Number Theory,University of Queensland,QLD
+MATH4402,Ordinary Differential Equations III/IVH,University of Queensland,QLD
+MATH4403,Partial Differential Equations III/IVH,University of Queensland,QLD
+MATH4404,Functional Analysis III/IVH,University of Queensland,QLD
+MATH4405,Measure Theory,University of Queensland,QLD
+MATH4406,Control Theory III/IVH,University of Queensland,QLD
+MATH6006,Special Topics A,University of Queensland,QLD
+MATH6007,Special Topics B,University of Queensland,QLD
+STAT4403,Advanced Probability & Stochastic Processes I,University of Queensland,QLD
+STAT4404,Advanced Probability & Stochastic Processes II,University of Queensland,QLD
+PHYS1001,Mechanics & Thermal Physics I,University of Queensland,QLD
+PHYS1002,Electromagnetism and Modern Physics,University of Queensland,QLD
+PHYS2020,Thermodynamics & Condensed Matter Physics,University of Queensland,QLD
+PHYS2041,Introduction to Quantum Mechanics,University of Queensland,QLD
+PHYS2055,Introduction to Fields in Physics,University of Queensland,QLD
+PHYS2101,Advanced Dynamics and Special Relativity,University of Queensland,QLD
+PHYS3020,Statistical Mechanics,University of Queensland,QLD
+PHYS3040,Quantum Physics,University of Queensland,QLD
+PHYS3051,Fields in Physics,University of Queensland,QLD
+PHYS3901,Advanced Physics Research,University of Queensland,QLD
+PHYS6500,Advanced Research Literature Review,University of Queensland,QLD
+"[	
+	PHYS6487",Physics Honours Research Project,University of Queensland,QLD
+"[	
+	PHYS6488",Physics Honours Research Project,University of Queensland,QLD
+PHYS4030,Condensed Matter Physics: Electronic properties of crystals,University of Queensland,QLD
+PHYS4040,Advanced Quantum Theory,University of Queensland,QLD
+PHYS4055,Laser Physics & Quantum Optics,University of Queensland,QLD
+PHYS4070,Advanced Computational Physics,University of Queensland,QLD
+PHYS4080,Frontiers in Astrophysics,University of Queensland,QLD
+PHYS3080,Extragalactic Astrophysics & Cosmology,University of Queensland,QLD
+PHYS3825,Advanced Experimental Skills,University of Queensland,QLD
+SCIE3250,Introduction to Research in Mathematics/Physics,University of Queensland,QLD
+SCIE3251,Introduction to Research in Mathematics/Physics,University of Queensland,QLD
+ABTS1000,"Indigenous Australian Issues: Past, Present, Future",University of Queensland,QLD
+ABTS1010,Torres Strait Islander Studies,University of Queensland,QLD
+ABTS2010,Indigenous Women and Men: Gendered Business,University of Queensland,QLD
+ABTS2020,"Contemporary Indigenous knowledge, thought and philosophy",University of Queensland,QLD
+ABTS2060,"Contemporary Indigenous Social Organisation: Identity, family, community, nation",University of Queensland,QLD
+ABTS1020,"Ten Canoes: Exploring Indigenous Art, Film, Music and Literature Through Iconic Works",University of Queensland,QLD
+ABTS2080,Independent Project in Aboriginal & Torres Strait Islander Studies I,University of Queensland,QLD
+ABTS2090,Independent Project in Aboriginal & Torres Strait Islander Studies 2,University of Queensland,QLD
+ABTS3030,International Indigenous Perspectives: Approaches from the Global South,University of Queensland,QLD
+ANTH2010,Anthropology of Aboriginal Australia,University of Queensland,QLD
+ANTH2260,Applied Anthropology and Indigenous Territories,University of Queensland,QLD
+EDUC2090,Indigenous Knowledge & Education,University of Queensland,QLD
+MUSC2810,Indigenous Australian Music: Indigenous music-making in Australia,University of Queensland,QLD
+POLS2101,Indigenous Politics & Policy,University of Queensland,QLD
+ABTS3010,Work Placement in Indigenous Australian Studies,University of Queensland,QLD
+ABTS3020,Working with Indigenous People,University of Queensland,QLD
+"[	
+	ANCH2050",Ancient World Study Tour: Sites and Museums,University of Queensland,QLD
+"[	
+	ANCH2070",Study Tour: Sites and Museums of Roman Italy,University of Queensland,QLD
+"[	
+	ANCH2900",R.D. Milns Antiquities Museum International Internship and Field,University of Queensland,QLD
+ANTH1008,"Introduction to Anthropology: People, Cultures and Societies",University of Queensland,QLD
+ANTH1030,Anthropology of Current World Issues: An Introduction,University of Queensland,QLD
+ANTH2020,"Anthropology: History, Theory, Practice",University of Queensland,QLD
+ANTH2018,Material and Visual Culture,University of Queensland,QLD
+ANTH2060,Environmental Anthropology,University of Queensland,QLD
+ANTH2250,Medical Anthropology: Local and Global Perspectives,University of Queensland,QLD
+ANTH2270,"Migration, Culture and Identity",University of Queensland,QLD
+SOSC2190,"Human Bodies, Culture & Society",University of Queensland,QLD
+ANTH3019,Development Practice & Social Impact,University of Queensland,QLD
+ANTH3050,"Ritual, Religion and Performance",University of Queensland,QLD
+ANTH3208,Anthropology Museum Lab,University of Queensland,QLD
+ANTH3090,Ethnographic Fieldwork,University of Queensland,QLD
+ANTH3140,Advanced Research Topics in Anthropology,University of Queensland,QLD
+ARCA1000,Discovering Archaeology,University of Queensland,QLD
+ARCS3118,"Managing Cultural Heritage: Ethics, History and Practice",University of Queensland,QLD
+ARCS1001,Doing Archaeology,University of Queensland,QLD
+ARCS2000,Science in Archaeology,University of Queensland,QLD
+ARCA2020,Australasian Archaeology,University of Queensland,QLD
+ARCA2150,"Ancient Civilisations: Archaeology of Mesopotamia, Turkey and The Levant before Alexander the Great",University of Queensland,QLD
+ARCS2003,Forensics: The Archaeology of Death & Crime Scenes,University of Queensland,QLD
+ARCS2010,Ancient Technologies: Experimental and Analytical Approaches to Understanding Past Technologies,University of Queensland,QLD
+ARCS2025,Archaeology of the Pacific Islands,University of Queensland,QLD
+ARCS2050,Historical Archaeology,University of Queensland,QLD
+ARCS2011,Lithic Analysis: Current and Future Directions for Research and Heritage Management,University of Queensland,QLD
+ARCS2070,Bioarchaeology: Human remains and ancient disease,University of Queensland,QLD
+ARCS2080,"Plants and Archaeology: Food, fuel, foraging and farming in the human past",University of Queensland,QLD
+ARCS2090,Animals and Archaeology: Analytical approaches to understanding past human-animal relationships,University of Queensland,QLD
+ARCA3000,Predicting the Past,University of Queensland,QLD
+ARCS3168,Human Evolution,University of Queensland,QLD
+ARCS2060,Archaeology Field School,University of Queensland,QLD
+ARCS3001,Advanced Research in Archaeology,University of Queensland,QLD
+ARCS3010,Field Archaeology,University of Queensland,QLD
+CHIN1100,Spoken Chinese IA,University of Queensland,QLD
+CHIN1200,Written Chinese IA,University of Queensland,QLD
+CHIN2100,Spoken Chinese IB,University of Queensland,QLD
+CHIN2200,Written Chinese IB,University of Queensland,QLD
+CHIN2110,Spoken Chinese IIA,University of Queensland,QLD
+CHIN3001,Written Chinese IIA,University of Queensland,QLD
+CHIN3010,Spoken Chinese IIB,University of Queensland,QLD
+CHIN3020,Written Chinese IIB,University of Queensland,QLD
+CHIN3100,Spoken Chinese IIIA,University of Queensland,QLD
+CHIN3200,Written Chinese IIIA,University of Queensland,QLD
+CHIN3110,Spoken Chinese IIIB,University of Queensland,QLD
+CHIN3210,Written Chinese IIIB,University of Queensland,QLD
+CHIN3300,Chinese>English Translation for Non - Native Speakers,University of Queensland,QLD
+COMU1002,Crossing Bridges: Communicating between Cultures,University of Queensland,QLD
+CHIN2555,English and Chinese Interpreting 1,University of Queensland,QLD
+CHIN3555,English and Chinese Interpreting 2,University of Queensland,QLD
+CHIN3810,Chinese Cinema and Culture,University of Queensland,QLD
+LTCS3002,Translating & Interpreting Studies,University of Queensland,QLD
+SLAT2001,Second Language Learning,University of Queensland,QLD
+SLAT2002,Language in the Digital World,University of Queensland,QLD
+CHIN3900,Techniques in Teaching Chinese as a Second Language,University of Queensland,QLD
+CHIN2600,Chinese for Native Speakers: Essentials of Chinese Language,University of Queensland,QLD
+EDUC1029,Introduction to Education,University of Queensland,QLD
+WRIT1001,Writing for International Students,University of Queensland,QLD
+CHIN2700,Chinese > English Translation: An Introductory Course,University of Queensland,QLD
+CHIN2750,Fundamentals in English > Chinese Translation and Interpreting,University of Queensland,QLD
+CHIN3760,Techniques in English > Chinese Translation,University of Queensland,QLD
+CHIN3770,Advanced Chinese>English Translation,University of Queensland,QLD
+LING1000,The Secret Life of Language: Words and Sentences,University of Queensland,QLD
+LING2000,Semantics,University of Queensland,QLD
+LING2035,Language & Society,University of Queensland,QLD
+GREK2240,Greek Language & Literature 2,University of Queensland,QLD
+GREK3001,Advanced Greek 1,University of Queensland,QLD
+GREK3002,Advanced Greek 2,University of Queensland,QLD
+LATN2240,Latin Language & Literature 2,University of Queensland,QLD
+LATN3001,Advanced Latin 1,University of Queensland,QLD
+LATN3002,Advanced Latin 2,University of Queensland,QLD
+CRIM1000,Introduction to Criminology,University of Queensland,QLD
+CRIM1019,Introduction to Criminal Justice,University of Queensland,QLD
+CRIM2300,Comparative Criminology,University of Queensland,QLD
+SOCY2019,Introduction to social research,University of Queensland,QLD
+SOCY2339,Introducing Quantitative Research,University of Queensland,QLD
+SOCY3329,Qualitative Social Research,University of Queensland,QLD
+CRIM3100,Correctional Practice,University of Queensland,QLD
+CRIM3120,Crime Prevention Practice,University of Queensland,QLD
+SOCY3039,Applied Quantitative Research,University of Queensland,QLD
+CRIM3039,Advanced Criminological Theory,University of Queensland,QLD
+CRIM2000,Youth and Deviance,University of Queensland,QLD
+CRIM2030,Criminal Minds,University of Queensland,QLD
+CRIM2080,Global Security,University of Queensland,QLD
+CRIM2099,"Crime, Race and Gender",University of Queensland,QLD
+CRIM2100,Punishment and Society,University of Queensland,QLD
+CRIM2120,Australian Crime Policy,University of Queensland,QLD
+CRIM2200,Policing and Society,University of Queensland,QLD
+ECON1010,Introductory Microeconomics,University of Queensland,QLD
+ECON1020,Introductory Macroeconomics,University of Queensland,QLD
+ECON2410,Economics of Business Strategy,University of Queensland,QLD
+"[	
+	ECON2420",The Macroeconomy & Business Conditions,University of Queensland,QLD
+"[	
+	ECON2020",Macroeconomic Theory,University of Queensland,QLD
+ECON2060,Behavioural and Evolutionary Economics,University of Queensland,QLD
+ECON2070,Introduction to Strategic Thinking,University of Queensland,QLD
+ECON2200,Management of Financial Institutions,University of Queensland,QLD
+ECON2500,"China: Emergence, Implications & Challenges",University of Queensland,QLD
+ECON2540,Economics of Innovation and Entrepreneurship,University of Queensland,QLD
+ECON2560,Economics of Globalisation and Development,University of Queensland,QLD
+ECON2800,Labour Economics,University of Queensland,QLD
+POLS2401,Politics & the Economy,University of Queensland,QLD
+ECON3600,Australian Economic History,University of Queensland,QLD
+ECON3210,Financial Markets & Institutions,University of Queensland,QLD
+ECON3220,Benefit-Cost Analysis for Business,University of Queensland,QLD
+ECON3540,Evolution of Economic Systems,University of Queensland,QLD
+ECON3700,Environmental Economics,University of Queensland,QLD
+ECON3820,Understanding China,University of Queensland,QLD
+ECON1050,Tools of Economic Analysis,University of Queensland,QLD
+ECON2010,Microeconomic Theory,University of Queensland,QLD
+ECON2030,Microeconomic Policy,University of Queensland,QLD
+ECON2040,Macroeconomic Policy,University of Queensland,QLD
+ECON2050,Mathematical Economics,University of Queensland,QLD
+ECON2300,Introductory Econometrics,University of Queensland,QLD
+ECON3350,Applied Econometrics for Macroeconomics and Finance,University of Queensland,QLD
+ECON3360,Causal Inference for Microeconometrics,University of Queensland,QLD
+ECON3430,Managerial Economics,University of Queensland,QLD
+ECON3440,Competition Policy and Regulation,University of Queensland,QLD
+MSTU1001,Introduction to Film & Television Studies,University of Queensland,QLD
+AUST2000,Australian Popular Culture,University of Queensland,QLD
+MSTU2005,Film Movements & Genres,University of Queensland,QLD
+MSTU2006,Australian Cinema,University of Queensland,QLD
+WRIT2050,Creative Writing: Genre Fiction,University of Queensland,QLD
+LING2110,English Through Time and Space,University of Queensland,QLD
+COMU2040,Language Awareness & Cross-Cultural Competence for the Global Workplace,University of Queensland,QLD
+HUMN2500,Collaborations: Relating and Working Together,University of Queensland,QLD
+COMU3010,Language and Globalisation: Advanced Intercultural Communication,University of Queensland,QLD
+SLAT3001,Cognitive and Social Aspects of Bilingualism,University of Queensland,QLD
+COMU1140,Multimedia,University of Queensland,QLD
+COMU1120,Media and Society,University of Queensland,QLD
+MSTU2160,Film and Television History,University of Queensland,QLD
+MSTU2008,Television: Forms and Genres,University of Queensland,QLD
+MSTU2011,Contemporary German Cinema,University of Queensland,QLD
+MSTU3005,Critical Concepts in Film & Television,University of Queensland,QLD
+MSTU3012,Independent Media Studies,University of Queensland,QLD
+MSTU3150,Recent Approaches to Film and Television,University of Queensland,QLD
+FREN1010,Introductory French 1,University of Queensland,QLD
+FREN1020,Introductory French 2,University of Queensland,QLD
+FREN2010,Intermediate French 1,University of Queensland,QLD
+FREN2020,Intermediate French 2,University of Queensland,QLD
+LTCS2024,Francophone Cultures,University of Queensland,QLD
+MSTU2012,European Film Today,University of Queensland,QLD
+FREN3113,French Language and Culture 2,University of Queensland,QLD
+FREN3114,French Language and Culture 3,University of Queensland,QLD
+FREN3115,French Language and Culture 4,University of Queensland,QLD
+FREN3116,French Language and Culture 5,University of Queensland,QLD
+FREN3210,Textes et Modernite,University of Queensland,QLD
+FREN3310,French>English Translation,University of Queensland,QLD
+FREN3330,French for Business,University of Queensland,QLD
+FREN3350,Litterature contemporaine: Contemporary Literature in French,University of Queensland,QLD
+FREN3375,Teaching and Learning French,University of Queensland,QLD
+FREN3910,French Study Project,University of Queensland,QLD
+FREN3111,French Language and Culture 1: Streams A and B,University of Queensland,QLD
+FREN3360,Le Cinema en francais,University of Queensland,QLD
+FREN3380,Identites francaises et francophones,University of Queensland,QLD
+FREN3112,French Language and Culture 1: Post-secondary,University of Queensland,QLD
+GEND1010,Gender Matters,University of Queensland,QLD
+GEND2001,Genders & Cultures: Comparative Perspectives on Race and Ethnicity,University of Queensland,QLD
+GEND3001,Gender Futures: Research in Action,University of Queensland,QLD
+POLS2603,Gender and Global Politics,University of Queensland,QLD
+SOCY1060,"Gender, Sexuality and Society: An Introduction",University of Queensland,QLD
+GEOG1000,Human Settlements,University of Queensland,QLD
+GEOS2105,Geography of Australia,University of Queensland,QLD
+ENVM2200,Resource Management & Environmental Planning,University of Queensland,QLD
+GEOG2000,Economic Geography: Location and Land Use,University of Queensland,QLD
+GEOG2001,Human Mobility and Migration,University of Queensland,QLD
+GEOG2104,Urban Geography,University of Queensland,QLD
+ENVM3200,Coastal Processes & Management,University of Queensland,QLD
+ENVM3203,Tools for Environmental Assessment and Analysis,University of Queensland,QLD
+ENVM3400,International Experience Field Studies,University of Queensland,QLD
+GEOG3000,Regional Economic Development Planning,University of Queensland,QLD
+GEOG3003,The Global Metropolis,University of Queensland,QLD
+ENVM3115,Climate Change and Environmental Management,University of Queensland,QLD
+GEOS3004,International Field Studies: Natural & Built Environments of a Selected Region,University of Queensland,QLD
+REDE3200,Real Estate Development Planning,University of Queensland,QLD
+GEOS3103,Progress in Geography,University of Queensland,QLD
+GRMN1010,Introductory German Language 1,University of Queensland,QLD
+GRMN1020,Introductory German Language 2,University of Queensland,QLD
+GRMN2010,Continuing German Language 1,University of Queensland,QLD
+GRMN2020,Continuing German Language 2,University of Queensland,QLD
+GRMN2030,Advanced Conversational German,University of Queensland,QLD
+GRMN2130,Translation from German - Theory & Practice,University of Queensland,QLD
+GRMN2330,Inside Germany - Contemporary German Cultures,University of Queensland,QLD
+LTCS2018,Books the Nazis Burned: German Literature & Society 1914-1945,University of Queensland,QLD
+GRMN3110,Advanced German Language 3,University of Queensland,QLD
+GRMN3120,Advanced German Language 4,University of Queensland,QLD
+GRMN3010,Advanced German Language 1,University of Queensland,QLD
+GRMN3020,Advanced German Language 2,University of Queensland,QLD
+GRMN3330,Advanced Special Topics in German Studies,University of Queensland,QLD
+INDN1000,Introductory Indonesian A,University of Queensland,QLD
+INDN1001,Introductory Indonesian B,University of Queensland,QLD
+INDN2000,Intermediate Indonesian A,University of Queensland,QLD
+INDN2001,Intermediate Indonesian B,University of Queensland,QLD
+INDN3002,Indonesian Contemporary Culture,University of Queensland,QLD
+INDN3000,Advanced Indonesian,University of Queensland,QLD
+INDN3006,Indonesian Studies Project,University of Queensland,QLD
+LTCS2401,Indonesia and its Neighbours: Evolving in the Asian Century,University of Queensland,QLD
+POLS1201,Introduction to International Relations,University of Queensland,QLD
+POLS1301,Introduction to Political Ideas,University of Queensland,QLD
+POLS1701,Introduction to International Inequality & Development,University of Queensland,QLD
+POLS2409,International Relations of the Twentieth Century,University of Queensland,QLD
+POLS2209,Global Security,University of Queensland,QLD
+POLS2211,International Organisations & Political Cooperation,University of Queensland,QLD
+POLS2402,Globalisation & International Political Economy,University of Queensland,QLD
+POLS2201,Australian Foreign Policy,University of Queensland,QLD
+POLS2204,International Relations of East Asia,University of Queensland,QLD
+POLS2207,Terrorism & Insurgency in World Politics,University of Queensland,QLD
+POLS2217,European Political Issues,University of Queensland,QLD
+POLS2222,Humanitarianism in World Politics,University of Queensland,QLD
+POLS2404,The Political Dynamics of Development and Resistance,University of Queensland,QLD
+POLS2703,Principles of Research: Social and Comparative Perspectives,University of Queensland,QLD
+POLS3802,Independent Study,University of Queensland,QLD
+POLS3208,Conceptions of World Politics,University of Queensland,QLD
+POLS3115,Environmental Politics & Policy,University of Queensland,QLD
+POLS3203,Power and Order in Transnational Politics,University of Queensland,QLD
+POLS3206,Policy Challenges of Asia-Pacific Security,University of Queensland,QLD
+POLS3502,Ethics in International Politics,University of Queensland,QLD
+POLS3512,"Global Media, War and Peace",University of Queensland,QLD
+POLS3801,Internship,University of Queensland,QLD
+POLS3807,Policy Practice,University of Queensland,QLD
+JAPN1013,Japanese 1A standard,University of Queensland,QLD
+JAPN1023,Japanese 1B standard,University of Queensland,QLD
+JAPN2013,Japanese 2A standard,University of Queensland,QLD
+JAPN2023,Japanese 2B standard,University of Queensland,QLD
+JAPN2101,Continuing Japanese 1A,University of Queensland,QLD
+JAPN3002,Continuing Japanese 1B,University of Queensland,QLD
+JAPN3003,Continuing Japanese 2A,University of Queensland,QLD
+JAPN3004,Continuing Japanese 2B,University of Queensland,QLD
+JAPN1011,Japanese 1A - concentrated,University of Queensland,QLD
+JAPN1012,Japanese 1B - concentrated,University of Queensland,QLD
+JAPN2021,Japanese 2A - Concentrated,University of Queensland,QLD
+JAPN2022,Japanese 2B - concentrated,University of Queensland,QLD
+JAPN3101,Continuing Japanese 3,University of Queensland,QLD
+JAPN3102,Continuing Japanese 4,University of Queensland,QLD
+JAPN3110,Voices from Japan,University of Queensland,QLD
+JAPN3130,Anime Japanese,University of Queensland,QLD
+JAPN3140,Japanese Rapid Reading and Creative Writing,University of Queensland,QLD
+JAPN3500,Language and Society in Japan,University of Queensland,QLD
+JAPN3240,Modern Literary Texts,University of Queensland,QLD
+JAPN3205,Teaching Japanese Language,University of Queensland,QLD
+JAPN3299,Japanese/English Interpreting and Translation,University of Queensland,QLD
+JAPN3210,Japanese Language in Context,University of Queensland,QLD
+LTCS2006,Japanese Popular Culture,University of Queensland,QLD
+LTCS3007,Japanese Studies Individual Project,University of Queensland,QLD
+LTCS2030,Modern Japanese Literature & Society,University of Queensland,QLD
+"[	
+	JAPN3002",Continuing Japanese 1B,University of Queensland,QLD
+"[	
+	JAPN3003",Continuing Japanese 2A,University of Queensland,QLD
+JOUR1112,Journalistic Narratives,University of Queensland,QLD
+JOUR2221,International Journalism & Mass Communication,University of Queensland,QLD
+COMU2160,Communication Law and Ethics,University of Queensland,QLD
+COMU1050,Understanding the News,University of Queensland,QLD
+COMU2030,Communication Research Methods,University of Queensland,QLD
+COMU2170,Intercultural Communication,University of Queensland,QLD
+JOUR2100,Social Justice Storytelling,University of Queensland,QLD
+COMU3110,Media Platforms,University of Queensland,QLD
+COMU3120,Digital Analytics,University of Queensland,QLD
+JOUR3401,Journalism Project,University of Queensland,QLD
+KORN1010,Spoken Korean IA,University of Queensland,QLD
+KORN1011,Written Korean IA,University of Queensland,QLD
+KORN2101,Spoken Korean IIA,University of Queensland,QLD
+KORN2020,Spoken Korean IB,University of Queensland,QLD
+KORN2022,Written Korean IB,University of Queensland,QLD
+KORN2003,Written Korean II A,University of Queensland,QLD
+LTCS2023,Korean Popular Culture: Korean wave,University of Queensland,QLD
+KORN3010,Spoken Korean IIB,University of Queensland,QLD
+KORN3011,Written Korean IIB,University of Queensland,QLD
+KORN3101,Intercultural and Business Communication in Korean and English A,University of Queensland,QLD
+KORN3201,Intercultural and Business Communication in Korean and English B,University of Queensland,QLD
+KORN2005,Foundation in Korean Language and Culture,University of Queensland,QLD
+KORN3112,Korean-English Translation and Interpreting A,University of Queensland,QLD
+KORN3212,Korean-English Translation and Interpreting B,University of Queensland,QLD
+MSTU3001,Contemporary Korean Film and TV Drama Review,University of Queensland,QLD
+KORN3220,Korean for Korean Speakers and Advanced Non-Korean Speakers,University of Queensland,QLD
+KORN3300,Korean Study Project,University of Queensland,QLD
+LTCS2026,Cultures of Latin America,University of Queensland,QLD
+LTCS2022,Imagining Latin America in the 20th Century,University of Queensland,QLD
+LTCS2027,Magical Realism and Beyond: Contemporary Latin America,University of Queensland,QLD
+LTCS3000,Latin American Perspectives,University of Queensland,QLD
+LING1005,The Sound Patterns of Language,University of Queensland,QLD
+LING2010,Phonology,University of Queensland,QLD
+LING2045,Generative Syntax,University of Queensland,QLD
+LING2040,Morphology,University of Queensland,QLD
+LING2055,Pragmatics,University of Queensland,QLD
+LING3050,Advanced Linguistics Research,University of Queensland,QLD
+LING3010,Grammar and Discourse,University of Queensland,QLD
+LING3015,Language Contact,University of Queensland,QLD
+LING3025,Study on an Australian Aboriginal Language,University of Queensland,QLD
+LING3030,Mind and Language: Cognitive Strategies for Meaning Analysis,University of Queensland,QLD
+LING3100,Special Research Topics in Linguistics,University of Queensland,QLD
+MATH1071,Advanced Calculus & Linear Algebra I,University of Queensland,QLD
+MATH1072,Advanced Multivariate Calculus & Ordinary Differential Equations,University of Queensland,QLD
+MATH2401,Mathematical Analysis and Advanced Topics,University of Queensland,QLD
+COMU2150,Media and Identity,University of Queensland,QLD
+COMU2140,Digital Media Industries,University of Queensland,QLD
+COMU2311,Communication for Social Change,University of Queensland,QLD
+COMU3005,Media Cultures,University of Queensland,QLD
+COMU3222,Political Communication,University of Queensland,QLD
+MUSC2800,World Music,University of Queensland,QLD
+MUSC3160,Choral Conducting,University of Queensland,QLD
+MUSC3170,Instrumental Conducting,University of Queensland,QLD
+MUSC3840,Multi-Instrumental Pedagogy A,University of Queensland,QLD
+MUSC3850,Multi-Instrumental Pedagogy B,University of Queensland,QLD
+EDUC3001,"Learning, Mind and Music Education",University of Queensland,QLD
+EDUC3002,Becoming A Professional Music Educator,University of Queensland,QLD
+MUSC3890,Creative Music Making,University of Queensland,QLD
+MUSC1300,Introduction to Music Psychology,University of Queensland,QLD
+MUSC3340,"Music, Cognition & Development",University of Queensland,QLD
+PSYC1020,"Introduction to Psychology: Minds, Brains and Behaviour",University of Queensland,QLD
+POLS1501,Introduction to Peace & Conflict Analysis,University of Queensland,QLD
+POLS2515,Theories of Peace and Conflict Studies,University of Queensland,QLD
+POLS2503,Conflict & Nonviolent Change,University of Queensland,QLD
+POLS3511,The Politics of Peacebuilding,University of Queensland,QLD
+POLS1101,Introduction to Australian Politics,University of Queensland,QLD
+POLS1601,"Power, Politics & Society",University of Queensland,QLD
+POLS2302,Political Thought: Machiavelli to Modernity,University of Queensland,QLD
+POLS2805,Advanced Topics in Political Science,University of Queensland,QLD
+POLS3118,Advances in Political Psychology,University of Queensland,QLD
+POLS3803,Landmarks of Political Science,University of Queensland,QLD
+POLS3102,Governance & Australian Public Policy,University of Queensland,QLD
+MUSC1010,Introduction to Music Technology,University of Queensland,QLD
+MUSC1700,Introduction to Popular Music Studies: The Rock Era,University of Queensland,QLD
+MUSC2000,Music Subcultures and the Media,University of Queensland,QLD
+MUSC2010,Music Technology for Live Performance,University of Queensland,QLD
+MUSC2700,Beyond Rock: Music in the Digital Age,University of Queensland,QLD
+MUSC3730,Songwriting,University of Queensland,QLD
+MUSC3910,Music Special Project A,University of Queensland,QLD
+MUSC3920,Music Special Project B,University of Queensland,QLD
+MUSC3010,Creative Music Production,University of Queensland,QLD
+MUSC3020,Sound Recording Practice,University of Queensland,QLD
+HUMN1500,"Perspectives: Practices, Cultures and Creative Communication",University of Queensland,QLD
+HUMN3600,"Creating the Future: Work, Worth and Well-Being",University of Queensland,QLD
+HUMN3700,"Creativity: Myths, Methods & Impact",University of Queensland,QLD
+WRIT1200,Writing Creatively,University of Queensland,QLD
+COMU1152,Public Relations Writing,University of Queensland,QLD
+WRIT2000,Writing & Editing for the Professions,University of Queensland,QLD
+COMU2120,Media Design,University of Queensland,QLD
+WRIT3700,"Publishing, Editing, and Authorship",University of Queensland,QLD
+COMU3100,Digital Project,University of Queensland,QLD
+WRIT3050,Creative Writing: Non-Fiction,University of Queensland,QLD
+PSYC1040,Psychological Research Methodology I,University of Queensland,QLD
+PSYC1030,"Introduction to Psychology: Developmental, Social & Clinical Psychology",University of Queensland,QLD
+PSYC2010,Psychological Research Methodology II,University of Queensland,QLD
+PSYC2020,Neuroscience for Psychologists,University of Queensland,QLD
+PSYC2030,Developmental Psychology,University of Queensland,QLD
+PSYC2040,Social & Organisational Psychology,University of Queensland,QLD
+PSYC2050,Learning & Cognition,University of Queensland,QLD
+PSYC3020,Measurement in Psychology,University of Queensland,QLD
+PSYC3000,Applied Sport and Exercise Psychology,University of Queensland,QLD
+PSYC3032,Topics in Social Psychology,University of Queensland,QLD
+PSYC3042,Psychological Research: Interpretation & Evaluation,University of Queensland,QLD
+PSYC3052,Judgment & Decision-Making,University of Queensland,QLD
+PSYC3062,Introduction to Human Factors,University of Queensland,QLD
+PSYC3082,Psychotherapies and Counselling,University of Queensland,QLD
+PSYC3102,Psychopathology,University of Queensland,QLD
+PSYC3122,Attitudes & Social Cognition,University of Queensland,QLD
+PSYC3132,Health Psychology,University of Queensland,QLD
+PSYC3142,Intergroup Relations & Group Processes,University of Queensland,QLD
+PSYC3162,Development in Infancy,University of Queensland,QLD
+PSYC3192,Sensory Neuroscience,University of Queensland,QLD
+PSYC3202,Industrial & Organisational Psychology,University of Queensland,QLD
+PSYC3262,Evolutionary Approaches to Human Behaviour,University of Queensland,QLD
+PSYC3272,The Neuroscience of Social Behaviour,University of Queensland,QLD
+PSYC3282,Developmental Perspectives on the Origins of Human Culture,University of Queensland,QLD
+PSYC3302,Cognitive Neuroscience,University of Queensland,QLD
+PSYC3312,Parenting and Family Psychology,University of Queensland,QLD
+PSYC3292,Psychology of Emotion,University of Queensland,QLD
+PSYC3010,Psychological Research Methodology III,University of Queensland,QLD
+POLS1102,Introduction to Politics & Public Policy,University of Queensland,QLD
+POLY1000,Australian Social Policy,University of Queensland,QLD
+RSSN1110,Introductory Russian I,University of Queensland,QLD
+RSSN1120,Introductory Russian II,University of Queensland,QLD
+RSSN2110,Russian Language III,University of Queensland,QLD
+RSSN2120,Russian Language IV,University of Queensland,QLD
+LTCS2310,Russia Now and Then,University of Queensland,QLD
+RSSN3130,Russian V,University of Queensland,QLD
+RSSN3140,Russian VI,University of Queensland,QLD
+SOCY1050,Introduction to Sociology,University of Queensland,QLD
+SOCY1030,"Introduction to Health, Illness and Society",University of Queensland,QLD
+SOCY2020,Sociology of the Environment,University of Queensland,QLD
+SOCY2040,"Families, Households and the Life Course",University of Queensland,QLD
+SOCY2170,Emotions in Social Life,University of Queensland,QLD
+SOCY2220,Globalisation & Development in Post-Colonial Societies,University of Queensland,QLD
+SOCY2340,Sociology of the City,University of Queensland,QLD
+SOCY3020,"Medicine, Markets and Health: Sociological Perspectives on Health and Illness",University of Queensland,QLD
+SOCY3200,Current Issues & Debates in Sociology,University of Queensland,QLD
+SOCY3345,Conceptual Challenges in Sociology: Classical and Contemporary Debates,University of Queensland,QLD
+SPAN1010,Introductory Spanish A,University of Queensland,QLD
+SPAN1020,Introductory Spanish B,University of Queensland,QLD
+SPAN2010,Continuing Spanish A,University of Queensland,QLD
+SPAN2020,Continuing Spanish B,University of Queensland,QLD
+SPAN2310,Reading & Writing in Spanish,University of Queensland,QLD
+SPAN3340,Cine de Autor en Espanol,University of Queensland,QLD
+SPAN3390,America Latina: el deseo y la realidad,University of Queensland,QLD
+SPAN3460,Literatura en Espanol,University of Queensland,QLD
+SPAN3110,Advanced Spanish A,University of Queensland,QLD
+SPAN3120,Advanced Spanish B,University of Queensland,QLD
+SPAN3310,Text analysis and translation,University of Queensland,QLD
+SPAN3330,Generos de composicion,University of Queensland,QLD
+HMST1910,From Bradman to Freeman: Mythic Qualities of Australian Sport,University of Queensland,QLD
+BIOL1900,"Biophysical Development, Measurement and Assessment",University of Queensland,QLD
+HPRM1000,Physical Activity & Health,University of Queensland,QLD
+HMST2190,From Playground to Podium: Critical Analysis of Sporting Issues,University of Queensland,QLD
+NEUR2530,Motor Control & Learning,University of Queensland,QLD
+BIOL2630,Biomechanics,University of Queensland,QLD
+PSYC2000,Psychology of Sport and Exercise,University of Queensland,QLD
+SOCY2280,Sociology of Sport,University of Queensland,QLD
+EDUC3011,"Youth, Sport and Physical Culture",University of Queensland,QLD
+NEUR3733,Neuromechanical Basis of Human Movement,University of Queensland,QLD
+HPRM3000,Health Promotion: Perspectives & Practice,University of Queensland,QLD
+NUTR3000,Nutrition & Exercise,University of Queensland,QLD
+HIST3002,History of Sport & Physical Activity in Australian Society,University of Queensland,QLD
+HIST3003,Playing on the Big Stage: Histories of the Olympics and Paralympics,University of Queensland,QLD
+HMST3103,Management & Marketing of Sport & Physical Activity,University of Queensland,QLD
+HPRM3001,Promoting Physical Activity & Health,University of Queensland,QLD
+AUST1000,Contemporary Australia,University of Queensland,QLD
+WRIT1110,Creative Writing: Narrative Fiction,University of Queensland,QLD
+WRIT1005,Fundamentals of Academic Writing,University of Queensland,QLD
+WRIT2100,Creative Writing: Poetics,University of Queensland,QLD
+WRIT3000,Writing: Advanced Project,University of Queensland,QLD
+ANCH6900,Documentary Evidence for Ancient History,University of Queensland,QLD
+ANCH6910,Studying Ancient History: Research Seminar,University of Queensland,QLD
+ANCH6920,Ancient Historiography,University of Queensland,QLD
+ANCH6850,Honours Research Thesis,University of Queensland,QLD
+ANCH6860,Honours Research Thesis,University of Queensland,QLD
+SOSC6030,Social Science Honours Research Seminar 1,University of Queensland,QLD
+SOSC6040,Social Science Honours Research Seminar 2,University of Queensland,QLD
+ANTH6008,Honours Research Thesis,University of Queensland,QLD
+ARCA6030,Archaeology Honours Research Seminar 1,University of Queensland,QLD
+ARCA6040,Archaeology Honours Research Seminar 2,University of Queensland,QLD
+ARCA6008,Honours Research Thesis,University of Queensland,QLD
+ARTT6050,Honours Seminar,University of Queensland,QLD
+ENGL6085,Research Methods & Project Management,University of Queensland,QLD
+ARTT6103,Honours Research Thesis,University of Queensland,QLD
+ARTT6104,Honours Research Thesis,University of Queensland,QLD
+ARTT6500,Honours Research Thesis,University of Queensland,QLD
+CHIN6340,Advanced Chinese Language,University of Queensland,QLD
+LTCS6000,General Research Methods,University of Queensland,QLD
+CHIN6350,Special Topics in Chinese Language Studies,University of Queensland,QLD
+SLAT7706,Concepts in Applied Linguistics,University of Queensland,QLD
+CHIN6364,Special Topics in Chinese Cultural Studies,University of Queensland,QLD
+CHIN6000,Thesis (Honours),University of Queensland,QLD
+CHIN6100,Thesis (Honours),University of Queensland,QLD
+CHIN6101,Thesis (Honours),University of Queensland,QLD
+LATN6270,Latin Guided Texts,University of Queensland,QLD
+LATN6140,Latin Set Texts,University of Queensland,QLD
+"[	
+	LATN6311",Latin Honours Research Thesis,University of Queensland,QLD
+"[	
+	LATN6312",Latin Honours Research Thesis,University of Queensland,QLD
+GREK6640,Greek Set Texts,University of Queensland,QLD
+GREK6675,Greek Guided Texts,University of Queensland,QLD
+"[	
+	GREK6311",Greek Honours Research Thesis,University of Queensland,QLD
+"[	
+	GREK6312",Greek Honours Research Thesis,University of Queensland,QLD
+COMU6050,Honours Seminar,University of Queensland,QLD
+COMU6005,Communication & Cultural Studies Dissertation Part B,University of Queensland,QLD
+COMU6006,Communication & Cultural Studies Dissertation Part B,University of Queensland,QLD
+COMU6500,Honours Research Thesis,University of Queensland,QLD
+CRIM4111,Advanced Methods A,University of Queensland,QLD
+CRIM4112,Advanced Methods B,University of Queensland,QLD
+CRIM6008,Honours Research Thesis,University of Queensland,QLD
+DRAM6050,Honours Seminar,University of Queensland,QLD
+DRAM6100,Honours Research Thesis,University of Queensland,QLD
+DRAM6101,Honours Research Thesis,University of Queensland,QLD
+DRAM6500,Honours Research Thesis,University of Queensland,QLD
+ECON6920,Honours Thesis (Arts),University of Queensland,QLD
+ECON6310,Advanced Econometric Theory,University of Queensland,QLD
+ECON6370,Special Topics in Econometrics,University of Queensland,QLD
+ECON6420,Public Economics,University of Queensland,QLD
+ECON6500,Economic Development,University of Queensland,QLD
+ECON6700,Ecological & Environmental Economics,University of Queensland,QLD
+ECON6900,Special Unit,University of Queensland,QLD
+ENGL6050,Honours Seminar,University of Queensland,QLD
+ENGL6100,Honours Research Thesis,University of Queensland,QLD
+ENGL6101,Honours Research Thesis,University of Queensland,QLD
+ENGL6500,Honours Research Thesis,University of Queensland,QLD
+FREN6340,Advanced French Language Skills,University of Queensland,QLD
+FREN6350,Special Topics in French Language Studies,University of Queensland,QLD
+FREN6364,Special Topics in French Cultural Studies,University of Queensland,QLD
+"[	
+ FREN6910",Dissertation,University of Queensland,QLD
+"[	
+ FREN6911",Dissertation,University of Queensland,QLD
+"[	
+	FREN6920",Dissertation,University of Queensland,QLD
+GEOS6100,Honours Research Thesis,University of Queensland,QLD
+GRMN6340,Advanced German Language Skills,University of Queensland,QLD
+GRMN6350,Special Topics in German Language Studies,University of Queensland,QLD
+GRMN6364,Special Topics in German Cultural Studies,University of Queensland,QLD
+GRMN6291,Dissertation,University of Queensland,QLD
+GRMN6910,Dissertation,University of Queensland,QLD
+GRMN6920,Dissertation,University of Queensland,QLD
+HIST6680,History Honours: Theory & Method,University of Queensland,QLD
+HIST6690,History Honours Seminar,University of Queensland,QLD
+HIST6700,Honours Research Thesis,University of Queensland,QLD
+INDN6340,Advanced Indonesian Language Skills,University of Queensland,QLD
+INDN6350,Special Topics Indonesian Language Studies,University of Queensland,QLD
+INDN6364,Special Topics in Indonesian Cultural Studies,University of Queensland,QLD
+INDN6120,Honours Thesis,University of Queensland,QLD
+INDN6500,Honours Thesis,University of Queensland,QLD
+INDN6501,Thesis (Honours),University of Queensland,QLD
+POLS6315,Creativity and Design in Political Research,University of Queensland,QLD
+POLS6325,Frontiers of Research,University of Queensland,QLD
+POLS6305,Honours Research Thesis Part B,University of Queensland,QLD
+JAPN6340,Advanced Japanese Language Skills,University of Queensland,QLD
+JAPN6350,Special Topics in Japanese Language Studies,University of Queensland,QLD
+JAPN6364,Special Topics in Japanese Cultural Studies,University of Queensland,QLD
+JAPN6114,Thesis (Honours),University of Queensland,QLD
+JAPN6115,Thesis (Honours),University of Queensland,QLD
+JAPN6120,Honours Thesis,University of Queensland,QLD
+COMU6008,Topics in Journalism and Communication Studies,University of Queensland,QLD
+JOUR6500,Honours Research Thesis,University of Queensland,QLD
+JOUR6901,Journalism Thesis,University of Queensland,QLD
+KORN6340,Advanced Korean Language Skills,University of Queensland,QLD
+KORN6350,Special Topics in Korean Language Skills,University of Queensland,QLD
+KORN6364,Special Topics in Korean Cultural Studies,University of Queensland,QLD
+KORN6101,Thesis (Honours),University of Queensland,QLD
+KORN6100,Thesis (Honours),University of Queensland,QLD
+KORN6000,Thesis (Honours),University of Queensland,QLD
+LING6050,Advanced Research Topic A,University of Queensland,QLD
+LING6055,Advanced Research Topic B,University of Queensland,QLD
+LING6053,Special Topics in Linguistic Research,University of Queensland,QLD
+"[	
+ LING6090",Honours Research Thesis,University of Queensland,QLD
+"[	
+ LING6091",Honours Research Thesis,University of Queensland,QLD
+"[	
+	LING6095",Honours Research Thesis,University of Queensland,QLD
+"[	
+	MATH6030",Mathematics Honours Research Project,University of Queensland,QLD
+STAT4401,Advanced Statistics I,University of Queensland,QLD
+STAT4402,Advanced Statistics II,University of Queensland,QLD
+MUSC4410,Artistic and Musicological Research Methods,University of Queensland,QLD
+MUSC4430,Music Education and Psychology Research Methods,University of Queensland,QLD
+MUSC4610,Creative Practice and Research,University of Queensland,QLD
+MUSC4630,Thesis,University of Queensland,QLD
+PHIL6007,Philosophy Honours Seminar 1,University of Queensland,QLD
+PHIL6008,Philosophy Honours Seminar 2,University of Queensland,QLD
+"[	
+ PHIL6005",Honours Research Thesis,University of Queensland,QLD
+"[	
+ PHIL6006",Honours Research Thesis,University of Queensland,QLD
+"[	
+	POLS6305",Honours Research Thesis Part B,University of Queensland,QLD
+PSYC4050,Psychological Research Methodology IV,University of Queensland,QLD
+PSYC4060,Ethical Considerations for Psychologists,University of Queensland,QLD
+PSYC4121,The Scientist-Practitioner Model,University of Queensland,QLD
+PSYC4000,Applied Sport and Exercise Psychology,University of Queensland,QLD
+PSYC4181,Applied Social Psychology,University of Queensland,QLD
+PSYC4191,Improving Human Performance,University of Queensland,QLD
+PSYC4211,From Classic to Contemporary Topics in Organisational Psychology,University of Queensland,QLD
+PSYC4981,Current Issues in Psychology 1,University of Queensland,QLD
+PSYC4982,Current Issues in Psychology II,University of Queensland,QLD
+PSYC4311,Advanced Topics in Social Cognition & Group Processes,University of Queensland,QLD
+PSYC4331,Topics in Perception & Cognition,University of Queensland,QLD
+PSYC4341,Special Topics in Clinical Psychology,University of Queensland,QLD
+PSYC4361,Evolutionary & Comparative Perspectives in Psychology,University of Queensland,QLD
+PSYC4371,Advanced Topics in Child Development,University of Queensland,QLD
+PSYC4991,Advanced Seminar in Psychology 1,University of Queensland,QLD
+PSYC4992,Advanced Seminar in Psychology II,University of Queensland,QLD
+PSYC4993,Advanced Seminar in Psychology III,University of Queensland,QLD
+"[	
+	PSYC4071",Individual Research Thesis,University of Queensland,QLD
+"[	
+	PSYC4091",Team Research Thesis,University of Queensland,QLD
+PSYC4221,Work and Research in Applied Psychology,University of Queensland,QLD
+RSSN6340,Advanced Russian Language Skills,University of Queensland,QLD
+RSSN6350,Special Topics in Russian Language Studies,University of Queensland,QLD
+RSSN6364,Special Topic in Russian Cultural Studies,University of Queensland,QLD
+RSSN6920,Dissertation,University of Queensland,QLD
+"[	
+ RSSN6930",Dissertation,University of Queensland,QLD
+"[	
+ RSSN6940",Dissertation,University of Queensland,QLD
+SOCY6008,Honours Research Thesis,University of Queensland,QLD
+SPAN6340,Advanced Spanish Language Skills,University of Queensland,QLD
+SPAN6350,Special Topics in Spanish Language Studies,University of Queensland,QLD
+SPAN6364,Special Topics in Spanish Cultural Studies,University of Queensland,QLD
+"[	
+ SPAN6910",Dissertation,University of Queensland,QLD
+"[	
+ SPAN6911",Dissertation,University of Queensland,QLD
+"[	
+	SPAN6920",Dissertation,University of Queensland,QLD
+HMST6965,Directed Study A,University of Queensland,QLD
+HMST7846,Research Skills,University of Queensland,QLD
+HMST6001,Honours Research Thesis,University of Queensland,QLD
+HMST6002,Honours Research Thesis,University of Queensland,QLD
+RELN6000,Methodology of Studies in Religion,University of Queensland,QLD
+"[	
+	RELN6001",Individual Honours Study Unit 1,University of Queensland,QLD
+"[	
+	RELN6002",Individual Honours Study Unit 2,University of Queensland,QLD
+RELN6003,Honours Research Thesis,University of Queensland,QLD
+RELN6004,Honours Research Thesis,University of Queensland,QLD
+EVNT2000,Fundamentals of Event Management,University of Queensland,QLD
+EVNT2003,Event Planning and Management,University of Queensland,QLD
+EVNT2004,Event Marketing and Consumer Behaviour,University of Queensland,QLD
+EVNT3003,Event Operations Management,University of Queensland,QLD
+EVNT3004,Event Sponsorship & Fundraising,University of Queensland,QLD
+EVNT3005,Strategic Event Management,University of Queensland,QLD
+HOSP2001,Hotel Operations,University of Queensland,QLD
+HOSP2003,Entrepreneurship in Hospitality,University of Queensland,QLD
+HOSP2005,Food and Beverage Management,University of Queensland,QLD
+HOSP3000,Gaming and Casino Management,University of Queensland,QLD
+HOSP3004,Strategic Hospitality Management,University of Queensland,QLD
+HOSP3005,Discourses in Hospitality,University of Queensland,QLD
+TOUR2002,Tourism and Leisure Operations Management,University of Queensland,QLD
+TOUR2009,Destination and Experience Marketing,University of Queensland,QLD
+TOUR2011,Tourism Sales and Distribution,University of Queensland,QLD
+TOUR3001,Tourism Policy and Planning,University of Queensland,QLD
+TOUR3006,Responsible Tourism and Ethics,University of Queensland,QLD
+TOUR3007,Strategic Tourism Management,University of Queensland,QLD
+COMP3710,Pattern Recognition and Analysis,University of Queensland,QLD
+COMP3702,Artificial Intelligence,University of Queensland,QLD
+COMP4702,Machine Learning,University of Queensland,QLD
+DECO2500,Human-Computer Interaction,University of Queensland,QLD
+INFS2200,Relational Database Systems,University of Queensland,QLD
+COMP3301,Operating Systems Architecture,University of Queensland,QLD
+COMP3400,Functional & Logic Programming,University of Queensland,QLD
+COMP4403,Compilers and Interpreters,University of Queensland,QLD
+CSSE3100,Reasoning About Programs,University of Queensland,QLD
+CSSE4630,Principles of Program Analysis,University of Queensland,QLD
+COSC3500,High-Performance Computing,University of Queensland,QLD
+ERTH2002,Paleobiology,University of Queensland,QLD
+ERTH2003,"Sedimentology, Stratigraphy and Paleoenvironments",University of Queensland,QLD
+ERTH2005,Mineralogy,University of Queensland,QLD
+BIPH2000,Foundations of Biophysics,University of Queensland,QLD
+BIPH3001,Frontiers in Biophysics,University of Queensland,QLD
+CHEM3020,Medicinal Chemistry and Chemical Biology,University of Queensland,QLD
+"[	
+	BIOC2000",Biochemistry & Molecular Biology,University of Queensland,QLD
+"[	
+	BIOL2202",Genetics,University of Queensland,QLD
+"[	
+	COSC2500",Numerical Methods in Computational Science,University of Queensland,QLD
+"[	
+	CSSE2002",Programming in the Large,University of Queensland,QLD
+"[	
+	INFS2200",Relational Database Systems,University of Queensland,QLD
+"[	
+	BIOL2006",Biostatistics & Experimental Design,University of Queensland,QLD
+"[	
+	STAT2003",Mathematical Probability,University of Queensland,QLD
+COMP3506,Algorithms & Data Structures,University of Queensland,QLD
+INFS3200,Advanced Database Systems,University of Queensland,QLD
+STAT3306,Statistical Analysis of Genetic Data,University of Queensland,QLD
+BIOM3200,Biomedical Science,University of Queensland,QLD
+BIOM2011,Integrative Cell & Tissue Biology,University of Queensland,QLD
+SCIE3011,Perspectives in Science Research,University of Queensland,QLD
+"[	
+	PHYS1001",Mechanics & Thermal Physics I,University of Queensland,QLD
+"[	
+	PHYS1171",Physical Basis of Biological Systems,University of Queensland,QLD
+"[	
+	PHYS3900",Perspectives in Physics Research,University of Queensland,QLD
+CHEM2050,Intermediate Chemistry 1,University of Queensland,QLD
+CSSE2002,Programming in the Large,University of Queensland,QLD
+"[	
+	MATH2000",Calculus & Linear Algebra II,University of Queensland,QLD
+"[	
+	MATH2001",Advanced Calculus & Linear Algebra II,University of Queensland,QLD
+CHEE4301,Nanomaterials & Their Characterisation,University of Queensland,QLD
+CHEM3030,Nanomaterials and Self-Assembled Systems,University of Queensland,QLD
+"[	
+	BIOL1020","Genes, Cells & Evolution",University of Queensland,QLD
+"[	
+	BIOL1040",Cells to Organisms,University of Queensland,QLD
+CHEE2001,Process Principles,University of Queensland,QLD
+CHEE3301,Polymer Engineering,University of Queensland,QLD
+CHEE4302,Electrochemistry & Corrosion,University of Queensland,QLD
+CHEE4305,Biomaterials: Materials in Medicine,University of Queensland,QLD
+CHEM3008,Medicinal & Biological Chemistry,University of Queensland,QLD
+BIOL2006,Biostatistics & Experimental Design,University of Queensland,QLD
+CHEM3013,Nanoscience: Self-assembly,University of Queensland,QLD
+CHEM3014,Nanoscience: Synthesis,University of Queensland,QLD
+SCIE3210,Research Topic in Geographical Science,University of Queensland,QLD
+ERTH3002,Advanced Field Experience,University of Queensland,QLD
+ERTH3003,Geomicrobiology,University of Queensland,QLD
+ERTH3222,Exploration Geochemistry,University of Queensland,QLD
+SCIE3231,Research Project II in Geological Sciences,University of Queensland,QLD
+"[	
+	CHEM1221","General, Organic & Biological Chemistry",University of Queensland,QLD
+ENVM2002,Marine & Coastal Environmental Protection,University of Queensland,QLD
+PHYS3900,Perspectives in Physics Research,University of Queensland,QLD
+AGRC2013,Agricultural Microbiology & Gene Technology,University of Queensland,QLD
+PLNT2011,Plant and Environmental Health,University of Queensland,QLD
+AGRC3037,Plants for Human Health,University of Queensland,QLD
+LAND3005,Soil Plant Relationships,University of Queensland,QLD
+STAT3001,Mathematical Statistics,University of Queensland,QLD
+STAT3006,Statistical Learning,University of Queensland,QLD
+STAT3500,Problems & Applications in Modern Statistics,University of Queensland,QLD
+ANIM3049,Biology of Australian Marsupials and Monotremes,University of Queensland,QLD
+COMP3320,Ethical Hacking,University of Queensland,QLD
+COMS3000,Information Security,University of Queensland,QLD
+COMS3200,Computer Networks I,University of Queensland,QLD
+COMS4507,Advanced Computer and Network Security,University of Queensland,QLD
+INFS4203,Data Mining,University of Queensland,QLD
+INFS4205,Advanced Techniques for High Dimensional Data,University of Queensland,QLD
+FOOD1001,Principles of Food Preservation,University of Queensland,QLD
+CHEM2003,Food Chemistry,University of Queensland,QLD
+FOOD2000,Food Science,University of Queensland,QLD
+FOOD3007,Food Structure & Sensory Science,University of Queensland,QLD
+FOOD3011,Food Product Development,University of Queensland,QLD
+FOOD3017,"Food Policy, Safety & Quality Management",University of Queensland,QLD
+MICR2001,Food Microbiology I,University of Queensland,QLD
+MICR3860,Food Microbiology II,University of Queensland,QLD
+NUTR2101,Nutrition Science,University of Queensland,QLD
+NUTR3011,Understanding Population Nutrition,University of Queensland,QLD
+NUTR3012,Community & Public Health Nutrition,University of Queensland,QLD
+NUTR3201,Advanced Nutrition Sciences,University of Queensland,QLD
+FOOD3000,Functional Foods & Nutraceuticals,University of Queensland,QLD
+FOOD3008,Food Process Engineering II,University of Queensland,QLD
+FOOD3022,Bush Foods of Australia,University of Queensland,QLD
+FOOD2003,Food Process Engineering I,University of Queensland,QLD
+FOOD3601,Special Topic,University of Queensland,QLD
+"[	
+	ERTH1000",Planet Earth: The Big Picture,University of Queensland,QLD
+"[	
+	SCIE3255",Mathematics & Physics Industry Project,University of Queensland,QLD
+"[	
+	BIOL3014",Advanced Bioinformatics,University of Queensland,QLD
+"[	
+	COMP3506",Algorithms & Data Structures,University of Queensland,QLD
+"[	
+	COSC3000","Visualization, Computer Graphics & Data Analysis",University of Queensland,QLD
+"[	
+	COSC3500",High-Performance Computing,University of Queensland,QLD
+"[	
+	PHYS3040",Quantum Physics,University of Queensland,QLD
+PHYS2082,Space Science & Stellar Astrophysics,University of Queensland,QLD
+PHYS2810,Electronics & Circuit Theory,University of Queensland,QLD
+INDH1005,Aboriginal & Torres Strait Islander Health,University of Queensland,QLD
+PUBH1102,Introduction to Public Health,University of Queensland,QLD
+PUBH1103,Health Systems & Policy,University of Queensland,QLD
+NUTR2003,Nutrition in the Lifespan,University of Queensland,QLD
+PUBH2004,Understanding Health Behaviours,University of Queensland,QLD
+PUBH2008,Major Diseases & their control,University of Queensland,QLD
+HLTH3007,Research Project,University of Queensland,QLD
+PUBH3002,Health Policy in Practice,University of Queensland,QLD
+PUBH3005,Influencing Health Behaviours,University of Queensland,QLD
+PUBH3009,Environmental Health,University of Queensland,QLD
+PUBH3010,Global Health and Infectious Disease,University of Queensland,QLD
+ECON2320,Business & Economic Decision Techniques,University of Queensland,QLD
+ECON3010,Advanced Microeconomics,University of Queensland,QLD
+ECON3020,Advanced Macroeconomics,University of Queensland,QLD
+ECON3340,Productivity and Efficiency Analysis,University of Queensland,QLD
+ECON3400,Industrial Economics,University of Queensland,QLD
+ECON2460,Health Economics,University of Queensland,QLD
+ECON3200,Monetary Economics,University of Queensland,QLD
+ECON3450,Public Finance,University of Queensland,QLD
+ECON3510,International Trade Theory & Policy,University of Queensland,QLD
+ECON3520,Economics of International Finance,University of Queensland,QLD
+FINM1415,Introduction to Finance,University of Queensland,QLD
+AGRC3027,Agricultural and Resource Policy,University of Queensland,QLD
+ECON3710,Economics of Natural Resources,University of Queensland,QLD
+ENVM3523,Natural Resource Management,University of Queensland,QLD
+ECON2333,Big Data and Machine Learning for Economics and Finance,University of Queensland,QLD
+ECON3060,Experimental Economics,University of Queensland,QLD
+ECON3320,Statistical Theory for Economists,University of Queensland,QLD
+ECON3330,Econometric Theory,University of Queensland,QLD
+ECON3370,Econometrics of Panel Data and Discrete Variables,University of Queensland,QLD
+ECON6080,Computational Methods in Economics,University of Queensland,QLD
+ECON6380,Advanced Macroeconometrics,University of Queensland,QLD
+ECON6390,Financial Econometrics,University of Queensland,QLD
+"[	
+	ECON6030",Microeconomics B,University of Queensland,QLD
+"[	
+	ECON6040",Macroeconomics B,University of Queensland,QLD
+ECON1120,The Economics of Social Issues,University of Queensland,QLD
+ECON1110,Australian Economic Institutions,University of Queensland,QLD
+MATH1040,Basic Mathematics,University of Queensland,QLD
+"[	
+	SCIE1000",Theory & Practice in Science,University of Queensland,QLD
+"[	
+	SCIE1100",Advanced Theory and Practice in Science,University of Queensland,QLD
+"[	
+	STAT1201",Analysis of Scientific Data,University of Queensland,QLD
+"[	
+	STAT1301",Advanced Analysis of Scientific Data,University of Queensland,QLD
+"[	
+	CHEM1100",Chemistry 1,University of Queensland,QLD
+"[	
+	CHEM1090",Introductory Chemistry,University of Queensland,QLD
+"[	
+	INFS1200",Introduction to Information Systems,University of Queensland,QLD
+"[	
+	DECO1400",Introduction to Web Design,University of Queensland,QLD
+CSSE1001,Introduction to Software Engineering,University of Queensland,QLD
+NUTR1023,Health & Fitness Through Diet & Exercise,University of Queensland,QLD
+ENGG1100,Engineering Design,University of Queensland,QLD
+ENGG1200,Engineering Modelling & Problem Solving,University of Queensland,QLD
+ENGG1211,"Engineering Design, Modelling & Problem Solving",University of Queensland,QLD
+ENGG1500,Engineering Thermodynamics,University of Queensland,QLD
+CHEE2003,Fluid & Particle Mechanics,University of Queensland,QLD
+CHEE2010,Engineering Investigation & Statistical Analysis,University of Queensland,QLD
+CHEM2056,Physical Chemistry for Engineering,University of Queensland,QLD
+CHEE3002,Heat & Mass Transfer,University of Queensland,QLD
+CHEE3003,Chemical Thermodynamics,University of Queensland,QLD
+CHEE3020,Process Systems Analysis,University of Queensland,QLD
+CHEE3004,Unit Operations,University of Queensland,QLD
+CHEE3005,Reaction Engineering,University of Queensland,QLD
+CHEE3007,Process Modelling & Dynamics,University of Queensland,QLD
+CHEE4002,Impact and Risk in the Process Industries,University of Queensland,QLD
+CHEE4009,Transport Phenomena,University of Queensland,QLD
+CHEE4060,Process & Control System Synthesis,University of Queensland,QLD
+ENGG4900,Professional Practice and the Business Environment,University of Queensland,QLD
+CHEE4001,Process Engineering Design Project,University of Queensland,QLD
+CHEM1090,Introductory Chemistry,University of Queensland,QLD
+MATH1050,Mathematical Foundations[4],University of Queensland,QLD
+PHYS1171,Physical Basis of Biological Systems,University of Queensland,QLD
+CHEE1001,Principles of Biological Engineering,University of Queensland,QLD
+ENGG1300,Introduction to Electrical Systems,University of Queensland,QLD
+ENGG1400,Engineering Mechanics: Statics & Dynamics,University of Queensland,QLD
+ENGG1600,Introduction to Research Practices - The Big Issues,University of Queensland,QLD
+ENVM1522,Carbon and Energy Management,University of Queensland,QLD
+ERTH1501,Earth Processes & Geological Materials for Engineers,University of Queensland,QLD
+CHEE2501,Environmental Systems Engineering I: Processes,University of Queensland,QLD
+CHEE3008,Special Topics C,University of Queensland,QLD
+CHEE4003,Special Topics A,University of Queensland,QLD
+CHEE4015,Special Topics VII,University of Queensland,QLD
+CIVL3141,Hydrology and Hydrological Risk,University of Queensland,QLD
+ENGG4103,Engineering Asset Management,University of Queensland,QLD
+ENVM3103,Regulatory Frameworks for Environmental Management & Planning,University of Queensland,QLD
+MECH2310,Science & Engineering of Metals,University of Queensland,QLD
+MINE2201,Physical & Chemical Processing of Minerals,University of Queensland,QLD
+MINE3211,Special Topics in Minerals Processing II,University of Queensland,QLD
+MINE3212,Pyrometallurgy,University of Queensland,QLD
+MINE3219,Process Mineralogy and Comminution,University of Queensland,QLD
+MINE4207,Special Topics in Minerals Processing I,University of Queensland,QLD
+CHEE4012,Industrial Wastewater & Solid Waste Management,University of Queensland,QLD
+CHEE4020,Biomolecular Engineering,University of Queensland,QLD
+CHEE4022,Principles of Adsorption,University of Queensland,QLD
+CHEE4034,Cell & Tissue Engineering,University of Queensland,QLD
+CHEE4303,Interface and Colloid Science and Engineering,University of Queensland,QLD
+ENGG3500,Reservoir Engineering,University of Queensland,QLD
+ENGY4000,Energy Systems,University of Queensland,QLD
+MECH4304,Net Shape Manufacturing,University of Queensland,QLD
+MINE4203,Flotation,University of Queensland,QLD
+MINE4204,Aqueous Solution Processing & Electrometallurgy,University of Queensland,QLD
+CHEE4006,Individual Inquiry,University of Queensland,QLD
+CHEE4007,Individual Inquiry,University of Queensland,QLD
+CHEE4026,Thesis Project,University of Queensland,QLD
+CHEE4027,Thesis Project,University of Queensland,QLD
+CHEE4028,Metabolic Engineering,University of Queensland,QLD
+"[	
+	CHEE3007",Process Modelling & Dynamics,University of Queensland,QLD
+"[	
+	CIVL3150",Modelling of Environmental Systems,University of Queensland,QLD
+CIVL4140,Contaminant Transport Modelling,University of Queensland,QLD
+MGTS3526,Systems Thinking,University of Queensland,QLD
+"[	
+	MECH2300",Structures & Materials,University of Queensland,QLD
+"[	
+	MECH2305",Introduction to Engineering Design and Manufacturing,University of Queensland,QLD
+MECH3301,Materials Selection,University of Queensland,QLD
+MINE3208,Mineral and Coal Beneficiation,University of Queensland,QLD
+MINE4201,Metallurgical Plant Design,University of Queensland,QLD
+ENVM3525,Sustainable Business Practice,University of Queensland,QLD
+MECH2300,Structures & Materials,University of Queensland,QLD
+MECH2305,Introduction to Engineering Design and Manufacturing,University of Queensland,QLD
+MINE2105,Introduction to Mining,University of Queensland,QLD
+CIVL2135,Environmental Issues and Sustainability in Engineering,University of Queensland,QLD
+CIVL2330,Structural Mechanics,University of Queensland,QLD
+CIVL2410,Sustainable Transport Engineering - Traffic Analysis,University of Queensland,QLD
+CIVL2530,Probability and Statistics in Engineering,University of Queensland,QLD
+CIVL2131,Environmental Fluid Mechanics,University of Queensland,QLD
+CIVL2210,Soil Mechanics,University of Queensland,QLD
+CIVL2340,Design of Steel Structures,University of Queensland,QLD
+CIVL2360,Design of Concrete Structures,University of Queensland,QLD
+CIVL3140,Hydraulics of Engineered and Natural Waterways,University of Queensland,QLD
+CIVL3210,Geotechnical Engineering,University of Queensland,QLD
+CIVL3340,Structural Analysis,University of Queensland,QLD
+CIVL3350,Integrated Structural Design,University of Queensland,QLD
+CIVL3420,Sustainable Transport Engineering - Planning and Design,University of Queensland,QLD
+CIVL3510,Project Management with Building Information Modelling,University of Queensland,QLD
+CIVL4514,Integrated Design,University of Queensland,QLD
+CIVL4516,Integrated Design for Environmental Management,University of Queensland,QLD
+MATH2000,Calculus & Linear Algebra II,University of Queensland,QLD
+MINE3121,Mining Geomechanics,University of Queensland,QLD
+REDE1300,Building Construction Management & Economics,University of Queensland,QLD
+CIVL3150,Modelling of Environmental Systems,University of Queensland,QLD
+CIVL4110,Coastal & Estuarine Engineering,University of Queensland,QLD
+CIVL4120,Advanced Hydraulic Engineering and Structures,University of Queensland,QLD
+CIVL4160,Advanced Fluid Mechanics,University of Queensland,QLD
+CIVL4170,Environmental Risk Assessment and Management,University of Queensland,QLD
+CIVL4180,Sustainable Built Environment,University of Queensland,QLD
+CIVL4230,Advanced Soil Mechanics,University of Queensland,QLD
+CIVL4250,Engineering Problem Solving with Numerical Methods,University of Queensland,QLD
+CIVL4270,Geotechnical Investigation & Testing,University of Queensland,QLD
+CIVL4280,Advanced Rock Mechanics,University of Queensland,QLD
+CIVL4332,Advanced Structural Analysis,University of Queensland,QLD
+CIVL4333,Advanced Concrete Design,University of Queensland,QLD
+CIVL4334,Design of Timber Structures,University of Queensland,QLD
+CIVL4340,Wind Engineering,University of Queensland,QLD
+CIVL4412,Travel Behaviour and Transport Modelling,University of Queensland,QLD
+CIVL4450,Traffic Flow Theory and Emerging Technologies,University of Queensland,QLD
+CIVL4460,Highway Geometric Design,University of Queensland,QLD
+CIVL4522,Analytical Methods for the Design of Construction Operations,University of Queensland,QLD
+CIVL4560,Project,University of Queensland,QLD
+CIVL4580,Research Thesis,University of Queensland,QLD
+CIVL4582,Research Thesis,University of Queensland,QLD
+FIRE3700,Introduction to Fire Safety Engineering,University of Queensland,QLD
+FIRE4610,Fire Engineering Design: Solutions for Implicit Safety,University of Queensland,QLD
+MINE4000,Mine Waste Management & Landform Design,University of Queensland,QLD
+"[	
+	CIVL4560",Project,University of Queensland,QLD
+"[	
+	CIVL4580",Research Thesis,University of Queensland,QLD
+"[	
+	CIVL4582",Research Thesis,University of Queensland,QLD
+MINE4120,Mine Geotechnical Engineering,University of Queensland,QLD
+CSSE2010,Introduction to Computer Systems,University of Queensland,QLD
+ELEC2003,Electromechanics & Electronics,University of Queensland,QLD
+CSSE2310,Computer Systems Principles and Programming,University of Queensland,QLD
+ELEC2004,"Circuits, Signals & Systems",University of Queensland,QLD
+ENGG2800,Team Project I,University of Queensland,QLD
+MATH2010,Analysis of Ordinary Differential Equations,University of Queensland,QLD
+STAT2202,Probability Models for Engineering & Science,University of Queensland,QLD
+CSSE3010,Embedded Systems Design & Interfacing,University of Queensland,QLD
+ELEC3004,"Signals, Systems & Control",University of Queensland,QLD
+ELEC3400,Electronic Circuits,University of Queensland,QLD
+ELEC3100,Fundamentals of Electromagnetic Fields & Waves,University of Queensland,QLD
+ELEC3300,Electrical Energy Conversion & Utilisation,University of Queensland,QLD
+ENGG3800,Team Project II,University of Queensland,QLD
+"[	
+	ENGG4801",Thesis Project,University of Queensland,QLD
+"[	
+	ENGG4802",Thesis Project,University of Queensland,QLD
+"[	
+	ENGG4805",Thesis Project,University of Queensland,QLD
+COMS4103,Photonics,University of Queensland,QLD
+COMS4104,Microwave Engineering,University of Queensland,QLD
+COMS4105,Communication Systems,University of Queensland,QLD
+CSSE4010,Digital System Design,University of Queensland,QLD
+ELEC4300,Power Systems Analysis,University of Queensland,QLD
+ELEC4400,Advanced Electronic & Power Electronics Design,University of Queensland,QLD
+ELEC4620,Digital Signal Processing,University of Queensland,QLD
+ELEC4630,Image Processing and Computer Vision,University of Queensland,QLD
+METR4201,Control Engineering 1,University of Queensland,QLD
+METR4202,Robotics & Automation,University of Queensland,QLD
+COMP3880,International Software Development,University of Queensland,QLD
+COMS4200,Computer Networks II,University of Queensland,QLD
+CSSE4011,Advanced Embedded Systems,University of Queensland,QLD
+ELEC4000,Special Topics in Electrical Engineering 4A,University of Queensland,QLD
+ELEC4302,Power System Protection,University of Queensland,QLD
+ELEC4320,Modern Asset Management and Condition Monitoring in Power System,University of Queensland,QLD
+ELEC4001,Special Topics in Electrical Engineering 4B,University of Queensland,QLD
+ELEC4403,Medical & Industrial Instrumentation,University of Queensland,QLD
+ELEC4601,Medical Imaging,University of Queensland,QLD
+ENGG4800,Project Management,University of Queensland,QLD
+ENGG4020,Systems Safety Engineering,University of Queensland,QLD
+CSSE4004,Distributed Computing,University of Queensland,QLD
+DECO1400,Introduction to Web Design,University of Queensland,QLD
+INFS1200,Introduction to Information Systems,University of Queensland,QLD
+MECH2410,Fundamentals of Fluid Mechanics,University of Queensland,QLD
+MECH2100,Machine Element Design,University of Queensland,QLD
+MECH2210,Intermediate Mechanical & Space Dynamics,University of Queensland,QLD
+MECH2700,Engineering Analysis I,University of Queensland,QLD
+MECH3400,Thermodynamics & Heat Transfer,University of Queensland,QLD
+MECH3600,Engineering Management & Communication,University of Queensland,QLD
+STAT2201,Analysis of Engineering & Scientific Data,University of Queensland,QLD
+MECH3300,Finite Element Method & Fracture Mechanics,University of Queensland,QLD
+MECH3100,Mechanical Systems Design,University of Queensland,QLD
+MECH3200,Advanced Dynamics & Vibrations,University of Queensland,QLD
+MECH3410,Fluid Mechanics,University of Queensland,QLD
+ENGG4011,Professional Engineering Project,University of Queensland,QLD
+MECH4500,Engineering Thesis,University of Queensland,QLD
+MECH4501,Engineering Thesis,University of Queensland,QLD
+MECH4552,Major Design Project,University of Queensland,QLD
+AERO4300,Aerospace Composites,University of Queensland,QLD
+AERO4450,Aerospace Propulsion,University of Queensland,QLD
+AERO4470,Hypersonics & Rarefied Gas Dynamics,University of Queensland,QLD
+AERO4800,Space Engineering,University of Queensland,QLD
+MECH3250,Engineering Acoustics,University of Queensland,QLD
+MECH3750,Engineering Analysis II,University of Queensland,QLD
+MECH4480,Computational Fluid Dynamics,University of Queensland,QLD
+MECH4950,Advanced Manufacturing in Practice,University of Queensland,QLD
+MECH4951,Special Topics D,University of Queensland,QLD
+METR3100,Control System Implementation,University of Queensland,QLD
+AERO4100,Aero Design and Manufacturing,University of Queensland,QLD
+AERO4200,Flight Mechanics & Avionics,University of Queensland,QLD
+METR2800,Mechatronic System Design Project I,University of Queensland,QLD
+METR4810,Mechatronic System Design Project II,University of Queensland,QLD
+"[	
+	METR4900",Thesis/Design Project,University of Queensland,QLD
+"[	
+	METR4901",Thesis/Design Project,University of Queensland,QLD
+MINE2106,Resource Geology & Mine Surveying,University of Queensland,QLD
+MINE3120,Resource Estimation,University of Queensland,QLD
+MINE3122,Mining Systems,University of Queensland,QLD
+MINE3123,Mine Planning,University of Queensland,QLD
+MINE3124,Mine Ventilation,University of Queensland,QLD
+MINE3125,Rock Breakage,University of Queensland,QLD
+MINE4124,Hard Rock Mine Design & Feasibility,University of Queensland,QLD
+MINE4125,Coal Mine Design and Feasibility,University of Queensland,QLD
+MINE3109,Special Topics in Mining II,University of Queensland,QLD
+MINE3126,Underground Mining Systems,University of Queensland,QLD
+MINE3127,Socio-Environmental Aspects of Mining,University of Queensland,QLD
+MINE3128,Surface Mining Systems,University of Queensland,QLD
+MINE4128,Coal Mine Strata Control,University of Queensland,QLD
+DECO2800,Design Computing Studio 2 - Testing & Evaluation,University of Queensland,QLD
+CSSE3002,The Software Process,University of Queensland,QLD
+DECO3800,Design Computing Studio 3 - Proposal,University of Queensland,QLD
+DECO3801,Design Computing Studio 3 - Build,University of Queensland,QLD
+COMP4500,Advanced Algorithms & Data Structures,University of Queensland,QLD
+DECO3500,Social & Mobile Computing,University of Queensland,QLD
+DECO4500,Advanced Human-Computer Interaction,University of Queensland,QLD
+INFS3202,Web Information Systems,University of Queensland,QLD
+INFS3208,Cloud Computing,University of Queensland,QLD
+ENGG7290,Engineering Placement Semester,University of Queensland,QLD
+CHEE7111,Advanced Process and System Modelling,University of Queensland,QLD
+CHEE7112,Integrated Safety Design and Management,University of Queensland,QLD
+CHEE7113,Whole of Process Optimisation and Control,University of Queensland,QLD
+CHEE7103,Chemical Engineering ME Design Project,University of Queensland,QLD
+ENGG7701,Engineering Grand Challenges,University of Queensland,QLD
+CHEE7502,Sustainable Bioresource Engineering,University of Queensland,QLD
+CIVL7131,Urban Hydrology,University of Queensland,QLD
+ENGG7602,Advanced Engineering Laboratory Techniques,University of Queensland,QLD
+ENVM7524,Carbon & Energy Management,University of Queensland,QLD
+MATE7001,Environmental Performance of Materials,University of Queensland,QLD
+MATE7013,Advanced Manufacturing,University of Queensland,QLD
+TIMS7317,Corporate Sustainability,University of Queensland,QLD
+WATR7103,Advanced Wastewater and Biosolids Treatment,University of Queensland,QLD
+WATR7104,"Sewer Networks - Design, Operation and Maintenance",University of Queensland,QLD
+WATR7105,Integrated Urban Water Management,University of Queensland,QLD
+WATR7106,Emerging Issues in the Urban Water Cycle and Public Health,University of Queensland,QLD
+WATR7107,Wastewater Modelling and Control,University of Queensland,QLD
+WATR7109,"Drinking Water Supply: Source, Treatment and Distribution",University of Queensland,QLD
+MGTS7523,System Dynamics,University of Queensland,QLD
+CIVL7500,Research Thesis,University of Queensland,QLD
+CIVL7501,Research Thesis,University of Queensland,QLD
+CIVL7135,Advanced Environmental Monitoring Techniques for Civil Engineers,University of Queensland,QLD
+CIVL7155,Environmental Fluid Mechanics - Modelling Applications,University of Queensland,QLD
+CIVL7215,Ground Improvement & Remediation Technologies,University of Queensland,QLD
+CIVL7225,Dam and Embankment Engineering,University of Queensland,QLD
+CIVL7350,Design of Composite Structures,University of Queensland,QLD
+CIVL7415,Spatial and Quantitative Methods for Transport Data Analytics,University of Queensland,QLD
+CIVL7425,Strategic Transport Modelling,University of Queensland,QLD
+FIRE7660,Structural Fire Engineering,University of Queensland,QLD
+CIVL7170,Pollution Control in Cities,University of Queensland,QLD
+CIVL7235,Underground Structures,University of Queensland,QLD
+CIVL7315,Advanced Concrete Structures and Concrete Technology,University of Queensland,QLD
+CIVL7360,Computational Design and Digital Workflows,University of Queensland,QLD
+CIVL7435,Traffic Simulation: Methods and Applications,University of Queensland,QLD
+CIVL7505,Research Methods for Civil Engineers,University of Queensland,QLD
+FIRE7620,Fire Dynamics,University of Queensland,QLD
+FIRE7500,Research Thesis,University of Queensland,QLD
+FIRE7501,Research Thesis,University of Queensland,QLD
+FIRE7640,Fire Dynamics Laboratory,University of Queensland,QLD
+FIRE7680,Fire Engineering Design: Explicit Quantification of Safety,University of Queensland,QLD
+MATH1050,Mathematical Foundations[5],University of Queensland,QLD
+COMS7305,Advanced Microwave Engineering,University of Queensland,QLD
+COMS7307,Advanced Photonics,University of Queensland,QLD
+COMS7309,Computational Techniques in Electromagnetics,University of Queensland,QLD
+ELEC7051,Transformer Technology Design and Operation,University of Queensland,QLD
+ELEC7309,Power System Planning and Reliability,University of Queensland,QLD
+ELEC7310,Electricity Market Operation and Security,University of Queensland,QLD
+ELEC7313,Renewable Energy Integration: Technologies to Technical Challenges,University of Queensland,QLD
+ELEC7901,Advanced Medical Device Engineering,University of Queensland,QLD
+ELEC7902,Biomedical Signal Processing,University of Queensland,QLD
+METR7203,Control Engineering 2,University of Queensland,QLD
+COMS7000,Advanced Topics in Communications I,University of Queensland,QLD
+COMS7308,Antenna Design,University of Queensland,QLD
+COMS7310,Radar and Electronic Warfare Fundamentals,University of Queensland,QLD
+CSSE7080,Advanced Topics in Computer Systems A,University of Queensland,QLD
+CSSE7081,Advanced Topics in Computer Systems B,University of Queensland,QLD
+ELEC7300,Advanced Topics in Power,University of Queensland,QLD
+ENGG7300,Advanced Topics in Engineering I,University of Queensland,QLD
+ENGG7301,Advanced Topics in Engineering II,University of Queensland,QLD
+CSSE7610,Concurrency: Theory and Practice,University of Queensland,QLD
+ENGG7302,Advanced Computational Techniques in Engineering,University of Queensland,QLD
+ENGG7811,Research Methods,University of Queensland,QLD
+PUBH7600,Introduction to Epidemiology,University of Queensland,QLD
+PUBH7630,Introduction to Biostatistics,University of Queensland,QLD
+PUBH7632,Advanced Biostatistics & Epidemiology,University of Queensland,QLD
+INFS7410,Information Retrieval and Web Search,University of Queensland,QLD
+CSSE7090,Advanced Topics in Software Engineering A,University of Queensland,QLD
+CSSE7091,Advanced Topics in Software Engineering B,University of Queensland,QLD
+MATE7015,Additive Manufacturing,University of Queensland,QLD
+MECH7101,Design of Experiments,University of Queensland,QLD
+ELEC7303,Power Systems Analysis,University of Queensland,QLD
+ELEC7606,Medical Imaging,University of Queensland,QLD
+ENGG7600,Advanced Engineering Practice,University of Queensland,QLD
+ENGG7601,Experimental Design,University of Queensland,QLD
+MECH7900,Special Topics in Mechanical Engineering,University of Queensland,QLD
+COMP7000,Special Topics in Computer Science 7A,University of Queensland,QLD
+COMP7001,Special Topics in Computer Science 7B,University of Queensland,QLD
+CSSE7630,Principles of Program Analysis,University of Queensland,QLD
+CSSE7640,Formal Modelling and Verification,University of Queensland,QLD
+DECO7000,Special Topics in Design Computing 7A,University of Queensland,QLD
+DECO7001,Special Topics in Design Computing 7B,University of Queensland,QLD
+"[	
+	BIOL1030",Global Challenges in Biology,University of Queensland,QLD
+"[	
+	ERTH3205",Geochemistry and Geochronology,University of Queensland,QLD
+"[	
+	ERTH3250",Hydrogeology,University of Queensland,QLD
+"[	
+	GEOS2100",Environmental Systems,University of Queensland,QLD
+"[	
+	GEOS2101",Climatology & Hydrology,University of Queensland,QLD
+"[	
+	GEOS2103",Biogeography & Geomorphology,University of Queensland,QLD
+LAND2003,The Soil Environment,University of Queensland,QLD
+LAND3006,"Soils, Landscapes & Environments",University of Queensland,QLD
+AGRC1040,Food for a Healthy Planet,University of Queensland,QLD
+ENVM1512,Ecological Economics,University of Queensland,QLD
+ENVM2100,Sustainable Development,University of Queensland,QLD
+"[	
+	BIOL2015",Ecology Field Studies,University of Queensland,QLD
+"[	
+	BIOL3016",Outback Ecology Field Studies,University of Queensland,QLD
+AGRC3035,Short International Experience,University of Queensland,QLD
+ANIM1026,Australian Terrestrial Vertebrates,University of Queensland,QLD
+ANIM3018,Wildlife Technologies,University of Queensland,QLD
+ENVM2101,Sustainable Consumption and Production,University of Queensland,QLD
+ENVM3001,Principles of Wildlife Management,University of Queensland,QLD
+ENVM3211,Environmental Toxicology and Monitoring,University of Queensland,QLD
+ENVM3517,Protected Area Management,University of Queensland,QLD
+LPWM3005,Game Management - the Science of Sustainable Use,University of Queensland,QLD
+SCIE1000,Theory & Practice in Science,University of Queensland,QLD
+"[	
+	AGRC1040",Food for a Healthy Planet,University of Queensland,QLD
+"[	
+	CHEM2050",Intermediate Chemistry 1,University of Queensland,QLD
+"[	
+	CHEM2052",Chemical Biology,University of Queensland,QLD
+"[	
+	BIOL3204",Plant Adaptation and Global Change,University of Queensland,QLD
+AGRC3006,Pasture Science,University of Queensland,QLD
+ENVM2522,Carbon & Energy Management,University of Queensland,QLD
+COMP2048,Theory of Computing,University of Queensland,QLD
+CSSE3006,Special Projects in Computer Systems and Software Engineering,University of Queensland,QLD
+BIOT2002,Introduction to Biotechnology,University of Queensland,QLD
+BIOT3004,Commercialisation of Biotechnology Products,University of Queensland,QLD
+BIOT3009,"Quality Management Systems in Biotechnology: GMP, GLP, GCP",University of Queensland,QLD
+STAT1201,Analysis of Scientific Data,University of Queensland,QLD
+ADVT2509,Foundations of Advertising,University of Queensland,QLD
+ADVT3505,Advertising Strategy,University of Queensland,QLD
+ADVT2506,Online Advertising,University of Queensland,QLD
+ADVT2510,Advertising Media,University of Queensland,QLD
+ADVT2511,Advertising & Consumer Culture,University of Queensland,QLD
+ADVT3506,Advertising Research,University of Queensland,QLD
+ADVT3507,Creative Advertising and Production,University of Queensland,QLD
+ADVT3508,Contemporary Issues in Advertising,University of Queensland,QLD
+ECON2420,The Macroeconomy & Business Conditions,University of Queensland,QLD
+MGTS2604,Introduction to Human Resource Management,University of Queensland,QLD
+IBUS2301,International Business Management,University of Queensland,QLD
+IBUS3310,International Business Operations,University of Queensland,QLD
+ACCT3106,Analysis of Financial Statements,University of Queensland,QLD
+BISM3208,Information Systems Strategy,University of Queensland,QLD
+DECO2200,Graphic Design,University of Queensland,QLD
+DECO2300,Digital Prototyping,University of Queensland,QLD
+DECO3850,Physical Computing & Interaction Design Studio,University of Queensland,QLD
+HLTH3001,Practicum in Health Sciences,University of Queensland,QLD
+PHYL2730,Exercise Physiology,University of Queensland,QLD
+ACCT1101,Accounting for Decision Making,University of Queensland,QLD
+ANAT2000,Functional Musculoskeletal Anatomy - Health Science,University of Queensland,QLD
+BIOM2015,Physiology and Pharmacology of Human Disease,University of Queensland,QLD
+BISM1201,Transforming Business with Information Systems,University of Queensland,QLD
+ACCT2101,Financial Reporting,University of Queensland,QLD
+BISM2233,eBusiness Systems and Strategy,University of Queensland,QLD
+LAWS1100,Business Law,University of Queensland,QLD
+MGTS1301,Introduction to Management,University of Queensland,QLD
+SOSC2288,Community Development: Local and International Practices,University of Queensland,QLD
+SOSC6100,Social Science Thesis,University of Queensland,QLD
+MUSC3231,Composition 3,University of Queensland,QLD
+MUSC4231,Composition 4,University of Queensland,QLD
+MUSC4420,Independent Study in Historical Musicology,University of Queensland,QLD
+MUSC3145,Advanced Chamber Music Performance 1,University of Queensland,QLD
+MUSC3155,Advanced Chamber Music Performance 1,University of Queensland,QLD
+MUSC3211,Practical Studies 3,University of Queensland,QLD
+MUSC3215,Practical Studies 3,University of Queensland,QLD
+MUSC4211,Practical Studies 4,University of Queensland,QLD
+COMP3320,Vulnerability Assessment and Penetration Test,University of Queensland,QLD
+COMS4507,Advanced Topics in Security,University of Queensland,QLD
+AGRC1041,Cell and Tissue Biology for Agriculture and Veterinary Science,University of Queensland,QLD
+VETS1060,Animal and Veterinary Biology,University of Queensland,QLD
+AGRC2001,Agricultural Biochemistry,University of Queensland,QLD
+AGRC2045,Molecular and quantitative genetics,University of Queensland,QLD
+AGRC3042,Animal and Plant Biosecurity,University of Queensland,QLD
+ANIM3019,Animal Reproduction,University of Queensland,QLD
+VETS2031,Comparative Structure and Function for Animal Biosciences,University of Queensland,QLD
+ANIM3061,Animal Nutrigenomics and Metabolism,University of Queensland,QLD
+ANIM3062,Emerging Issues in Animal Bioscience,University of Queensland,QLD
+ANIM3063,Animal Welfare & Ethics,University of Queensland,QLD
+VETS3040,Mechanisms of Animal Disease,University of Queensland,QLD
+VETS3041,"Stem Cells, Clones & Genetically Modified Organisms",University of Queensland,QLD
+VETS3042,Ecological and Disease Genetics,University of Queensland,QLD
+ENVM3215,"People, Fire and Environment",University of Queensland,QLD
+CHEE4301,Nanomaterials,University of Queensland,QLD
+GEOS2110,Tectonics of Active Plate Boundaries,University of Queensland,QLD
+NEUR1020,The Brain and Behavioural Sciences,University of Queensland,QLD
+NEUR2020,Neuroscience for Psychologists,University of Queensland,QLD
+NEUR3192,Sensory Neuroscience,University of Queensland,QLD
+NEUR3302,Cognitive Neuroscience,University of Queensland,QLD
+ANTH2010,Critical Anthropology & Indigenous Australians,University of Queensland,QLD
+HIST2015,"Vikings: Raiders, Traders, Invaders",University of Queensland,QLD
+ANTH1008,Being Human: Cultural Diversity and Experience,University of Queensland,QLD
+ANTH1030,Anthropology of Current World Issues,University of Queensland,QLD
+ANTH2020,Theory and Society in the Pacific,University of Queensland,QLD
+ANTH2018,Consumption & Material Culture,University of Queensland,QLD
+ANTH2060,"Ecology, Culture, and Field Research",University of Queensland,QLD
+ANTH3140,Anthropological Futures,University of Queensland,QLD
+COMU1002,Communicating Across Cultures: Theory and Practice,University of Queensland,QLD
+CHIN2750,Fundamentals in English > Chinese Translation,University of Queensland,QLD
+HIST2603,The History of Sexuality,University of Queensland,QLD
+ENVM2203,Environmental Impact Assessment,University of Queensland,QLD
+ENVM3220,Resource Management and Planning,University of Queensland,QLD
+HIST3004,The Problematic Past: History and Controversy,University of Queensland,QLD
+POLS2224,Culture and World Politics,University of Queensland,QLD
+JAPN1011,Foundational Japanese 1,University of Queensland,QLD
+JAPN1012,Foundational Japanese 2,University of Queensland,QLD
+JAPN2021,Foundational Japanese 3,University of Queensland,QLD
+JAPN2022,Foundational Japanese 4,University of Queensland,QLD
+JAPN3209,Introduction to Japanese Linguistics,University of Queensland,QLD
+KORN3101,Advanced Korean I,University of Queensland,QLD
+KORN3201,Advanced Korean II,University of Queensland,QLD
+MUSC3840,Multi-Instrumental Pedagogy,University of Queensland,QLD
+MUSC2501,Musicology and Early Music,University of Queensland,QLD
+PHIL2330,Political Philosophy and Applied Ethics,University of Queensland,QLD
+PHIL2750,Economic Justice,University of Queensland,QLD
+PHRM4080,Independent Research Project,University of Queensland,QLD
+PHRM4011,Integrated Patient Centred Care 1,University of Queensland,QLD
+PHRM4031,The Business of Health,University of Queensland,QLD
+PHRM4012,Integrated Patient Centred Care 2,University of Queensland,QLD
+PHRM4062,QUM Pharmacy Practice Placement,University of Queensland,QLD
+AGRC2040,Agronomy,University of Queensland,QLD
+ANIM2021,Animal Environmental Physiology,University of Queensland,QLD
+ANIM2053,Animal Nutrition,University of Queensland,QLD
+VETS2032,Animal Pathogens and Immunity,University of Queensland,QLD
+VETS2033,Laboratory Animal Science,University of Queensland,QLD
+ANIM3060,Animals in a Changing Environment,University of Queensland,QLD
+"[	
+	COMP6801",Computer Science Honours Project,University of Queensland,QLD
+"[	
+	COMP6802",Computer Science Honours Project,University of Queensland,QLD
+"[	
+	COMP6803",Computer Science Research Project,University of Queensland,QLD
+"[	
+	COMP6804",Computer Science Research Project,University of Queensland,QLD
+COMP4000,Special Topics in Computer Science 4A,University of Queensland,QLD
+COMP4001,Special Topics in Computer Science 4B,University of Queensland,QLD
+COMP4002,Special Topics in Computer Science 4C,University of Queensland,QLD
+COMP4003,Special Topics Computer Science 4D,University of Queensland,QLD
+COMP4004,Special Topics in Computer Science 4E,University of Queensland,QLD
+COMP4005,Special Topics in Computer Science 4F,University of Queensland,QLD
+BISM6211,Information Systems Honours,University of Queensland,QLD
+HLTH6000,Advanced Discipline Readings,University of Queensland,QLD
+HLTH6001,Research Methods & Thesis Preparation,University of Queensland,QLD
+"[	
+	HLTH6002",Thesis,University of Queensland,QLD
+"[	
+	HLTH6003",Thesis,University of Queensland,QLD
+ENVM2008,Cultural Heritage Management,University of Queensland,QLD
+PUBH3001,Health Services Planning & Evaluation,University of Queensland,QLD
+SWSP3028,"Foundational Social Work Field Practice Course in Child, Youth and Family",University of Queensland,QLD
+SWSP4182,"Advanced Social Work Field Practice in Child, Youth and Family",University of Queensland,QLD
+SWSP4282,"Advanced Research and Evaluation in Child, Youth and Family[1]",University of Queensland,QLD
+SWSP3029,Foundational Social Work Field Practice Course in Health and Ageing,University of Queensland,QLD
+SWSP4181,Advanced Social Work Field Practice in Health and Ageing,University of Queensland,QLD
+SWSP4281,Advanced Research and Evaluation in Health and Ageing[2],University of Queensland,QLD
+SWSP3027,Foundational Social Work Field Practice Course in Mental Health,University of Queensland,QLD
+SWSP4183,Advanced Social Work Field Practice in Mental Health,University of Queensland,QLD
+SWSP4283,Advanced Research and Evaluation in Mental Health[2],University of Queensland,QLD
+BIOM2019,Human Anatomy,University of Queensland,QLD
+CHEM1221,"General, Organic & Biological Chemistry",University of Queensland,QLD
+OHSS1000,Introduction to Occupational Health & Safety,University of Queensland,QLD
+OHSS2000,Occupational Health,University of Queensland,QLD
+OHSS2001,Occupational Safety Science,University of Queensland,QLD
+LAWS2800,Occupational Health & Safety Law,University of Queensland,QLD
+OHSS3001,Physical Ergonomics,University of Queensland,QLD
+OHSS3002,Risk Management,University of Queensland,QLD
+OHSS3004,Occupational Health & Safety Management Systems,University of Queensland,QLD
+PSYC3071,Psychology of Disability,University of Queensland,QLD
+PSYC3092,Language Development,University of Queensland,QLD
+PSYC3152,Applied Topics in Lifespan Development,University of Queensland,QLD
+PSYC3172,Basic Processes in Cognition,University of Queensland,QLD
+MUSC1050,Western Art Music 1700-1900: Approaches and Concepts,University of Queensland,QLD
+MUSC1100,Ensemble Studies 1,University of Queensland,QLD
+MUSC2510,Contemporary Art Music,University of Queensland,QLD
+MUSC2100,Ensemble Studies 2,University of Queensland,QLD
+MUSC3060,Musicianship 3,University of Queensland,QLD
+MUSC3165,Conducting,University of Queensland,QLD
+MUSC3580,Music Analysis and Criticism,University of Queensland,QLD
+MUSC3910,Music Special Project,University of Queensland,QLD
+SLAT7805,Second Language Acquisition,University of Queensland,QLD
+SLAT7806,Research Methods,University of Queensland,QLD
+SLAT7826,Teaching Languages in a Global Context,University of Queensland,QLD
+"[	
+	SLAT7899",Language and Intercultural communication,University of Queensland,QLD
+"[	
+	SLAT7860",Language and Technology,University of Queensland,QLD
+EDUC7031,TESOL Curriculum & Pedagogy: Classroom Strategies,University of Queensland,QLD
+EDUC7032,Critical Perspectives on TESOL in Educational Contexts,University of Queensland,QLD
+SLAT7835,Language Testing & Assessment,University of Queensland,QLD
+SLAT7807,"Classroom Second Language Processes: Theory, Research, Practice",University of Queensland,QLD
+AGRC7005,Advanced Agronomy,University of Queensland,QLD
+AGRC7048,Principles of Plant Physiology,University of Queensland,QLD
+LAND7000,Water & Land Resource Management,University of Queensland,QLD
+PLNT6894,Principles of Weed Science,University of Queensland,QLD
+PLNT7014,Principles of Integrated Plant Protection,University of Queensland,QLD
+HORT7002,Horticulture Production,University of Queensland,QLD
+LAND7009,Soil and Growth Media Management,University of Queensland,QLD
+BIOL7011,Molecular Diagnostics in Plant Protection,University of Queensland,QLD
+BIOL7012,Plant-Microbe & Insect Interactions,University of Queensland,QLD
+BIOL7013,Biosecurity Plant Pests: Invertebrates,University of Queensland,QLD
+BIOL7017,Plant Pathology,University of Queensland,QLD
+ENTM6003,Terrestrial Arthropods,University of Queensland,QLD
+PLNT7005,Plant Protection,University of Queensland,QLD
+AGRC7051,Advanced Pasture Management,University of Queensland,QLD
+ANIM7001,Animal Science & Production,University of Queensland,QLD
+ANIM7241,Animal Nutrition and Nutrigenomics,University of Queensland,QLD
+ANIM7621,Animal Breeding Technology,University of Queensland,QLD
+ANIM7016,Wildlife Husbandry and Utilisation,University of Queensland,QLD
+ANIM7023,Human - Wildlife Conflict Management,University of Queensland,QLD
+ANIM7043,Australian Marsupials and Monotremes,University of Queensland,QLD
+ANIM7117,Equine Digestive Physiology and Nutrition,University of Queensland,QLD
+ANIM7118,Equine Exercise Physiology and Rehabilitation,University of Queensland,QLD
+ANIM7119,Equine Health and Welfare,University of Queensland,QLD
+ANIM7120,Equine Reproduction,University of Queensland,QLD
+FINM7902,Business Management in the Public Sector,University of Queensland,QLD
+FINM7903,Financial Management in the Public Sector,University of Queensland,QLD
+FINM7904,Asset Management in the Public Sector,University of Queensland,QLD
+FINM7905,Treasury Management in the Public Sector,University of Queensland,QLD
+LAWS7028,International Commercial Dispute Resolution,University of Queensland,QLD
+LAWS7139,Principles of General Insurance Law,University of Queensland,QLD
+LAWS7228,Privacy Law,University of Queensland,QLD
+LAWS7825,Supervised Research Project,University of Queensland,QLD
+LAWS7841,Theories in Dispute Resolution,University of Queensland,QLD
+LAWS7951,Marine Insurance Law,University of Queensland,QLD
+MGTS7906,Principles of Business Management and Leadership,University of Queensland,QLD
+MGTS7905,Strategic Analysis and Implementation,University of Queensland,QLD
+MGTS7908,Service Quality and Customer Co-Creation,University of Queensland,QLD
+MGTS7910,Special Topics in Business Leadership 1,University of Queensland,QLD
+ADVT7508,Fundamentals of Advertising,University of Queensland,QLD
+ADVT7506,Strategic Advertising Management,University of Queensland,QLD
+ADVT7507,Digital Advertising Strategy,University of Queensland,QLD
+ADVT7509,Creative Advertising Development,University of Queensland,QLD
+ADVT7510,Social Media Management,University of Queensland,QLD
+ADVT7512,Media Planning and Buying,University of Queensland,QLD
+ADVT7513,Advertising Research Methods,University of Queensland,QLD
+MGTS7601,Managing Organisational Behaviour,University of Queensland,QLD
+MGTS7603,Strategic Human Resource Management,University of Queensland,QLD
+MGTS7612,The Fundamentals of Designing and Staffing Organisations,University of Queensland,QLD
+MGTS7604,International Human Resource Management,University of Queensland,QLD
+MGTS7605,Performance Leadership,University of Queensland,QLD
+MGTS7609,Contemporary Employment Relations,University of Queensland,QLD
+MGTS7611,Employee and Organisational Development,University of Queensland,QLD
+MGTS7618,Wise Leadership,University of Queensland,QLD
+BISM7233,Data Analytics for Business,University of Queensland,QLD
+BISM7255,Business Information Systems Analysis and Design,University of Queensland,QLD
+BISM7206,Information Retrieval and Management,University of Queensland,QLD
+BISM7208,Information Systems Strategy and Sourcing,University of Queensland,QLD
+BISM7209,Accounting Information Systems,University of Queensland,QLD
+BISM7213,Securing Business Information,University of Queensland,QLD
+BISM7216,Business Process Improvement,University of Queensland,QLD
+BISM7217,Advanced Business Data Analytics,University of Queensland,QLD
+BISM7221,"Information Systems Control, Governance and Audit",University of Queensland,QLD
+TIMS7301,Principles of Entrepreneurship,University of Queensland,QLD
+MGTS7303,Principles of Strategic Management,University of Queensland,QLD
+ECON7540,Economics of Innovation & Entrepreneurship,University of Queensland,QLD
+EIBS7300,Creativity for Innovation and Design Thinking,University of Queensland,QLD
+EIBS7301,Idea Management,University of Queensland,QLD
+"[	
+	EIBS7305",Commercialisation in Practice Project,University of Queensland,QLD
+"[	
+	EIBS7307",Lean Start Up,University of Queensland,QLD
+MGTS7308,Social Enterprises and Not for Profits,University of Queensland,QLD
+MKTG7513,Marketing for Social Change,University of Queensland,QLD
+TIMS7323,Bio-Entrepreneurship and Innovation,University of Queensland,QLD
+TIMS7326,Management of Intellectual Property,University of Queensland,QLD
+TIMS7328,Strategies for Business Sustainability and Innovation,University of Queensland,QLD
+TIMS7329,Social Entrepreneurship in Practice,University of Queensland,QLD
+TIMS7330,Startup Entrepreneurship In Practice,University of Queensland,QLD
+TIMS7331,Entrepreneurship Incubator,University of Queensland,QLD
+IBUS7302,Operating International Business,University of Queensland,QLD
+IBUS7306,Globalisation & the World Economy,University of Queensland,QLD
+IBUS7312,Doing Business in Asia,University of Queensland,QLD
+IBUS7314,Management Consulting in Asian Business,University of Queensland,QLD
+IBUS7315,Extended International Study,University of Queensland,QLD
+IBUS7316,International Supply Chains,University of Queensland,QLD
+IBUS7322,International Service Operations Management,University of Queensland,QLD
+MGTS7525,Business Dynamics,University of Queensland,QLD
+MGTS7329,Cross Cultural Management,University of Queensland,QLD
+MGTS7619,Leadership: Theory & Practice,University of Queensland,QLD
+MGTS7620,Leadership in Practice,University of Queensland,QLD
+MGTS7607,Ethical Issues in Management,University of Queensland,QLD
+ORGC7610,Communication and Organisation,University of Queensland,QLD
+MKTG7501,Fundamentals of Marketing,University of Queensland,QLD
+MKTG7512,Strategic Marketing Management,University of Queensland,QLD
+MKTG7502,Strategic Branding,University of Queensland,QLD
+MKTG7503,Consumer & Buyer Behaviour,University of Queensland,QLD
+MKTG7504,Service Strategy,University of Queensland,QLD
+MKTG7505,Product Strategy & Development,University of Queensland,QLD
+MKTG7510,Market & Consumer Research,University of Queensland,QLD
+MGTS7309,Decision Making & Reporting for Sustainability,University of Queensland,QLD
+MGTS7524,Sustainability Dynamics,University of Queensland,QLD
+"[	
+	IBUS7316",International Supply Chains,University of Queensland,QLD
+"[	
+	IBUS7322",International Service Operations Management,University of Queensland,QLD
+DENT7911,Clinical Sciences I,University of Queensland,QLD
+DENT7912,Clinical Sciences II,University of Queensland,QLD
+DENT8010,Advanced Clinical Practice IA,University of Queensland,QLD
+DENT8020,Advanced Clinical Practice IB,University of Queensland,QLD
+DENT8030,Advanced Clinical Practice IIA,University of Queensland,QLD
+DENT8040,Advanced Clinical Practice IIB,University of Queensland,QLD
+DENT8050,Advanced Clinical Practice IIIA,University of Queensland,QLD
+DENT8060,Advanced Clinical Practice IIIB,University of Queensland,QLD
+DENT8071,Data Collection & Analyses,University of Queensland,QLD
+DENT8072,Research Completion & Report,University of Queensland,QLD
+COMU7301,Communication Practice and Campaigns,University of Queensland,QLD
+COMU7302,Issues and Crisis Management,University of Queensland,QLD
+COMU7304,Digital Media Theory and Practice,University of Queensland,QLD
+COMU7500,Ethics and Law for Communicators,University of Queensland,QLD
+ACCT7106,Financial Statement Analysis,University of Queensland,QLD
+ECON7300,Statistics for Business & Economics,University of Queensland,QLD
+FINM7401,Finance,University of Queensland,QLD
+FINM7402,Corporate Finance,University of Queensland,QLD
+FINM7403,Portfolio Management,University of Queensland,QLD
+FINM7405,Financial Risk Management,University of Queensland,QLD
+FINM7406,International Financial Management,University of Queensland,QLD
+FINM7407,Financial Institutions and Markets,University of Queensland,QLD
+ACCT7101,Accounting,University of Queensland,QLD
+ACCT7102,Financial Accounting,University of Queensland,QLD
+ACCT7103,Auditing,University of Queensland,QLD
+ACCT7104,Corporate Accounting,University of Queensland,QLD
+ACCT7107,Management Accounting and Control,University of Queensland,QLD
+LAWS7012,Business Taxation,University of Queensland,QLD
+LAWS7023,Business and Corporate Law,University of Queensland,QLD
+COMU7000,Communication for Social Change,University of Queensland,QLD
+COMU7012,Communication and Social Movements,University of Queensland,QLD
+COMU7013,Participatory Development Communication,University of Queensland,QLD
+COMU7014,Community Informatics,University of Queensland,QLD
+EDUC7000,Dilemmas of Development: Risks of Youth,University of Queensland,QLD
+EDUC7001,On the Edge: Identifying and Assisting Students at Risk,University of Queensland,QLD
+EDUC7002,Promoting Positive Student Behaviour in Educational Contexts,University of Queensland,QLD
+EDUC7230,Working with Students with Challenging Behaviours,University of Queensland,QLD
+EDUC7014,Creating classrooms of the future with digital technologies across learning areas,University of Queensland,QLD
+EDUC7113,Multiliteracies and Numeracy Across Learning Areas,University of Queensland,QLD
+EDUC7114,Cross-curricular Perspectives,University of Queensland,QLD
+EDUC7117,"Curriculum, Pedagogy and Assessment",University of Queensland,QLD
+EDUC7008,Counselling in Professional Contexts: Helping Groups and Individuals,University of Queensland,QLD
+EDUC7010,"Proactive Interventions in Guidance, Counselling and Careers",University of Queensland,QLD
+EDUC7009,Career Guidance: Counselling for Life Planning,University of Queensland,QLD
+EDUC7052,Career Development In Practice: Constructing Careers,University of Queensland,QLD
+EDUC7007,Tasks & Tests: Individual Assessment,University of Queensland,QLD
+"[	
+	EDUC7011","Practicum in Guidance, Counselling and Careers",University of Queensland,QLD
+"[	
+	EDUC7012","Practicum in Guidance, Counselling and Careers",University of Queensland,QLD
+EDUC7060,Building Leadership Capacity: Bridging Theory and Practice in the Workplace,University of Queensland,QLD
+EDUC7100,Debates in Educational Leadership,University of Queensland,QLD
+EDUC7101,Meeting the Challenges of Educational Change,University of Queensland,QLD
+EDUC7103,"Work, Careers and Educational Leadership",University of Queensland,QLD
+EDUC7071,Psychology Curriculum: Design and Resources,University of Queensland,QLD
+EDUC7072,Psychology Curriculum: Professional Practice,University of Queensland,QLD
+PSYC7901,Psychology: Brain and Cognition,University of Queensland,QLD
+PSYC7902,Psychology: Individual and Social Behaviour,University of Queensland,QLD
+EDUC7019,Cognition and Learning,University of Queensland,QLD
+EDUC7205,Development in Multiple Contexts,University of Queensland,QLD
+EDUC7210,Teaching and Learning in Inclusive Settings,University of Queensland,QLD
+EDUC7220,Supporting Teachers and their Students with Learning Difficulties - Practicum,University of Queensland,QLD
+EDUC7240,"Assessment, Planning and Instruction",University of Queensland,QLD
+CHEE7409,Metabolic Engineering,University of Queensland,QLD
+CHEE7325,Biomaterials: Materials in Medicine,University of Queensland,QLD
+CHEE7408,Cell and Tissue Engineering,University of Queensland,QLD
+BIOC6007,Directed Studies in Biomolecular Structure & Function,University of Queensland,QLD
+BIOC6017,Introduction to the Molecular Biology Laboratory,University of Queensland,QLD
+WATR7108,Advanced Unit Operations in Water Management,University of Queensland,QLD
+ENGG7241,Engineering Project 4A,University of Queensland,QLD
+ENGG7242,Engineering Project 4A,University of Queensland,QLD
+ENGG7281,Engineering Project 8A,University of Queensland,QLD
+ENGG7282,Engineering Project 8A,University of Queensland,QLD
+ENGY7001,Climate Science and Policy,University of Queensland,QLD
+ENGY7002,Energy and Development,University of Queensland,QLD
+ENGY7003,Low Emission Technologies and Supply Systems,University of Queensland,QLD
+MATE7014,Advanced Materials Characterization,University of Queensland,QLD
+COMP7308,Operating Systems Architecture,University of Queensland,QLD
+COMS7201,Computer Networks I,University of Queensland,QLD
+CSSE7301,Embedded Systems Design & Interfacing,University of Queensland,QLD
+COMS7200,Computer Networks II,University of Queensland,QLD
+ELEC6403,Medical & Industrial Instrumentation,University of Queensland,QLD
+ELEC6601,Medical Imaging,University of Queensland,QLD
+ENGG7020,Systems Safety Engineering,University of Queensland,QLD
+METR7200,Control Engineering 1,University of Queensland,QLD
+ENGG7803,Engineering Postgraduate Project B,University of Queensland,QLD
+ENGG7804,Engineering Postgraduate Project B,University of Queensland,QLD
+ENGG7802,Engineering Postgraduate Project B,University of Queensland,QLD
+ENGG7806,Engineering Postgraduate Project D,University of Queensland,QLD
+ENGG7807,Engineering Postgraduate Project D,University of Queensland,QLD
+ENGG7808,Engineering Postgraduate Project D,University of Queensland,QLD
+ENGG7901,Professional Engineering and the Business Environment: Global Practice,University of Queensland,QLD
+ENGG7902,Engineering Innovation and Leadership,University of Queensland,QLD
+AERO7300,Aerospace Composites,University of Queensland,QLD
+CHEE7601,Nanomaterials,University of Queensland,QLD
+MATE7016,Materials for Energy Conversion and Storage,University of Queensland,QLD
+MECH7480,Computational Fluid Dynamics,University of Queensland,QLD
+ENGG7503,Well Test Analysis,University of Queensland,QLD
+ENGG7504,Reservoir Simulation,University of Queensland,QLD
+ENGG7505,Production Technology,University of Queensland,QLD
+ENGG7507,Petroleum Project Economics and Decision Making,University of Queensland,QLD
+ENGG7500,Geoscience for Petroleum Engineering,University of Queensland,QLD
+ENGG7501,Well Logging for Petroleum Engineers,University of Queensland,QLD
+ENGG7502,Reservoir Engineering,University of Queensland,QLD
+ENGG7506,Drilling Engineering,University of Queensland,QLD
+ENGG7508,Petroleum Eng Field Project,University of Queensland,QLD
+ENGG7509,Individual Project in Petroleum Engineering,University of Queensland,QLD
+COMP7505,Algorithms & Data Structures,University of Queensland,QLD
+COMP7702,Artificial Intelligence,University of Queensland,QLD
+COMS7003,Information Security,University of Queensland,QLD
+CSSE7001,The Software Process,University of Queensland,QLD
+INFS7202,Web Information Systems,University of Queensland,QLD
+INFS7208,Cloud Computing,University of Queensland,QLD
+INFS7907,Advanced Database Systems,University of Queensland,QLD
+COMP7402,Compilers and Interpreters,University of Queensland,QLD
+COMP7500,Advanced Algorithms & Data Structures,University of Queensland,QLD
+COMP7703,Machine Learning,University of Queensland,QLD
+COMS7507,Advanced topics in Security,University of Queensland,QLD
+DECO6500,Advanced Human-Computer Interaction,University of Queensland,QLD
+INFS7203,Data Mining,University of Queensland,QLD
+INFS7205,Advanced Techniques for High Dimensional Data,University of Queensland,QLD
+CSSE7100,Reasoning about Programs,University of Queensland,QLD
+"[	
+	ENGG7282",Engineering Project 8A,University of Queensland,QLD
+"[	
+	ENGG7241",Engineering Project 4A,University of Queensland,QLD
+MATH7501,Mathematics for Data Science 1,University of Queensland,QLD
+CSSE7030,Introduction to Software Engineering,University of Queensland,QLD
+CSSE7201,Introduction to Computer Systems,University of Queensland,QLD
+CHEE4002,Risk in Process Industries,University of Queensland,QLD
+"[	
+	ENGG7281",Engineering Project 8A,University of Queensland,QLD
+MATH7000,Calculus & Linear Algebra II,University of Queensland,QLD
+CHEE7501,Advanced Water Technology and Management,University of Queensland,QLD
+ENGY7000,Energy Principles and Renewable Energy,University of Queensland,QLD
+EIBS7302,Evidence Based Innovation: From Business Model To Business Plan,University of Queensland,QLD
+EIBS7303,Building Innovation Capability,University of Queensland,QLD
+EIBS7304,Entrepreneurial Leadership,University of Queensland,QLD
+EIBS7305,Commercialisation in Practice Project,University of Queensland,QLD
+EIBS7307,Lean Start Up,University of Queensland,QLD
+MGTS7310,Business Negotiation,University of Queensland,QLD
+MGTS7615,Public Sector Accountability,University of Queensland,QLD
+MGTS7616,Designing Public Policy,University of Queensland,QLD
+"[	
+	CIVL2135",Environmental Issues and Sustainability in Engineering,University of Queensland,QLD
+"[	
+	CIVL2410",Sustainable Transport Engineering - Traffic Analysis,University of Queensland,QLD
+"[	
+	CIVL3340",Structural Analysis,University of Queensland,QLD
+"[	
+	CIVL3141",Hydrology and Hydrological Risk,University of Queensland,QLD
+"[	
+	CIVL3420",Sustainable Transport Engineering - Planning and Design,University of Queensland,QLD
+"[	
+	CIVL2340",Design of Steel Structures,University of Queensland,QLD
+CIVL7500,Research Thesis[2],University of Queensland,QLD
+CIVL7501,Research Thesis[2],University of Queensland,QLD
+CIVL7511,Research Project,University of Queensland,QLD
+CIVL7512,Research Project,University of Queensland,QLD
+"[	
+	ENGG7807",Engineering Postgraduate Project D,University of Queensland,QLD
+"[	
+	ENGG7808",Engineering Postgraduate Project D,University of Queensland,QLD
+"[	
+	ENGG7803",Engineering Postgraduate Project B,University of Queensland,QLD
+"[	
+	ENGG7804",Engineering Postgraduate Project B,University of Queensland,QLD
+ENGY7210,Frontiers in Renewable Energy Technologies,University of Queensland,QLD
+MATH7052,Multivariate Calculus & Ordinary Differential Equations,University of Queensland,QLD
+MATH7051,Calculus & Linear Algebra I,University of Queensland,QLD
+"[	
+	CHEE2003",Fluid & Particle Mechanics,University of Queensland,QLD
+"[	
+	MECH2410",Fundamentals of Fluid Mechanics,University of Queensland,QLD
+CSSE7023,Advanced Software Engineering,University of Queensland,QLD
+"[	
+	ENGG7290",Engineering Placement Semester,University of Queensland,QLD
+ENVM7001,Foundations in Environmental Studies,University of Queensland,QLD
+ENVM7201,Catchment Processes & Management,University of Queensland,QLD
+ENVM7202,Resource Management & Environmental Planning,University of Queensland,QLD
+ENVH7001,Environmental Health Risk - Biological Hazards,University of Queensland,QLD
+FIRE7511,Research Thesis,University of Queensland,QLD
+FIRE7512,Research Thesis,University of Queensland,QLD
+FIRE7600,Introduction to Fire Safety Engineering,University of Queensland,QLD
+FIRE7610,Fire Engineering Design:Solutions for Implicit Safety,University of Queensland,QLD
+PLAN7901,Principles of Project Management,University of Queensland,QLD
+PLAN7902,Applications of Project Management,University of Queensland,QLD
+COMS7400,Photonics,University of Queensland,QLD
+ELEC7403,Medical & Industrial Instrumentation,University of Queensland,QLD
+ELEC7402,Advanced Electronic & Power Electronics Design,University of Queensland,QLD
+MGTS7610,Management Communication,University of Queensland,QLD
+BIOT7005,Business Planning in Biotechnology,University of Queensland,QLD
+BIOT7031,Quality Management Systems in Biotechnology,University of Queensland,QLD
+BIOT7033,Issues in Biotechnology,University of Queensland,QLD
+BISM7202,Information Systems for Management,University of Queensland,QLD
+DECO7110,Design Thinking,University of Queensland,QLD
+DECO7140,Introduction to Web Design,University of Queensland,QLD
+DECO7180,Design Computing Studio 1 - Interactive Technology,University of Queensland,QLD
+DECO7230,Digital Prototyping,University of Queensland,QLD
+AGRC7043,Agrifood Strategies and Competitiveness,University of Queensland,QLD
+AGRC7050,Agribusiness Value Chain Management,University of Queensland,QLD
+FOOD7006,Food Safety & Quality Management,University of Queensland,QLD
+FOOD7011,Principles of Food Preservation,University of Queensland,QLD
+FOOD7016,Food Sensory & Physical Assessment,University of Queensland,QLD
+FOOD7019,Food Product and Process Designs,University of Queensland,QLD
+MKTG7961,Agribusiness Marketing,University of Queensland,QLD
+POLS7107,"Globalisation, International Political Economy and Development",University of Queensland,QLD
+SOSC7288,Community Development: Local and International Practices,University of Queensland,QLD
+ENGY7200,"Energy Strategy, Innovation, and Entrepreneurship",University of Queensland,QLD
+ECON7530,International Trade & Investment,University of Queensland,QLD
+ECON7560,Globalisation and Economic Development,University of Queensland,QLD
+EVNT7050,International Event Issues and Strategies,University of Queensland,QLD
+HOSP7051,Global Hospitality Operations,University of Queensland,QLD
+HOSP7052,"Global Hotel, Resort and Casino Management",University of Queensland,QLD
+HOSP7053,Service Leadership in Hospitality,University of Queensland,QLD
+TOUR7053,Tourism in Developing Economies,University of Queensland,QLD
+ECON7310,Elements of Econometrics,University of Queensland,QLD
+ERTH7111,Ore Deposits & Exploration Geology,University of Queensland,QLD
+ERTH7301,Ore Body Modelling,University of Queensland,QLD
+ERTH7311,Exploration Geochemistry,University of Queensland,QLD
+ERTH7411,Basin Analysis in Exploration,University of Queensland,QLD
+ERTH7510,Geophysical Signal Processing,University of Queensland,QLD
+ERTH7520,Exploration Seismology,University of Queensland,QLD
+ERTH7611,Advanced Field Geology,University of Queensland,QLD
+ERTH7711,Advanced Structural Geology,University of Queensland,QLD
+GEOM7000,Introduction to Earth Observation Sciences (EOS),University of Queensland,QLD
+GEOM7005,Geographical Information Systems,University of Queensland,QLD
+ERTH7511,Gravity & Magnetic Exploration,University of Queensland,QLD
+ERTH7521,Electrical & Electromagnetic Exploration,University of Queensland,QLD
+ERTH6550,Industrial Applications of Exploration Geophysics,University of Queensland,QLD
+ENVM7305,Environmental Management in Mining,University of Queensland,QLD
+ERTH7102,Special Topics I,University of Queensland,QLD
+ERTH7103,Special Topics II,University of Queensland,QLD
+ERTH7104,Special Topics III,University of Queensland,QLD
+ERTH7105,Special Topics IV,University of Queensland,QLD
+GEOM7001,Advanced Earth Observation Sciences (EOS),University of Queensland,QLD
+GEOM7002,Advanced Geographical Information Systems,University of Queensland,QLD
+OHSS7000,Occupational Health and Safety,University of Queensland,QLD
+ERTH7000,Project or Thesis,University of Queensland,QLD
+ERTH7200,Project or Thesis,University of Queensland,QLD
+ERTH7001,Project or Thesis,University of Queensland,QLD
+ERTH7201,Project or Thesis,University of Queensland,QLD
+ERTH7101,Project or Thesis,University of Queensland,QLD
+PSYC7042,Child & Adolescent Behavioural Assessment & Therapy,University of Queensland,QLD
+PSYC7112,Assessment in Psychological Practice,University of Queensland,QLD
+PSYC7191,Clinical Psychopathology,University of Queensland,QLD
+PSYC7211,Clinical Skills,University of Queensland,QLD
+PSYC7231,Ethical Practice and Research Approaches,University of Queensland,QLD
+PSYC7251,Evidence-based Psychotherapies,University of Queensland,QLD
+PSYC8010,Dissertation,University of Queensland,QLD
+PSYC8111,Advanced Clinical Health Psychology,University of Queensland,QLD
+PSYC8161,Functional Neuroanatomy and Cognitive Disorders,University of Queensland,QLD
+PSYC8171,Clinical Neuropsychology,University of Queensland,QLD
+PSYC8181,Advanced Clinical Neuropsychology and Neurorehabilitation,University of Queensland,QLD
+PSYC8291,Applied Gerontology,University of Queensland,QLD
+PSYC8301,Internship and Professional Practice 1,University of Queensland,QLD
+PSYC8302,Internship and Professional Practice 2,University of Queensland,QLD
+PSYC8320,Externship Placement 1,University of Queensland,QLD
+PSYC8330,Externship Placement 2,University of Queensland,QLD
+PSYC8340,Externship Placement 3,University of Queensland,QLD
+PSYC7052,Behavioural Family Intervention,University of Queensland,QLD
+PSYC7241,Acceptance and Commitment Therapy,University of Queensland,QLD
+PSYC8191,Clinical Leadership and Supervision,University of Queensland,QLD
+PSYC7261,Addiction Science and Practice,University of Queensland,QLD
+PSYC7804,Couples Therapy,University of Queensland,QLD
+PSYC8018,Rehabilitation Psychology,University of Queensland,QLD
+COUN7006,Advanced Interpersonal Skills,University of Queensland,QLD
+PSYC7806,Working with Children and Young People in Therapy,University of Queensland,QLD
+PSYC7810,Applied Psychology Placement A,University of Queensland,QLD
+PSYC7850,Counselling Placement B,University of Queensland,QLD
+PSYC7860,Counselling Placement D,University of Queensland,QLD
+COUN7019,Counselling for Crisis and Violence,University of Queensland,QLD
+PSYC7807,Understanding and Caring for Those Affected by Loss,University of Queensland,QLD
+PSYC7808,Clinical Health Approaches,University of Queensland,QLD
+SWSP7267,Family Therapy Traditions: Basic Concepts and Skills,University of Queensland,QLD
+PSYC7830,Clinical Health Placement B,University of Queensland,QLD
+PSYC7840,Health Promotion Placement D,University of Queensland,QLD
+PSYC8017,Public Health Psychology,University of Queensland,QLD
+"[	
+	PUBH7035",Health Promotion Planning,University of Queensland,QLD
+"[	
+	PUBH7036",Health Promotion Implementation and Evaluation,University of Queensland,QLD
+PSYC7424,Job & Organisational Design,University of Queensland,QLD
+PSYC7454,Advanced Organisational Psychology,University of Queensland,QLD
+PSYC7464,Organisational Change: Theory & Practice,University of Queensland,QLD
+PSYC7484,Advanced Personnel Training,University of Queensland,QLD
+PSYC7524,Organisational Psychology Practicum A,University of Queensland,QLD
+PSYC7544,Organisational Psychology Practicum C,University of Queensland,QLD
+PSYC7554,Organisational Psychology Practicum D,University of Queensland,QLD
+PSYC7594,Motivating & Leading in the Workplace,University of Queensland,QLD
+PHYL6000,"Sport Science (Anatomy, Biomechanics, Physiology)",University of Queensland,QLD
+PSYC7725,Psychological Skills Training Techniques in Sport,University of Queensland,QLD
+PSYC7745,Sport Psychology Placement B,University of Queensland,QLD
+PSYC7755,Sport Psychology Placement D,University of Queensland,QLD
+PSYC7775,Introduction to Applied Practice in Sport & Exercise Psychology,University of Queensland,QLD
+PUBH7035,Health Promotion Planning,University of Queensland,QLD
+PUBH7036,Health Promotion Implementation and Evaluation,University of Queensland,QLD
+PUBH7000,Public Health Research Methods,University of Queensland,QLD
+PUBH7027,Introduction to Environmental Health,University of Queensland,QLD
+PUBH7034,Health Promotion in Public Health,University of Queensland,QLD
+PUBH7614,Health Systems,University of Queensland,QLD
+PUBH7620,Social Perspectives in Public Health,University of Queensland,QLD
+PUBH7113,Global Health & Development,University of Queensland,QLD
+PUBH7645,Global Health Policy in Practice,University of Queensland,QLD
+PHTY7941,Advanced Musculoskeletal Physiotherapy Practice,University of Queensland,QLD
+PHTY7942,Advanced Musculoskeletal Physiotherapy Clinical Science,University of Queensland,QLD
+PHTY7943,Clinical Practicum in Advanced Musculoskeletal Physiotherapy,University of Queensland,QLD
+PHTY7947,Research in Sports and Musculoskeletal Physiotherapy,University of Queensland,QLD
+PHTY7944,Sports Physiotherapy Practice,University of Queensland,QLD
+PHTY7945,Sports Physiotherapy Clinical Science,University of Queensland,QLD
+PHTY7946,Clinical Practicum in Sports Physiotherapy,University of Queensland,QLD
+PUBH7120,Public Health Practice,University of Queensland,QLD
+PUBH7900,Project,University of Queensland,QLD
+PUBH7901,Project (Part Time),University of Queensland,QLD
+PUBH7902,Project (Part Time),University of Queensland,QLD
+PUBH7044,Public Health Professional Placement,University of Queensland,QLD
+MINE7053,Sustainable Development in the Resources Sector,University of Queensland,QLD
+MINE7023,Community Development for the Resources Sector,University of Queensland,QLD
+MINE7024,Community Engagement for the Resources Sector,University of Queensland,QLD
+MINE7052,Community Aspects in Resource Development,University of Queensland,QLD
+MINE7061,Sustainable Development in the Resources Sector - Tools and Integration,University of Queensland,QLD
+ENVM7100,Foundations of Sustainable Development,University of Queensland,QLD
+ENVM7123,Regulatory Frameworks for Environmental Management & Planning,University of Queensland,QLD
+ENVM7513,Environment & Community,University of Queensland,QLD
+MINE7032,Sustainable Management of Risk in Industry,University of Queensland,QLD
+MINE7033,Resources Sector Risk Management,University of Queensland,QLD
+MINE7035,Special Project in the Resources Sector,University of Queensland,QLD
+MINE7055,Regional and Local Economic Development in the Resources Sector,University of Queensland,QLD
+MINE7056,Research Methods for the Resources Sector,University of Queensland,QLD
+MGTS7968,Rural Community Development[3],University of Queensland,QLD
+MGTS7976,Effective Stakeholder Engagement,University of Queensland,QLD
+PLAN7612,Global South Cities: Development planning theory and practice,University of Queensland,QLD
+PLAN7121,Community Planning & Participation,University of Queensland,QLD
+POLS7101,Dynamics of Governance,University of Queensland,QLD
+SOCY7190,Evaluating Social Programs,University of Queensland,QLD
+ENVM7003,Applied Research Methods,University of Queensland,QLD
+MINE7009,Project or Thesis V,University of Queensland,QLD
+MINE7010,Thesis,University of Queensland,QLD
+MINE7029,Project or Thesis V,University of Queensland,QLD
+ENVM7405,Managing Post-Mining Landscapes: Land Rehabilitation in the Mining Industry,University of Queensland,QLD
+MINE7050,Water Management in the Resources Sector,University of Queensland,QLD
+CONS7008,Sampling Design and Analysis in Conservation Science,University of Queensland,QLD
+MINE7041,Mine Occupational Health & Safety Management,University of Queensland,QLD
+HUFA7502,Human Centred Design in the Resources Industry,University of Queensland,QLD
+MINE7042,Incident Investigation & Analysis,University of Queensland,QLD
+MATH7010,Project or Thesis,University of Queensland,QLD
+MATH7011,Project or Thesis,University of Queensland,QLD
+MATH7012,Project or Thesis,University of Queensland,QLD
+MATH7013,Minor Project A,University of Queensland,QLD
+MATH7014,Minor Project B,University of Queensland,QLD
+MATH7015,Mini Project A,University of Queensland,QLD
+MATH7016,Mini Project B,University of Queensland,QLD
+COSC7502,High-Performance Computing,University of Queensland,QLD
+MATH7039,Financial Mathematics,University of Queensland,QLD
+MATH7049,Computation in Financial Mathematics,University of Queensland,QLD
+MATH7091,Financial Calculus,University of Queensland,QLD
+MATH7105,General Relativity,University of Queensland,QLD
+MATH7106,Advanced Mathematical Methods & Models A,University of Queensland,QLD
+MATH7107,Advanced Mathematical Methods & Models B,University of Queensland,QLD
+MATH7133,Algebraic Methods of Mathematical Physics,University of Queensland,QLD
+MATH7134,Mathematical Biology,University of Queensland,QLD
+MATH7144,Advanced Hamiltonian Dynamics & Chaos,University of Queensland,QLD
+MATH7201,Applications of Scientific Computing,University of Queensland,QLD
+MATH7202,Advanced Topics in Operations Research,University of Queensland,QLD
+MATH7232,Operations Research & Mathematical Planning,University of Queensland,QLD
+MATH7301,Advanced Algebra,University of Queensland,QLD
+MATH7302,Combinatorial Designs,University of Queensland,QLD
+MATH7303,Advanced Combinatorics,University of Queensland,QLD
+MATH7304,Number Theory,University of Queensland,QLD
+MATH7331,Graph Theory and Design Theory,University of Queensland,QLD
+MATH7333,Abstract Algebra & Number Theory,University of Queensland,QLD
+MATH7402,Advanced Ordinary Differential Equations,University of Queensland,QLD
+MATH7403,Advanced Partial Differential Equations,University of Queensland,QLD
+MATH7404,Functional Analysis,University of Queensland,QLD
+MATH7405,Measure Theory,University of Queensland,QLD
+MATH7406,Control Theory,University of Queensland,QLD
+MATH7701,Special Topics I,University of Queensland,QLD
+MATH7702,Special Topics II,University of Queensland,QLD
+MATH7703,Special Topics III,University of Queensland,QLD
+MATH7704,Special Topics IV,University of Queensland,QLD
+STAT7301,Mathematical Statistics,University of Queensland,QLD
+STAT7304,Probability Models & Stochastic Processes I,University of Queensland,QLD
+STAT7502,Advanced Statistics I,University of Queensland,QLD
+STAT7503,Advanced Statistics II,University of Queensland,QLD
+STAT7504,Advanced Probability & Stochastic Processes I,University of Queensland,QLD
+STAT7505,Advanced Probability & Stochastic Processes II,University of Queensland,QLD
+STAT7701,Special Topics I,University of Queensland,QLD
+STAT7702,Special Topics II,University of Queensland,QLD
+STAT7703,Special Topics III,University of Queensland,QLD
+COSC7500,Numerical Methods in Computational Science,University of Queensland,QLD
+MATH7100,Applied Mathematical Analysis,University of Queensland,QLD
+MATH7307,Linear & Abstract Algebra & Number Theory,University of Queensland,QLD
+MATH7308,Discrete Mathematics II,University of Queensland,QLD
+STAT7003,Mathematical Probability,University of Queensland,QLD
+PHYS7712,Project A,University of Queensland,QLD
+PHYS7713,Project B,University of Queensland,QLD
+PHYS7722,Research Project A,University of Queensland,QLD
+PHYS7723,Research Project B,University of Queensland,QLD
+PHYS7730,Advanced Research Project,University of Queensland,QLD
+PHYS7731,Advanced Research Project,University of Queensland,QLD
+PHYS7732,Advanced Research Project,University of Queensland,QLD
+PHYS7743,Extended Research Project,University of Queensland,QLD
+PHYS7744,Extended Research Project,University of Queensland,QLD
+PHYS7745,Extended Research Project,University of Queensland,QLD
+PHYS7002,Special Topics in Physics,University of Queensland,QLD
+PHYS7004,Special Topics in Physics,University of Queensland,QLD
+PHYS7021,Statistical Mechanics,University of Queensland,QLD
+PHYS7033,Condensed Matter Physics: Electronic properties of crystals,University of Queensland,QLD
+PHYS7042,Quantum Physics,University of Queensland,QLD
+PHYS7055,Laser Physics & Quantum Optics,University of Queensland,QLD
+PHYS7073,Computational Physics,University of Queensland,QLD
+PHYS7080,Extragalactic Astrophysics & Cosmology,University of Queensland,QLD
+PHYS7241,Advanced Quantum Theory,University of Queensland,QLD
+PHYS7250,Fields in Physics,University of Queensland,QLD
+PHYS7270,Advanced Computational Physics,University of Queensland,QLD
+PHYS7280,Frontiers in Astrophysics,University of Queensland,QLD
+PHYS7825,Advanced Experimental Skills,University of Queensland,QLD
+PHYS7900,Perspectives in Physics Research,University of Queensland,QLD
+PHYS7141,Introduction to Quantum Mechanics,University of Queensland,QLD
+PHYS7120,Thermodynamics & Condensed Matter Physics,University of Queensland,QLD
+PHYS7155,Introduction to Fields in Physics,University of Queensland,QLD
+PHYS7200,"Dynamics, Chaos & Special Relativity",University of Queensland,QLD
+STAT7010,Project or Thesis I,University of Queensland,QLD
+STAT7011,Project or Thesis I,University of Queensland,QLD
+STAT7013,Project or Thesis I,University of Queensland,QLD
+STAT7014,Minor Project A,University of Queensland,QLD
+STAT7015,Minor Project B,University of Queensland,QLD
+STAT7016,Mini Project A,University of Queensland,QLD
+STAT7017,Mini Project B,University of Queensland,QLD
+STAT7306,Statistical Analysis of Genetic Data,University of Queensland,QLD
+STAT7500,Problems and Applications in Modern Statistics,University of Queensland,QLD
+STAT7602,Health Indicators & Health Surveys,University of Queensland,QLD
+STAT7603,Data Management & Statistical Computing,University of Queensland,QLD
+STAT7605,Clinical Biostatistics,University of Queensland,QLD
+STAT7606,Design of Randomised Controlled Trials,University of Queensland,QLD
+STAT7608,Categorical Data & Generalised Linear Models,University of Queensland,QLD
+STAT7609,Survival Analysis,University of Queensland,QLD
+STAT7610,Longitudinal & Correlated Data,University of Queensland,QLD
+STAT7611,Bioinformatics,University of Queensland,QLD
+STAT7612,Advanced Clinical Trials,University of Queensland,QLD
+STAT7613,Bayesian Statistical Methods,University of Queensland,QLD
+STAT7203,Applied Probability & Statistics,University of Queensland,QLD
+EVNT7051,Event Planning & Project Management,University of Queensland,QLD
+EVNT7052,"Event Marketing, Sponsorship & Fundraising",University of Queensland,QLD
+EVNT7053,"Event Design, Staging & Production",University of Queensland,QLD
+HOSP7050,Designing Food and Beverage Experiences,University of Queensland,QLD
+TOUR7050,Special Interest Tourism,University of Queensland,QLD
+TOUR7051,Destination Management & Marketing,University of Queensland,QLD
+TOUR7052,Travel Distribution and Transport Systems,University of Queensland,QLD
+BIOC6006,Directed Studies in Molecular Genetics,University of Queensland,QLD
+VETS7704,Veterinary Diagnostic Laboratory Techniques,University of Queensland,QLD
+VETS7709,Diagnostic Pathology,University of Queensland,QLD
+VETS7711,Pathology of Diseases of Australian Wildlife,University of Queensland,QLD
+"[	
+	FINM2400",Managerial Finance,University of Queensland,QLD
+"[	
+	FINM2401",Financial Management,University of Queensland,QLD
+"[	
+	IBUS2302",Globalisation & Business,University of Queensland,QLD
+"[	
+	IBUS3303",Global Production and Logistics,University of Queensland,QLD
+"[	
+	BIOC3000",Advanced Biochemistry and Molecular Biology,University of Queensland,QLD
+"[	
+	CHEM3001",Advanced Organic Chemistry,University of Queensland,QLD
+"[	
+	BIOM3402",Experimental Pharmacology,University of Queensland,QLD
+"[	
+	CHEM3016",Advanced Experimental Chemistry,University of Queensland,QLD
+"[	
+	CHEM3010",Advanced Inorganic Chemistry,University of Queensland,QLD
+COMU3801,Communication Internship,University of Queensland,QLD
+COMU3015,Public Interest Communication,University of Queensland,QLD
+COMU3130,Public Relations Project,University of Queensland,QLD
+COMU3140,Issues and Stakeholder Engagement,University of Queensland,QLD
