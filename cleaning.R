@@ -47,9 +47,13 @@ grif <- grif %>%
 
 # La Trobe
 CapStr <- function(y) {
-  c <- str_split(y, " ")[[1]]
-  paste(toupper(substring(c, 1,1)), substring(c, 2),
-        sep="", collapse=" ")
+  export <- c()
+  for (yy in y) {
+    c <- str_split(yy, " ")[[1]]
+    export <- c(export, paste(toupper(substring(c, 1,1)), substring(c, 2),
+                              sep="", collapse=" "))
+  }
+  return(export)
 }
 
 latrobe <- read_csv("./data-cleaning/la-trobe.csv", col_names = c("code", "title"))
