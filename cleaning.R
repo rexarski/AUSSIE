@@ -207,6 +207,27 @@ uq <- read_csv("./data-cleaning/uq.csv")
 rm(CapStr)
 
 dfs <- bind_rows(do.call("rbind", lapply(ls(),get)))
-write(toJSON(dfs, pretty = F), "aus-uni.json")
-write_delim(dfs, delim=",", "aus-uni.csv")
+# write(toJSON(dfs, pretty = F), "aus-uni.json")
 
+unique(dfs$state)
+which(dfs$state=="AGEN3005") #8515
+which(dfs$state=="Flavour and Sensory Analysis") #45323
+dfs[8510:8520,]
+dfs[45320:45325,]
+dfs <- dfs[-c(which(dfs$state=="AGEN3005"), 
+              which(dfs$state=="Flavour and Sensory Analysis")),]
+unique(dfs$state)
+unique(dfs$uni)
+
+dfs %>%
+  filter(str_detect(title, "\\["))
+which(str_detect(dfs$title, "\\["))
+dfs <- dfs[-51512,]
+
+dfs %>%
+  filter(str_detect(title, "\\]"))
+
+dfs %>%
+  filter(str_detect(title, "\b{2}+"))
+
+write_delim(dfs, delim=",", "aus-uni.csv")
