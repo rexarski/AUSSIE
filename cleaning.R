@@ -159,7 +159,7 @@ vu <- read_csv("./data-cleaning/victoria.csv") %>%
 wlg <- read_csv("./data-cleaning/wollongong.csv") %>%
   select(code, title) %>%
   distinct(code, title, .keep_all = TRUE) %>%
-  mutate(uni="Wollongong University",
+  mutate(uni="University of Wollongong",
          state="NSW")
 
 # ANU
