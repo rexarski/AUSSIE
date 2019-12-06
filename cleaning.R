@@ -230,4 +230,31 @@ dfs %>%
 dfs %>%
   filter(str_detect(title, "\b{2}+"))
 
+filter(dfs, str_detect(code, "\t"))
+filter(dfs, str_detect(code, "\r"))
+filter(dfs, str_detect(code, "\n"))
+filter(dfs, str_detect(code, "\\["))
+filter(dfs, str_detect(code, "\\]"))
+
+dfs$code <- gsub('[\r\n\t\\[]', '', dfs$code)
+
+filter(dfs, str_detect(title, "\t"))
+filter(dfs, str_detect(title, "\r"))
+filter(dfs, str_detect(title, "\n"))
+filter(dfs, str_detect(title, "\\["))
+filter(dfs, str_detect(title, "\\]"))
+
+# unique(dfs$state)
+filter(dfs, str_detect(title, '"'))
+dfs$title <- gsub('[\r\n\t\\[\"]', '', dfs$title)
+# dfs$title <- gsub('[\x96]', '', dfs$title)
+
+dfs$title <- gsub("[^\x20-\x7E]", "", dfs$title)
+filter(dfs, str_detect(title, '_'))
+dfs$title <- gsub('_', '', dfs$title)
+filter(dfs, str_detect(title, '  '))
+dfs$title <- gsub('  ', ' ', dfs$title)
+filter(dfs, str_detect(code, ' '))
+dfs$code <- gsub(' ', '', dfs$code)
+
 write_delim(dfs, delim=",", "aus-uni.csv")
