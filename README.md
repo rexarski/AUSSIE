@@ -110,6 +110,10 @@ Error: 	 Summary: NoSuchElement
 
 Turns out loading JavaScript takes a while on their webiste. Adding some downtime to each click on the web would be a nice solution.
 
+#### Update on 2019-12-13
+
+At some point, the data on this site has been changed. So I wrote a new crawler to replace the previous one. But still, Selenium was utilized during this process.
+
 ### University of New South Wales
 
 The only thing worth mentioning is different subject pages might contain different number of "sections". Some area of subject has three sections: *undergraduate, postgraduate* and *research*. But some only has one.

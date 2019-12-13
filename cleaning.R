@@ -180,19 +180,12 @@ melb <- read_csv("./data-cleaning/umel.csv") %>%
          state="VIC")
 
 # Sydney
-usyd <- read_csv("./data-cleaning/usyd.csv") %>%
-  unlist() %>%
-  str_split("\\s{2,}") %>%
-  unlist()
-usyd <- usyd[c(T,F)]
-usyd <- as.vector(t(str_match(usyd, '(.*)-(.*)') [,-1])) # this is mesmerizing
-usyd <- str_trim(usyd)
-code <- usyd[c(F,T)]
-title <- usyd[c(T,F)]
-usyd <- tibble(code=code, title=title) %>%
-  distinct(code, title) %>%
-  mutate(uni="University of Sydney",
-         state="NSW")
+usyd <- read_csv("./data-cleaning/usyd.csv")
+(dupli <- usyd[duplicated(usyd) | duplicated(usyd, fromLast=TRUE), ] %>%
+  arrange(desc(code)))
+usyd <- usyd %>%
+  distinct(code, title, uni, state)
+rm(dupli)
 
 # UNSW
 unsw <- read_csv("./data-cleaning/unsw.csv") %>%
@@ -210,19 +203,21 @@ dfs <- bind_rows(do.call("rbind", lapply(ls(),get)))
 # write(toJSON(dfs, pretty = F), "aus-uni.json")
 
 unique(dfs$state)
-which(dfs$state=="AGEN3005") #8515
-which(dfs$state=="Flavour and Sensory Analysis") #45323
-dfs[8510:8520,]
-dfs[45320:45325,]
-dfs <- dfs[-c(which(dfs$state=="AGEN3005"), 
-              which(dfs$state=="Flavour and Sensory Analysis")),]
+# which(dfs$state=="AGEN3005") #8515
+# which(dfs$state=="Flavour and Sensory Analysis") #45323
+# dfs[8510:8520,]
+# dfs[45320:45325,]
+# dfs <- dfs[-c(which(dfs$state=="AGEN3005"), 
+#               which(dfs$state=="Flavour and Sensory Analysis")),]
 unique(dfs$state)
 unique(dfs$uni)
 
+dfs <- na.omit(dfs)
+
 dfs %>%
   filter(str_detect(title, "\\["))
-which(str_detect(dfs$title, "\\["))
-dfs <- dfs[-51512,]
+(anomaly <- which(str_detect(dfs$title, "\\[")))
+dfs <- dfs[-anomaly[1],]
 
 dfs %>%
   filter(str_detect(title, "\\]"))
