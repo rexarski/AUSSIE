@@ -1,3 +1,7 @@
+# UPDATE WITH "TRIAL SCRAPE": IF DID NOT GET IT, SCRAPE IT AGAIN.
+# "Manual try-catch"
+# Drawback: if a page has nothing to scrape indeed, then we are gonna have a dead loop; but we will find it out anyway.
+
 library(tidyverse)
 library(rvest)
 library(RSelenium)
@@ -47,14 +51,21 @@ while (i <= page_limit) {
       'uni'=rep('University of Sydney', length(code)),
       'state'=rep('NSW', length(code))))
   
-  message(paste0("Page: ", i))
+  message(paste0("Page: ", i, ", number of units: ", length(code)))
+  
+  
   if (i %% 25 == 0) {
-    message("sleep for 0.2 seconds...")
-    Sys.sleep(0.2)
+    message("sleep for 2 seconds...")
+    Sys.sleep(2)
   }
-  i <- i + 1
+  
+  if (length(code)==0) {
+    message("Retrying...")
+    Sys.sleep(3)
+  } else {
+    i <- i + 1
+  }
 }
-
 
 write_delim(output, delim=",", "./data-cleaning/usyd.csv")
 

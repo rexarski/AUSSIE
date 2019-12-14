@@ -24,7 +24,7 @@ docker stop [container_id]
   
 - [x] [ANU](https://programsandcourses.anu.edu.au/catalogue)
 - [x] [University of Melbourne](https://handbook.unimelb.edu.au/search?types%5B%5D=subject&year=2019&level_type%5B%5D=all&campus_and_attendance_mode%5B%5D=all&org_unit%5B%5D=all&page=1&sort=_score%7Cdesc)
-- [x] [University of Sydney](https://sydney.edu.au/courses/search.html)
+- [x] [University of Sydney](https://sydney.edu.au/courses/search.html), [source 2](https://www.timetable.usyd.edu.au/uostimetables/2020/)
 - [x] [University of New South Wales](http://timetable.unsw.edu.au/2020/subjectSearch.html)
 - [x] [University of Queensland](https://my.uq.edu.au/programs-courses/browse.html?level=ugpg) 
 - [x] [Monash University](http://www.monash.edu/pubs/2019handbooks/units/index-bycode.html)
@@ -108,11 +108,17 @@ Error: 	 Summary: NoSuchElement
 
 #### Day 2
 
-Turns out loading JavaScript takes a while on their webiste. Adding some downtime to each click on the web would be a nice solution.
+Turns out loading JavaScript takes a while on their website. Adding some downtime to each click on the web would be a nice solution.
 
 #### Update on 2019-12-13
 
 At some point, the data on this site has been changed. So I wrote a new crawler to replace the previous one. But still, Selenium was utilized during this process.
+
+But the problem still remains as some pages contain "nothing" to scrape. Eventually, I came up with a potential solution of a manual "try-catch": if nothing is scraped, repeat until something is retrieved.
+
+#### Update on 2019-12-14
+
+It is quite weird that none of the financial units could be seen in the list, but they were de facto existing in the search result. In order to jump out of this paradox, I found another page which only contains html table in it. I scraped it and took the union of today's data and the previous one. Done.
 
 ### University of New South Wales
 

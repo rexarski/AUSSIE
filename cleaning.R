@@ -181,11 +181,13 @@ melb <- read_csv("./data-cleaning/umel.csv") %>%
 
 # Sydney
 usyd <- read_csv("./data-cleaning/usyd.csv")
+usyd2 <- read_csv("./data-cleaning/usyd2.csv")
 (dupli <- usyd[duplicated(usyd) | duplicated(usyd, fromLast=TRUE), ] %>%
   arrange(desc(code)))
-usyd <- usyd %>%
+usyd <- bind_rows(usyd, usyd2) %>%
   distinct(code, title, uni, state)
 rm(dupli)
+rm(usyd2)
 
 # UNSW
 unsw <- read_csv("./data-cleaning/unsw.csv") %>%
