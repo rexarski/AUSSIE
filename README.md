@@ -41,6 +41,7 @@ docker stop [container_id]
 - [x] [University of Newcastle](https://www.newcastle.edu.au/course)
 - [x] [University of Wollongong](https://solss.uow.edu.au/sid/cal.USER_CALENDAR_SELECT_SCREEN?p_cal_types=UP&p_breadcrumb_type=1&p_menu_type=1&p_cs=8794042783047766832)
 - [x] [University of Sunshine Coast](https://www.usc.edu.au/learn/courses-and-programs/courses/search-for-usc-courses?courseCode=&keyword=&teachingPeriodOfOffer=Semester+1&school=&offeredLocations=&submit=Search&searchType=coursesonly#coursesonly)
+- [x] [Macquarie University](https://coursehandbook.mq.edu.au/)
 
 **Data from the following unis are scraped by my colleague:
 
@@ -48,7 +49,6 @@ docker stop [container_id]
 - University of Canberra
 - Queensland University of Technology
 - La Trobe University
-- Macquarie University
 - [University of Tasmania](https://www.utas.edu.au/courses/unit-search?query=&collection=handbook-meta&clive=handbook-units&sort=&meta_B_and=&meta_A_and=&meta_F_phrase_and=&meta_M_phrase_and=&meta_J_phrase_and=&meta_unitYear=2020&meta_D_phrase_and=&meta_U_phrase_and=&meta_N_phrase_and=&meta_E_phrase_and=&meta_V_phrase_and=)
 
 ## Comments
@@ -164,6 +164,10 @@ The next step is to deal with json file ;)
 ### USC
 
 Search results only contain top 50 out of all results. :( Why? It's impossible to extract all data if the data itself is kept secret.
+
+### Macquarie University
+
+2020-05-01. The unit codes grew from 3 digits to 4 digits earlier this year. All data are updated accordingly.
 
 ## Useful Links
 
